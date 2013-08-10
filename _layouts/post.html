@@ -1,9 +1,32 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-{{ content }}
-</div>
+<div class="format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
+  <article class="entry">
+    <div class="contain">   
+      {% if page.custom_type == 'post' %}
+        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
+        <h2>{{ page.title }}</h2>
+        {{ content }}
+        
+      {% elsif page.custom_type == 'link' %}
+        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
+        <h2>
+         <a href="{{ page.custom_url }}" target="_blank">{{ page.title }}</a>
+        </h2>
+        {{ content }}
+        
+      {% elsif page.custom_type == 'video' %}
+        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
+        
+        <h2>{{ page.title }}</h2>
+         
+        <iframe src="http://player.vimeo.com/video/{{ page.vimeo }}" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>        
+          
+        <p>{{ content }}</p>
+
+      {% endif %}  
+    </div><!-- .contain -->
+  </article>
+ </div>

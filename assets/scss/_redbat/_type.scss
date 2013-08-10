@@ -31,7 +31,8 @@ BASE TYPE
 body {
 	font-size: 110%;
 	line-height: 140%;
-	// color: $bodyColor;
+	color: $darkColor;
+	@extend %sans;
 }
 
 // TYPE SIZE VARIABLES
@@ -53,9 +54,9 @@ $text-size-xl: 2em;
 FONTS
 ------------------------------------------- */
 
-// %sans {
-// 	font-family: ;
-// }
+%sans {
+	font-family: "source-sans-pro",sans-serif;
+}
 
 // %serif {
 // 	font-family: ;
@@ -72,6 +73,35 @@ HEADINGS
 
 TEXT
 ------------------------------------------- */
+
+.column__content {
+  margin: 5% 0 0;
+  p {
+    font-size: 1.1em;
+    line-height: 160%;
+    margin: 0 0 3.125% 10%;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  h2 {
+    margin: 0 0 3.5% 10%;
+    line-height: 125%;
+  }
+  h3 {
+    color: lighten($darkColor, 10%);
+    margin: 5% 0 2% 10%;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+}
+
+p.pubdate {
+  color: lighten($darkColor, 40%);
+  font-size: .85em;
+  font-weight: bold;
+  margin: 0 0 4% 10%;
+}
 
 
 /*
@@ -100,15 +130,15 @@ HR
 ------------------------------------------- */
 
 hr {
-	// border: solid $borderColor;
-	border-width: 5px 0 0;
-	clear: both;
-	// margin: $spacing-m auto;
-	height: 0;
-	width: auto;
-	max-width: 350px;
-	display: block;
-	padding: 0;
+  border: solid $borderColor;
+  border-width: 5px 0 0;
+  clear: both;
+  margin: 35px auto;
+  height: 0;
+  width: auto;
+  max-width: 350px;
+  display: block;
+  padding: 0;
 }
 
 
@@ -117,15 +147,27 @@ hr {
 LINKS
 ------------------------------------------- */
 
+a {
+  color: $darkColor;
+  border-bottom: 1px solid darken($borderColor, 10%);
+  @include transition(.2s ease-in-out);
+  &:hover {
+    border-bottom: 1px solid $linkColor;
+  }
+}
 
 /*
 
 ICON FONT
 ------------------------------------------- */
+@include embed-font("Entypo", "../fonts/icon-font/entypo");
+%icon-font {
+	font-family: "Entypo";
+}
 
 [data-icon]:before {
   content: attr(data-icon);
-  // @include iconfont;
+  @extend %icon-font;
   speak: none;
   vertical-align: top;
 }

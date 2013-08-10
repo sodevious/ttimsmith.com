@@ -1,0 +1,61 @@
+/*
+
+MAIN CONTENT
+------------------------------------------- */
+
+.entry {
+  border-bottom: 1px solid $borderColor;
+  padding: 4.5% 0;
+  &:first-child {
+  	padding-top: 0;
+  }
+  @media screen and (max-width: 800px ) {
+    padding: 6.5% 0;
+  }
+}
+
+
+// Format Standard 
+
+.format-standard {
+  h2 {
+    font-size: 2em;
+    font-weight: 800;
+    a {
+      border-bottom: none;
+      color: $darkColor;
+      font-weight: 800;
+      &:hover {
+        color: $linkColor;
+        border-bottom: none;
+      }
+    }
+  }
+  p:nth-child(3) {
+    font-size: 1.3em;
+  }
+}
+
+// Format Link
+.format-link {
+  h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 165%;
+  }
+  span {
+    vertical-align: middle;
+  }
+}
+
+.link__icon {
+  border-bottom: none !important;
+  margin: 0 0 0 10px;
+  font-size: .85em;
+  font-weight: normal !important;
+  vertical-align: middle;
+  color: lighten($darkColor, 40%) !important;
+  &:hover {
+    color: $linkColor !important;
+  }
+}

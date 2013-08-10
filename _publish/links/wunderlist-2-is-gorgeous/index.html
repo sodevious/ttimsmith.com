@@ -1,61 +1,88 @@
 <!DOCTYPE html>
 <html>
     <head>
+
+        <!-- 
+
+        @@@@@@@@@@@@@@@@@  @@@   @@@          @@@ 
+        @@@@@@@@@@@@@@@@@  @@@   @@@@        @@@@
+               @@@         @@@   @@@ @      @ @@@
+               @@@         @@@   @@@  @@  @@  @@@
+               @@@         @@@   @@@   @@@    @@@
+               @@@         @@@   @@@          @@@
+               @@@         @@@   @@@          @@@
+               @@@         @@@   @@@          @@@
+
+        How much does a polar bear weigh? Just enough to break the ice.
+
+        Made with love in beautiful Saint Paul, Minnesota.
+        © 2013 Timothy B. Smith.
+
+          -->
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Wunderlist 2 is Gorgeous</title>
+        <title>Tim Smith &mdash; Wunderlist 2 is Gorgeous</title>
         <meta name="viewport" content="width=device-width">
 
         <link rel="alternate" type="application/rss+xml" title="RSS Feed for mysite.com" href="/feed.xml" />
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="assets/css/syntax.css">
+        <link rel="stylesheet" href="/assets/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="assets/css/global.css">
+        <link rel="stylesheet" href="/assets/css/global.css">
+
+        <!-- Typekit Code -->
+        <script type="text/javascript" src="//use.typekit.net/mev1xgw.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     </head>
     <body>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">Tim Smith</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
 
-                <h2>Wunderlist 2 is Gorgeous</h2>
-<p class="meta">25 Dec 2012</p>
+        <header class="site__header">
+          <div class="header__branding">
+            <a href="/" class="logo"></a>
+            <h1><a href="/">Tim Smith</a></h1>
+            <h2>Designer, broadcaster, and coffee addict.</h2>
+          </div><!-- .header__branding -->
 
-<div class="post">
-<blockquote>
-  <p>Wunderlist is here to help you get things done. Whether you're planning an overseas adventure, sharing a shopping list with a loved one or simply keeping track of your daily to-dos.</p>
-</blockquote>
+          <nav>
+            <a href="/about">About</a>
+            <a href="/portfolio">Portfolio</a>
+            <a href="/contact">Contact</a>
+            <a target="_blank" href="https://twitter.com/ttimsmith">@ttimsmith</a>
+          </nav>
 
-<p>Earlier last week, 6Wunderkinder released the new <a href="http://www.6wunderkinder.com/wunderlist">Wunderlist 2</a>. I had never used any of their products before but, I'm so glad I finally did. Wunderlist 2 is an amazingly well-made app. The polish and simplicity is great and as you'd expect, you can reach your lists and to-do's from anywhere.</p>
+          <div class="search-form">
+            <?php get_search_form(); ?>
+          </div><!-- .search-form -->
 
-<p>If you, like me, like to keep track of the things you need to get done and love gorgeous UI's, you need to get your hands on Wunderlist 2.</p>
+        </header><!-- .site__header -->
 
-</div>
+        <section class="right-column">
+          
+          <section class="column__content" role="main">
+            <div class="format-">
+  <article class="entry">
+    <div class="contain">   
+        
+    </div><!-- .contain -->
+  </article>
+ </div>
+          </section>
 
+          <footer>
+            <div class="content">
+              <div class="contain">
+                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="http://ttimsmith.com/feed">Subscribe via RSS</a></small>
+                <small>Kindly hosted by <a href="http://www.mediatemple.net/#a_aid=4f42c6d7d53a5" target="_blank">Media Temple</a>.</small>
+              </div><!-- .contain -->
+            </div><!-- .content -->
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Your Name<br />
-                  What You Are<br />
-                  your@email.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
+          </footer> <!-- end footer -->
+        </section><!-- .right-column -->
 
     </body>
 </html>
