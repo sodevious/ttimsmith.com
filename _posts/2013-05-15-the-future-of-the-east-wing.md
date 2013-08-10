@@ -1,15 +1,10 @@
 ---
 layout: post
 title: The Future of The East Wing
-categories:
-- articles
-tags:
-- The East Wing
+categories: articles
 status: draft
 type: post
 published: false
-meta:
-  _yoast_wpseo_linkdex: '0'
 ---
 On February 14th, 2012, I launched an online broadcast called The East Wing. A little over a year later, one of my favorite people, Dan Benjamin, has asked me to join his network.
 

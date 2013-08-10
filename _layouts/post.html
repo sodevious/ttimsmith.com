@@ -1,32 +1,33 @@
 ---
 layout: default
 ---
-
-<div class="format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
-  <article class="entry">
-    <div class="contain">   
-      {% if page.custom_type == 'post' %}
-        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-        
-      {% elsif page.custom_type == 'link' %}
-        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
-        <h2>
-         <a href="{{ page.custom_url }}" target="_blank">{{ page.title }}</a>
-        </h2>
-        {{ content }}
-        
-      {% elsif page.custom_type == 'video' %}
-        <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
-        
-        <h2>{{ page.title }}</h2>
-         
-        <iframe src="http://player.vimeo.com/video/{{ page.vimeo }}" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>        
+<div class="single">
+  <div class="type-post format-{% if page.custom_type %}{{ page.custom_type }}{% endif %}">
+    <article class="entry">
+      <div class="contain">   
+        {% if page.custom_type == 'post' %}
+          <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
+          <h2>{{ page.title }}</h2>
+          {{ content }}
           
-        <p>{{ content }}</p>
+        {% elsif page.custom_type == 'link' %}
+          <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
+          <h2>
+           <a href="{{ page.custom_url }}" target="_blank">{{ page.title }}</a>
+          </h2>
+          {{ content }}
+          
+        {% elsif page.custom_type == 'video' %}
+          <p class="pubdate">{{ page.date | date: "%B %e, %Y" }}</p>
 
-      {% endif %}  
-    </div><!-- .contain -->
-  </article>
- </div>
+          <div class="video-pusher">{{ page.video-embed }} </div>
+          
+          <h2>{{ page.title }}</h2>
+                  
+          {{ content }}
+
+        {% endif %}  
+      </div><!-- .contain -->
+    </article>
+   </div>
+ </div><!-- .single -->

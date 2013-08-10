@@ -29,7 +29,7 @@ BASE TYPE
 ------------------------------------------- */
 
 body {
-	font-size: 110%;
+	font-size: 115%;
 	line-height: 140%;
 	color: $darkColor;
 	@extend %sans;
@@ -103,6 +103,40 @@ p.pubdate {
   margin: 0 0 4% 10%;
 }
 
+ul, .show-notes {
+  list-style-type: square;
+  margin: 0 0 03.125% 10%;
+  @media screen and (max-width: 700px ) {
+    margin: 0 0 0 25px; 
+  } 
+  li {
+    font-size: 1.1em;
+    line-height: 160%;
+    padding: 01.25% 0;
+    &:last-child {
+      padding: 01.25% 0 0;
+    }
+  }
+}
+
+ol {
+  list-style-type: decimal;
+  margin: 0 0 0 10%;
+  text-align: left;
+  @media screen and (max-width: 700px ) {
+    margin: 0 0 0 25px; 
+  } 
+  li {
+    font-size: 1.1em;
+    line-height: 160%;
+    margin: 0 0 03.125%;
+    p {
+      font-size: inherit !important;
+      margin: 0 0 3.125% 0 !important;
+    }
+  }
+}
+
 
 /*
 
@@ -113,16 +147,41 @@ strong {
 	font-weight: bold;
 }
 
-em {
+em, cite {
 	font-style: italic;
 }
 
+sup {
+  a {
+    border-bottom: none;
+    font-size: .65em;
+    font-weight: 800;
+  }
+}
 
 /*
 
 BLOCKQUOTE
 ------------------------------------------- */
 
+blockquote {
+  border-left: 10px solid $linkColor;
+  color: lighten($darkColor, 25%);
+  padding-left: 20px;
+  margin: 0 0 03.125% 10%;
+  p {
+    margin-left: 0 !important;
+  }
+  small {
+    display: block;
+    font-size: .80em;
+    margin: 02.34375% 0 0;
+    &:before {
+      content: "—";
+      color: $borderColor;
+    }
+  }
+}
 
 /*
 

@@ -4,7 +4,7 @@
   <title>Timothy B Smith</title>
   <link href="http://ttimsmith.github.com/"/>
   <link type="application/atom+xml" rel="self" href="http://ttimsmith.github.com/feed.xml"/>
-  <updated>2013-08-09T21:01:52-05:00</updated>
+  <updated>2013-08-10T00:54:37-05:00</updated>
   <id>http://ttimsmith.github.com/</id>
   <author>
     <name>Your Name</name>
@@ -409,9 +409,9 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I am so incredibly honored to be on Founders Talk this week. Founders Talk, is one of the first show\&#39;s I ever listened to, and a huge inspiration when I created The East Wing.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I am so incredibly honored to be on Founders Talk this week. Founders Talk, is one of the first show’s I ever listened to, and a huge inspiration when I created The East Wing.&lt;/p&gt;
 
-&lt;p&gt;If you\&#39;d like to hear more about my story and projects, you should take a listen.&lt;/p&gt;
+&lt;p&gt;If you’d like to hear more about my story and projects, you should take a listen.&lt;/p&gt;
 </content>
   </entry>
   
@@ -427,7 +427,7 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Nicole Dominguez about how she got started in Design, being young, her thoughts on college, and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=\&quot;http://blendconf.com\&quot;&gt;Blend Conf&lt;/a&gt;. Use the code ‘east wing’ for 30% off.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://blendconf.com&quot;&gt;Blend Conf&lt;/a&gt;. Use the code ‘east wing’ for 30% off.&lt;/em&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -473,7 +473,7 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">I&#39;m so incredibly excited about this. I hope Ashton Kutcher doesn&#39;t disappoint.
+    <content type="html">&lt;p&gt;I&#39;m so incredibly excited about this. I hope Ashton Kutcher doesn&#39;t disappoint.&lt;/p&gt;
 </content>
   </entry>
   
@@ -489,7 +489,7 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=\&quot;http://blendconf.com\&quot;&gt;Blend Conference&lt;/a&gt;. Use ‘eastwing’ at checkout for 30% off.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://blendconf.com&quot;&gt;Blend Conference&lt;/a&gt;. Use ‘eastwing’ at checkout for 30% off.&lt;/em&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -646,7 +646,7 @@ Thankfully, I never made anything with tables. Although, it does give some type 
 
 &lt;p&gt;For as long as I can remember, I&#39;ve told myself that I can&#39;t write. I&#39;ve noticed that I have the power to hold myself back, if I don&#39;t fight against the urge to talk myself out of things. If I want to be a great writer, what better way than to practice a little everyday?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;That&#39;s exactly what I&#39;m doing.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;That’s exactly what I’m doing.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I&#39;m tired of telling myself I can&#39;t do something; that&#39;s the world&#39;s job. I can&#39;t draw, I can&#39;t play piano, I can&#39;t be fit, etc; it&#39;s rubbish. I can do all those things. The only thing in the way is &lt;strong&gt;me&lt;/strong&gt;.&lt;/p&gt;
 
@@ -726,7 +726,7 @@ Thankfully, I never made anything with tables. Although, it does give some type 
 
 &lt;p&gt;In a certain way, this type of thing continues in work and on the web. The popular people and the ones who aren&#39;t. Unlike high school, the popular kids are mostly really nice. However, I&#39;ve noticed that I —and many others— continue wanting to be part of the club.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What is &quot;the club&quot; anyways?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is “the club” anyways?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;What we sometimes forget is that there are lots of clubs, and being active on the web is as easy as reaching out. If you don&#39;t seem to find one that suits you, make one. Create a place where you feel comfortable and can be edifying to others.&lt;/p&gt;
 
@@ -755,20 +755,20 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   <entry>
     <id>http://ttimsmith.github.com/articles/i-dont-know-what-im-doing</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/i-dont-know-what-im-doing"/>
-    <title>I Don't Know What I'm Doing</title>
+    <title>I Don’t Know What I’m Doing</title>
     <published>2013-05-29T00:00:00-05:00</published>
     <updated>2013-05-29T00:00:00-05:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This is a phrase I&#39;m getting into the habit of saying more. It&#39;s completely true, and the more I say it, the more benefit I seem to get out of it.&lt;/p&gt;
+    <content type="html">&lt;p&gt;This is a phrase I’m getting into the habit of saying more. It&#39;s completely true, and the more I say it, the more benefit I seem to get out of it.&lt;/p&gt;
 
-&lt;p&gt;I don&#39;t know why, but as humans, we like to give the illusion of having knowledge; whether it be true or not. I know I do. I love making people feel like I know what&#39;s going on and how to handle a situation.&lt;/p&gt;
+&lt;p&gt;I don’t know why, but as humans, we like to give the illusion of having knowledge; whether it be true or not. I know I do. I love making people feel like I know what&#39;s going on and how to handle a situation.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I don&#39;t.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I don’t.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Instead, I&#39;ve tried to be more open about the things I don&#39;t know and I&#39;ve been very happy with the results. The great part of admitting ones shortcomings, is the opportunity it creates for learning. You&#39;d be amazed how willing people are to give help and advice. It&#39;s my belief that with a little humility, and a willingness to learn, there is nothing you can&#39;t accomplish.&lt;/p&gt;
+&lt;p&gt;Instead, I’ve tried to be more open about the things I don&#39;t know and I&#39;ve been very happy with the results. The great part of admitting ones shortcomings, is the opportunity it creates for learning. You’d be amazed how willing people are to give help and advice. It&#39;s my belief that with a little humility, and a willingness to learn, there is nothing you can&#39;t accomplish.&lt;/p&gt;
 
 &lt;p&gt;What are you admitting to not knowing today?&lt;/p&gt;
 </content>
@@ -884,7 +884,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
     </author>
     <content type="html">&lt;p&gt;This week I talk with Adam Clark. Adam is a developer and superb podcaster. We talk about how he got into the web, taking risks in business, and starting his first podcast.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=\&quot;http://slideandstage.com/\&quot;&gt;Slide + Stage&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://slideandstage.com&quot;&gt;Slide + Stage&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 </content>
   </entry>
   
@@ -900,7 +900,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
     </author>
     <content type="html">&lt;p&gt;This week, I had the opportunity to talk with Ashley Baxter. Ashley describes herself as a tinkerer of many things, and I agree. At a young age, she took over the family business and has branched out into other products. We talk about how she got started, her first talk, and more.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=\&quot;http://slideandstage.com/\&quot;&gt;Slide + Stage&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sponsored by &lt;a href=&quot;http://slideandstage.com&quot;&gt;Slide + Stage&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -914,7 +914,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This is a talk I gave back in April at &lt;a href=\&quot;http://minnestar.org/minnebar/\&quot;&gt;Minnebar&lt;/a&gt;. As many of you know, I have a couple of side projects, and I wanted to help other people see the benefit of these. You can see the slides &lt;a href=\&quot;https://speakerdeck.com/ttimsmith/become-a-better-designer-with-side-projects\&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;This is a talk I gave back in April at &lt;a href=&quot;http://minnestar.org/minnebar&quot;&gt;Minnebar&lt;/a&gt;. As many of you know, I have a couple of side projects, and I wanted to help other people see the benefit of these. You can see the slides &lt;a href=&quot;https://speakerdeck.com/ttimsmith/become-a-better-designer-with-side-projects\&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Let me know what you think!&lt;/p&gt;
 </content>
@@ -938,11 +938,11 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
 
 &lt;p&gt;All of this was going through my mind, and I couldn&#39;t figure out a way to quit. I was torn. I wanted to quit, but I didn&#39;t want to, nor could I. Then, yesterday, while sipping on a strawberry lemonade &amp;mdash; I recommend one if you&#39;re having brain blockage &amp;mdash; the lightbulb came on. I&#39;d design the magazine as an iPad only magazine.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2013/05/lustra-demo-jason.jpg&quot; alt=&quot;Jason&#39;s Design for People Article&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/uploads/2013/05/lustra-demo-jason.jpg&quot; alt=&quot;Jason&#39;s Design for People Article&quot; /&gt;
 
 &lt;p&gt;The magazine will come out as a single-issue app in the App Store. I know this will limit the amount of people that can have access, however the pros outweigh the cons at the moment. We&#39;ll be able to publish the magazine under budget, I won&#39;t have to worry about shipping and fulfillment, and I&#39;ll be able to design the reading experience beautifully. Lustra will be one of the few design magazines that looks great on the iPad.&lt;sup id=&quot;fnref-1408:2&quot;&gt;&lt;a href=&quot;#fn-1408:2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2013/05/lustra-demo-paddy.jpg&quot; alt=&quot;Paddy&#39;s Act Article&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/uploads/2013/05/lustra-demo-paddy.jpg&quot; alt=&quot;Paddy&#39;s Act Article&quot; /&gt;
 
 &lt;p&gt;If you have questions, or want to tell me you love this idea, &lt;a href=&quot;https://twitter.com/ttimsmith&quot;&gt;you know where to reach me&lt;/a&gt;. You can subscribe to the newsletter &lt;a href=&quot;http://lustramag.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -973,10 +973,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week, on Too Lazy to Blog, we discuss the weather, future of Adobe Creative Cloud, iOS 7 design hopes, Abercrombie &amp;amp; Fitch, low end cell phones and Jim Dalrymple’s Loop magazine and the Type Engine that powers it.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://www.ssktn.com/tltb/gentlemen-of-a-certain-girth/\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week, on Too Lazy to Blog, we discuss the weather, future of Adobe Creative Cloud, iOS 7 design hopes, Abercrombie &amp;amp; Fitch, low end cell phones and Jim Dalrymple’s Loop magazine and the Type Engine that powers it.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -989,10 +986,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week I had the chance to talk with my friend, Matt Steele. Matt has an inspiring story with difficulties and successes. Personally, these are some of my favorite interviews to do; when you can relate with the journey of a person.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://theeastwing.net/episodes/54\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week I had the chance to talk with my friend, Matt Steele. Matt has an inspiring story with difficulties and successes. Personally, these are some of my favorite interviews to do; when you can relate with the journey of a person.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1005,10 +999,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week, I had the awesome chance to talk with Dan Benjamin. We did the show live, and it was so much fun. We talk about him freelancing back in the days, radio, and the future of internet broadcasting.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://theeastwing.net/episodes/53\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week, I had the awesome chance to talk with Dan Benjamin. We did the show live, and it was so much fun. We talk about him freelancing back in the days, radio, and the future of internet broadcasting.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1066,19 +1057,6 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
     <content type="html">&lt;p&gt;This week, I had the pleasure of talking with Sam Kapila. Sam is a Designer and Educator, and from what I can tell, one of the first people to teach Responsive Web Design at a University level.&lt;/p&gt;
 
 &lt;p&gt;Now, I know that Responsive get&#39;s thrown around a lot as a buzz word, but Sam is working with &lt;a href=&quot;http://happycog.com/&quot;&gt;Happy Cog&lt;/a&gt; and &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt; as her unofficial advisory board. It&#39;s great to see the support she&#39;s received in Austin for teaching her students the right stuff, and I had a blast talking with her.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/52&quot;&gt;take a listen&lt;/a&gt;.&lt;sup id=&quot;fnref-1343:1&quot;&gt;&lt;a href=&quot;#fn-1343:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-
-&lt;li id=&quot;fn-1343:1&quot;&gt;
-&lt;p&gt;Episode sponsored by &lt;a href=&quot;http://slideandstage.com/&quot;&gt;Slide + Stage&lt;/a&gt;.&amp;#160;&lt;a href=&quot;#fnref-1343:1&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;/ol&gt;
-&lt;/div&gt;
 </content>
   </entry>
   
@@ -1092,10 +1070,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week I had the chance to talk with Josh Long. Poor Josh had to talk with me twice since I forgot to record the first time. Since Josh is a total pro, we did a take two and the conversation was even better.&lt;/p&gt;
-
-&lt;p&gt;You &lt;a href=\&quot;http://theeastwing.net/episodes/51\&quot;&gt;should take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week I had the chance to talk with Josh Long. Poor Josh had to talk with me twice since I forgot to record the first time. Since Josh is a total pro, we did a take two and the conversation was even better.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1150,10 +1125,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week, I had the chance to talk with Jory Raphael. This is a guy that I just loved talking to. He&#39;s so talented and successful, but also a down-to-earth guy. We talk about his inspiration behind the 5by5 artwork, how he got his start, and a brilliant app that he&#39;s a co-founder of. I think you&#39;ll love this episode.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/49-jory‎&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week, I had the chance to talk with Jory Raphael. This is a guy that I just loved talking to. He&#39;s so talented and successful, but also a down-to-earth guy. We talk about his inspiration behind the 5by5 artwork, how he got his start, and a brilliant app that he&#39;s a co-founder of. I think you&#39;ll love this episode.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1170,7 +1142,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   &lt;p&gt;Think about the design portfolios you see on dribbble and around the web. They’re sleek, intuitive, beautiful…. and they all sorta look the same. They don’t tell you how they helped solve a problem, they just show you the hi-res designs of their solutions.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;First off, I don&#39;t like the title of this post. However, it was probably meant to get people interested in the topic, &lt;a href=&quot;http://timothybsmith.com/articles/silicon-valley-can-suck-it&quot;&gt;something I&#39;ve done before&lt;/a&gt;, so I&#39;ll let that slide. For a designer, I almost feel like the writer doesn&#39;t value the role of his own job.&lt;/p&gt;
+&lt;p&gt;First off, I don&#39;t like the title of this post. However, it was probably meant to get people interested in the topic, &lt;a href=&quot;/articles/silicon-valley-can-suck-it&quot;&gt;something I&#39;ve done before&lt;/a&gt;, so I&#39;ll let that slide. For a designer, I almost feel like the writer doesn&#39;t value the role of his own job.&lt;/p&gt;
 
 &lt;p&gt;Copy &lt;em&gt;is not&lt;/em&gt; more valuable than design. They are equally important on the web. Without great copy, design fails to do it&#39;s job, and likewise, without great design, it doesn&#39;t matter how great your copy is.&lt;/p&gt;
 
@@ -1196,7 +1168,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
 
 &lt;h3&gt;Launching Tim Likes to Teach&lt;/h3&gt;
 
-&lt;p&gt;At the beginning of March, I was so excited to &lt;a href=&quot;http://timothybsmith.com/links/my-first-product-launches&quot;&gt;launch my first product&lt;/a&gt;. &lt;a href=&quot;http://timlikestoteach.com&quot;&gt;Tim Likes to Teach&lt;/a&gt; is a place for anyone to learn Web Design, Front-End Development, WordPress, SCSS, Compass, and so much more.&lt;/p&gt;
+&lt;p&gt;At the beginning of March, I was so excited to &lt;a href=&quot;/links/my-first-product-launches&quot;&gt;launch my first product&lt;/a&gt;. &lt;a href=&quot;http://timlikestoteach.com&quot;&gt;Tim Likes to Teach&lt;/a&gt; is a place for anyone to learn Web Design, Front-End Development, WordPress, SCSS, Compass, and so much more.&lt;/p&gt;
 
 &lt;p&gt;I launched with one course called &lt;a href=&quot;http://timlikestoteach.com/courses/design-and-build-an-art-directed-blog/&quot;&gt;&lt;em&gt;Design and Build an Art-Directed Blog&lt;/em&gt;&lt;/a&gt;, which is priced at $8. I priced it low on purpose. I wanted as many people as possible to have the ability to purchase it; whether you want to learn a new skill, you&#39;re considering a career change, or you&#39;re a kid who&#39;s only money comes from an allowance.&lt;/p&gt;
 
@@ -1226,10 +1198,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;My pal &lt;a href=&quot;http://galengidman.com/&quot;&gt;Galen Gidman&lt;/a&gt; launched the redesign to his podcast, the Young Guns Show. I&#39;m so excited to see him producing shows again. If you&#39;re a young person in this industry, and even if you&#39;re not, I&#39;m sure you&#39;ll like this podcast. It&#39;ll inspire you to get your butt into gear and get stuff done.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://younggunsshow.com/episode/20/&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;My pal &lt;a href=&quot;http://galengidman.com/&quot;&gt;Galen Gidman&lt;/a&gt; launched the redesign to his podcast, the Young Guns Show. I&#39;m so excited to see him producing shows again. If you&#39;re a young person in this industry, and even if you&#39;re not, I&#39;m sure you&#39;ll like this podcast. It&#39;ll inspire you to get your butt into gear and get stuff done.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1284,10 +1253,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had the chance to talk with Jen Simmons. I&#39;m a huge fan of Jen&#39;s podcast, The Web Ahead. I didn&#39;t tell her this, but she was one of the inspirations behind me starting The East Wing in the first place. We talked about how she got started, the work that goes into her podcast, and a lot more.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/48-jen&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I had the chance to talk with Jen Simmons. I&#39;m a huge fan of Jen&#39;s podcast, The Web Ahead. I didn&#39;t tell her this, but she was one of the inspirations behind me starting The East Wing in the first place. We talked about how she got started, the work that goes into her podcast, and a lot more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
