@@ -4,6 +4,3 @@ pygments: true
 permalink: /:categories/:title
 destination: ./_publish
 paginate: 15
-
-kramdown:
-	smart_quotes: lsquo,rsquo,ldquo,rdquo
