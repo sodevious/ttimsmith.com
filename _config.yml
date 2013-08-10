@@ -1,5 +1,6 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Tim Smith
+markdown: kramdown
 pygments: true
 permalink: /:categories/:title
 destination: ./_publish
+paginate: 15
