@@ -1,0 +1,1 @@
+$(".video-pusher").fitVids();
