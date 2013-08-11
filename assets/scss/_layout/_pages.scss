@@ -25,6 +25,7 @@ PAGE STYLES
       display: block;
       border-bottom: none;
       font-size: .95em;
+      text-decoration: none !important;
       &:hover {
         color: darken($jazzColor, 20%);
       }

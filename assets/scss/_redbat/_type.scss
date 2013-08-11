@@ -183,7 +183,7 @@ sup {
 code {
   background: $borderColor;
   font-family: monospace;
-  padding: 2px;
+  padding: 2px 5px;
 }
 
 /*
@@ -235,10 +235,22 @@ LINKS
 
 a {
   color: $darkColor;
-  border-bottom: 1px solid darken($borderColor, 10%);
+  text-decoration: underline;
   @include transition(.2s ease-in-out);
   &:hover {
-    border-bottom: 1px solid $linkColor;
+    color: lighten($darkColor, 10%);
+  }
+}
+
+.entry p, .content p, .entry ul, .entry ol {
+  a {
+    color: $linkColor;
+    border-bottom: none;
+    text-decoration: underline;
+    @include transition(.2s ease-in-out);
+    &:hover {
+      color: darken($linkColor, 10%);
+    }
   }
 }
 

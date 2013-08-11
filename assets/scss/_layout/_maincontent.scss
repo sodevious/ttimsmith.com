@@ -39,6 +39,7 @@ MAIN CONTENT
       border-bottom: none;
       color: $darkColor;
       font-weight: 800;
+      text-decoration: none !important;
       &:hover {
         color: $linkColor;
         border-bottom: none;
@@ -69,6 +70,7 @@ MAIN CONTENT
   font-weight: normal !important;
   vertical-align: middle;
   color: lighten($darkColor, 40%) !important;
+  text-decoration: none !important;
   &:hover {
     color: $linkColor !important;
   }
@@ -85,6 +87,7 @@ MAIN CONTENT
       border-bottom: none;
       color: $darkColor;
       font-weight: 800;
+      text-decoration: none !important;
       &:hover {
         color: $linkColor;
         border-bottom: none;
