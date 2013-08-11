@@ -5,25 +5,25 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>Timothy B Smith</title>
-  <link href="http://ttimsmith.github.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://ttimsmith.github.com/feed.xml"/>
+  <link href="http://ttimsmith.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://ttimsmith.com/feed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://ttimsmith.github.com/</id>
+  <id>http://ttimsmith.com/</id>
   <author>
-    <name>Your Name</name>
-    <email>you@ttimsmith.github.com</email>
+    <name>Tim Smith</name>
+    <email>smith@ttimsmith.com</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
-    <id>http://ttimsmith.github.com{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com{{ post.url }}"/>
+    <id>http://ttimsmith.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com{{ post.url }}"/>
     <title>{{ post.title }}</title>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>

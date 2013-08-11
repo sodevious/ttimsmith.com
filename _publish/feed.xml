@@ -2,39 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>Timothy B Smith</title>
-  <link href="http://ttimsmith.github.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://ttimsmith.github.com/feed.xml"/>
-  <updated>2013-08-10T20:08:59-05:00</updated>
-  <id>http://ttimsmith.github.com/</id>
+  <link href="http://ttimsmith.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://ttimsmith.com/feed.xml"/>
+  <updated>2013-08-10T20:27:36-05:00</updated>
+  <id>http://ttimsmith.com/</id>
   <author>
-    <name>Your Name</name>
-    <email>you@ttimsmith.github.com</email>
+    <name>Tim Smith</name>
+    <email>smith@ttimsmith.com</email>
   </author>
 
   
   <entry>
-    <id>http://ttimsmith.github.com/links/tirp-2</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/tirp-2"/>
+    <id>http://ttimsmith.com/links/tirp-2</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/tirp-2"/>
     <title>The Intellectual Radio Program: Another Unpaid Advertisement</title>
     <published>2013-08-08T00:00:00-05:00</published>
     <updated>2013-08-08T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: Adam tells the story of going to the Grammy’s, we discuss The Washington Post purchase by Jeff Bezos, and the whole idea of creating an ebook based on something you know and selling it. And of course, we talk through Game of Thrones season 1, episode 3.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/babblenut-2</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/babblenut-2"/>
+    <id>http://ttimsmith.com/links/babblenut-2</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/babblenut-2"/>
     <title>Babblenut: I’m in this Brain Dead, Fog, Zombieland</title>
     <published>2013-08-08T00:00:00-05:00</published>
     <updated>2013-08-08T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: Paul and I talk about self-perception; what it is, how it affects you, and suggestions on what you can do about it.&lt;/p&gt;
 
@@ -43,14 +43,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-65</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-65"/>
+    <id>http://ttimsmith.com/links/the-east-wing-65</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-65"/>
     <title>The East Wing: Josh Brewer</title>
     <published>2013-08-06T00:00:00-05:00</published>
     <updated>2013-08-06T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Josh Brewer about his start into design, working at Twitter, trends, and what lies ahead.&lt;/p&gt;
 
@@ -59,14 +59,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/worlds-first-lab-grown-burger-unveiled</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/worlds-first-lab-grown-burger-unveiled"/>
+    <id>http://ttimsmith.com/links/worlds-first-lab-grown-burger-unveiled</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/worlds-first-lab-grown-burger-unveiled"/>
     <title>World’s First Lab-Grown Burger Unveiled</title>
     <published>2013-08-05T00:00:00-05:00</published>
     <updated>2013-08-05T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;The 5-ounce “cultured beef” burger was constructed from 20,000 protein strands grown from cow stem cells. The strands were compiled over the weekend and removed from a deep freezer on Monday. It cost $325,000 to produce, and was financed entirely by Google co-founder Sergey Brin.&lt;/p&gt;
@@ -77,14 +77,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/tirp-1</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/tirp-1"/>
+    <id>http://ttimsmith.com/links/tirp-1</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/tirp-1"/>
     <title>The Intellectual Radio Program: Punch You in the Targaryens</title>
     <published>2013-08-02T00:00:00-05:00</published>
     <updated>2013-08-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;After a month of planning, the first episode of the new show is finally here. What used to be &lt;em&gt;Too Lazy to Blog&lt;/em&gt; has been launched as a new show, called &lt;em&gt;The Intellectual Radio Program&lt;/em&gt;!&lt;/p&gt;
 
@@ -95,14 +95,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/babblenut-1</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/babblenut-1"/>
+    <id>http://ttimsmith.com/links/babblenut-1</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/babblenut-1"/>
     <title>Babblenut: There’s Got to Be Something to Fill Those Holes</title>
     <published>2013-08-01T00:00:00-05:00</published>
     <updated>2013-08-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;About two months ago, &lt;a href=&quot;http://paularmstrong.me&quot;&gt;Paul Armstrong&lt;/a&gt; and I decided we should do a topical show together. Paul is charismatic, personal, and down-to-earth, and in my experience, those are qualities that are difficult to find in someone that’s as smart as he is. It&#39;s an honor to do a show with him, and I hope you’ll follow along for the ride.&lt;/p&gt;
 
@@ -111,14 +111,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/company-culture-explained</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/company-culture-explained"/>
+    <id>http://ttimsmith.com/links/company-culture-explained</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/company-culture-explained"/>
     <title>Company Culture, Explained</title>
     <published>2013-07-29T00:00:00-05:00</published>
     <updated>2013-07-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Culture is not about the furniture in your office. It is not about how much time you have to spend on feel-good projects. It is not about catered food, expensive social outings, internal chat tools, your ability to travel all over the world, or your never-ending self-congratulation.&lt;/p&gt;
@@ -131,14 +131,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-new-bytesize-is-live</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-new-bytesize-is-live"/>
+    <id>http://ttimsmith.com/links/the-new-bytesize-is-live</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-new-bytesize-is-live"/>
     <title>The New Bytesize is Live</title>
     <published>2013-07-26T00:00:00-05:00</published>
     <updated>2013-07-26T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I’m so happy to announce that my new show, &lt;a href=&quot;http://bytesizenews.co&quot;&gt;Bytesize&lt;/a&gt;, is live! This new show is a labor of love&lt;sup id=&quot;fnref-1922:1&quot;&gt;&lt;a href=&quot;#fn-1922:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I’ve been working on the format for quite some time, and figuring out how the show was going to work, what I was going to report on, and how I’d make it different —and maybe better— from the other news shows out there.&lt;/p&gt;
 
@@ -160,14 +160,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-fear-of-saying-no</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-fear-of-saying-no"/>
+    <id>http://ttimsmith.com/links/the-fear-of-saying-no</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-fear-of-saying-no"/>
     <title>The Fear of Saying “No”</title>
     <published>2013-07-25T00:00:00-05:00</published>
     <updated>2013-07-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Just say No. Don’t use fluffy, doublespeak language. Just say it.&lt;/p&gt;
@@ -182,14 +182,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-shirts-on-sale</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-shirts-on-sale"/>
+    <id>http://ttimsmith.com/links/the-east-wing-shirts-on-sale</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-shirts-on-sale"/>
     <title>The East Wing Shirts on Sale</title>
     <published>2013-07-24T00:00:00-05:00</published>
     <updated>2013-07-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I completely forgot to mention on this week’s show, that shirts for The East Wing are available for pre-order! We’re selling them through Cotton Bureau, and as you may already know, they require a minimum of 25 shirts to be sold to send it to production.&lt;/p&gt;
 
@@ -198,14 +198,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/css-guidelines-by-harry-roberts</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/css-guidelines-by-harry-roberts"/>
+    <id>http://ttimsmith.com/links/css-guidelines-by-harry-roberts</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/css-guidelines-by-harry-roberts"/>
     <title>CSS Guidelines by Harry Roberts</title>
     <published>2013-07-24T00:00:00-05:00</published>
     <updated>2013-07-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This is a pretty awesome guide on writing better CSS. I recently used a lot of these methods in a project, and while I don’t agree with all of them, I’ve seen how awesome it can be to take CSS organization to a whole other level.&lt;/p&gt;
 
@@ -214,14 +214,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-63</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-63"/>
+    <id>http://ttimsmith.com/links/the-east-wing-63</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-63"/>
     <title>The East Wing: Chris Coyier</title>
     <published>2013-07-23T00:00:00-05:00</published>
     <updated>2013-07-23T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Chris Coyier about his successful Kickstarter project, going full-time with CodePen, building websites with what you know, and more.&lt;/p&gt;
 
@@ -230,14 +230,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-62</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-62"/>
+    <id>http://ttimsmith.com/links/the-east-wing-62</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-62"/>
     <title>The East Wing: Jim Dalrymple</title>
     <published>2013-07-16T00:00:00-05:00</published>
     <updated>2013-07-16T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Jim Dalrymple about his beginnings, the new Logic, the future of Apple, and more.&lt;/p&gt;
 
@@ -246,14 +246,14 @@
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-gets-a-redesign</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-gets-a-redesign"/>
+    <id>http://ttimsmith.com/links/the-east-wing-gets-a-redesign</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-gets-a-redesign"/>
     <title>The East Wing Gets a Redesign</title>
     <published>2013-07-07T00:00:00-05:00</published>
     <updated>2013-07-07T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I’m so happy to let you know that The East Wing received a new coat of paint. For those of you interested in learning how I did this redesign, I made it all into a &lt;a href=&quot;http://timlikestoteach.com/courses/redesign-a-podcast-website/&quot;&gt;Tim Likes to Teach course&lt;/a&gt;.&lt;/p&gt;
 
@@ -279,14 +279,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/being-honest-about-ios-7</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/being-honest-about-ios-7"/>
+    <id>http://ttimsmith.com/articles/being-honest-about-ios-7</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/being-honest-about-ios-7"/>
     <title>Being Honest About iOS 7</title>
     <published>2013-07-02T00:00:00-05:00</published>
     <updated>2013-07-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I love Apple. I’ve loved Apple for years, but I think it’s time to stop sucking up and defending them on iOS 7.&lt;/p&gt;
 
@@ -320,28 +320,28 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/h-fj-announce-web-font-service</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/h-fj-announce-web-font-service"/>
+    <id>http://ttimsmith.com/links/h-fj-announce-web-font-service</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/h-fj-announce-web-font-service"/>
     <title>H & FJ Announce Web Font Service</title>
     <published>2013-07-01T00:00:00-05:00</published>
     <updated>2013-07-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This has been a long time coming. I look forward to seeing how successful this is for them. I know many people will be excited to use the well-designed typefaces H &amp;amp; FJ make.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/apple-applies-for-iwatch-trademark</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/apple-applies-for-iwatch-trademark"/>
+    <id>http://ttimsmith.com/links/apple-applies-for-iwatch-trademark</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/apple-applies-for-iwatch-trademark"/>
     <title>Apple Applies for iWatch Trademark</title>
     <published>2013-07-01T00:00:00-05:00</published>
     <updated>2013-07-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Following months of reports about Apple’s upcoming foray into wearable electronics, the company is now seeking to trademark “iWatch” in Japan, reports Bloomberg.&lt;/p&gt;
@@ -352,14 +352,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/a-new-rss-setup</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/a-new-rss-setup"/>
+    <id>http://ttimsmith.com/articles/a-new-rss-setup</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/a-new-rss-setup"/>
     <title>A New RSS Setup</title>
     <published>2013-06-30T00:00:00-05:00</published>
     <updated>2013-06-30T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;July is upon us, and if you forgot to export your feeds out of Google Reader, you have about 6 hours to do it. Come tomorrow, Google Reader will shut down, and an a new era of RSS will begin.&lt;/p&gt;
 
@@ -384,14 +384,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/too-lazy-to-blog-25</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/too-lazy-to-blog-25"/>
+    <id>http://ttimsmith.com/links/too-lazy-to-blog-25</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/too-lazy-to-blog-25"/>
     <title>Too Lazy to Blog: Do We Really Want to go Back to AOL?</title>
     <published>2013-06-28T00:00:00-05:00</published>
     <updated>2013-06-28T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: Adam is away with a sick household so Tim and Chris hold down the fort and talk through 30/30, a time management app, Google Reader’s imminent death, sidebars and blog design, Discovery asking for more money and is Orphan Black the best show on TV?&lt;/p&gt;
 
@@ -400,14 +400,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-interview-on-founders-talk</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-interview-on-founders-talk"/>
+    <id>http://ttimsmith.com/links/my-interview-on-founders-talk</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-interview-on-founders-talk"/>
     <title>My Interview on Founders Talk</title>
     <published>2013-06-27T00:00:00-05:00</published>
     <updated>2013-06-27T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I am so incredibly honored to be on Founders Talk this week. Founders Talk, is one of the first show’s I ever listened to, and a huge inspiration when I created The East Wing.&lt;/p&gt;
 
@@ -416,14 +416,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-60</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-60"/>
+    <id>http://ttimsmith.com/links/the-east-wing-60</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-60"/>
     <title>The East Wing: Getting Serious with Nicole Dominguez</title>
     <published>2013-06-25T00:00:00-05:00</published>
     <updated>2013-06-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Nicole Dominguez about how she got started in Design, being young, her thoughts on college, and more.&lt;/p&gt;
 
@@ -432,14 +432,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-imperfectionist</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-imperfectionist"/>
+    <id>http://ttimsmith.com/links/the-imperfectionist</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-imperfectionist"/>
     <title>Sara Wachter-Boettcher on Embracing Imperfection</title>
     <published>2013-06-24T00:00:00-05:00</published>
     <updated>2013-06-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;But when we only promote our shiniest pieces, we don’t really build confidence. We build shallowness. We start measuring our work in terms of the fame we get out of it, rather than the heart we put into it. We start mistaking praise for progress, and we take projects or jobs that look good on paper (or balance sheets), but do little to help us learn and grow.&lt;/p&gt;
@@ -450,42 +450,42 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-interview-on-pixel-recess</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-interview-on-pixel-recess"/>
+    <id>http://ttimsmith.com/links/my-interview-on-pixel-recess</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-interview-on-pixel-recess"/>
     <title>My Interview on Pixel Recess</title>
     <published>2013-06-24T00:00:00-05:00</published>
     <updated>2013-06-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;My new friend Paul Armstrong interviewed me on his awesome show. I&#39;m definitely not as funny as his previous guests, but you should definitely take a listen.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/jobs-trailer-finally-out</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/jobs-trailer-finally-out"/>
+    <id>http://ttimsmith.com/links/jobs-trailer-finally-out</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/jobs-trailer-finally-out"/>
     <title>Jobs Trailer Finally Out</title>
     <published>2013-06-21T00:00:00-05:00</published>
     <updated>2013-06-21T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;m so incredibly excited about this. I hope Ashton Kutcher doesn&#39;t disappoint.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-59</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-59"/>
+    <id>http://ttimsmith.com/links/the-east-wing-59</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-59"/>
     <title>The East Wing: Write Your Own Thing with Marco Arment</title>
     <published>2013-06-19T00:00:00-05:00</published>
     <updated>2013-06-19T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: I talk with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.&lt;/p&gt;
 
@@ -494,14 +494,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/tim-likes-to-teach-gets-a-redesign-2</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/tim-likes-to-teach-gets-a-redesign-2"/>
+    <id>http://ttimsmith.com/articles/tim-likes-to-teach-gets-a-redesign-2</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/tim-likes-to-teach-gets-a-redesign-2"/>
     <title>Tim Likes to Teach Get’s a Redesign</title>
     <published>2013-06-17T00:00:00-05:00</published>
     <updated>2013-06-17T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Today, I launched the new &lt;a href=&quot;http://timlikestoteach.com&quot;&gt;Tim Likes to Teach&lt;/a&gt;. This redesign has been in the works for about three months. Not a huge amount of time, but considering that when I started, it was only supposed to be a minor update, it ended up taking quite a while.&lt;/p&gt;
 
@@ -530,28 +530,28 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/too-lazy-to-blog-23</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/too-lazy-to-blog-23"/>
+    <id>http://ttimsmith.com/links/too-lazy-to-blog-23</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/too-lazy-to-blog-23"/>
     <title>Too Lazy to Blog: Mexican Standoff of Silence</title>
     <published>2013-06-13T00:00:00-05:00</published>
     <updated>2013-06-13T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: We talk through WWDC news &amp;mdash; iOS7, Mac OS X Mavericks and the features and new stuff that we’re excited about. We also talk about the new Superman movie coming out and stare at our analytics.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-58</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-58"/>
+    <id>http://ttimsmith.com/links/the-east-wing-58</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-58"/>
     <title>The East Wing: You Have Your Own IMDB Page with Paul Armstrong</title>
     <published>2013-06-11T00:00:00-05:00</published>
     <updated>2013-06-11T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week I talk with Paul Armstrong. Paul is a designer, photographer, film writer, and actor. He has such an interesting mix of skills and talents, and we had the chance to talk about where they intersect, iOS, working on meaningful problems, and more.&lt;/p&gt;
 
@@ -560,14 +560,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/sponsor-blend-conference</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/sponsor-blend-conference"/>
+    <id>http://ttimsmith.com/links/sponsor-blend-conference</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/sponsor-blend-conference"/>
     <title>Sponsor: Blend Conference</title>
     <published>2013-06-07T00:00:00-05:00</published>
     <updated>2013-06-07T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I’m proud to talk about a new sponsor we have over on &lt;a href=&quot;http://theeastwing.net&quot;&gt;The East Wing&lt;/a&gt;.&lt;/p&gt;
 
@@ -582,14 +582,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/too-lazy-to-blog-i-need-my-diapers-now-amazon-mom</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/too-lazy-to-blog-i-need-my-diapers-now-amazon-mom"/>
+    <id>http://ttimsmith.com/links/too-lazy-to-blog-i-need-my-diapers-now-amazon-mom</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/too-lazy-to-blog-i-need-my-diapers-now-amazon-mom"/>
     <title>Too Lazy to Blog: I Need My Diapers Now Amazon Mom!</title>
     <published>2013-06-06T00:00:00-05:00</published>
     <updated>2013-06-06T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week: Chris and I introduce Adam to Game of Thrones, we discuss Netflix losing licensing for Spongebob, the deluge of new iOS mail apps, and the upcoming week of WWDC news.&lt;/p&gt;
 
@@ -598,14 +598,14 @@ In the past, the forms on the &lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt; and 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/its-not-that-complicated</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/its-not-that-complicated"/>
+    <id>http://ttimsmith.com/articles/its-not-that-complicated</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/its-not-that-complicated"/>
     <title>It’s Not That Complicated</title>
     <published>2013-06-05T00:00:00-05:00</published>
     <updated>2013-06-05T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;When I first got into this industry, things were a lot simpler. We didn’t worry about designing responsively, and there were no “mobile strategies”.&lt;/p&gt;
 
@@ -633,14 +633,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/overcoming-yourself</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/overcoming-yourself"/>
+    <id>http://ttimsmith.com/articles/overcoming-yourself</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/overcoming-yourself"/>
     <title>Overcoming Yourself</title>
     <published>2013-06-03T00:00:00-05:00</published>
     <updated>2013-06-03T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Writing for me, is one of those things I wish I could be great at. I can read pieces by other people, and be moved, inspired, motivated, and more with a single paragraph. Great writers are able to convey emotion and tell a story while keeping you interested with every word.&lt;/p&gt;
 
@@ -657,14 +657,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/tltb21</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/tltb21"/>
+    <id>http://ttimsmith.com/links/tltb21</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/tltb21"/>
     <title>Too Lazy to Blog: We Don’t Know About the UK</title>
     <published>2013-05-31T00:00:00-05:00</published>
     <updated>2013-05-31T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, Myke Hurley fills in for Adam to talk Tim Cook’s apperance at D11, Apple buying rights to sports broadcasts, Marco selling The Magazine, and the HTC One release.&lt;/p&gt;
 
@@ -673,14 +673,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/on-redesigns</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/on-redesigns"/>
+    <id>http://ttimsmith.com/articles/on-redesigns</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/on-redesigns"/>
     <title>On Redesigns</title>
     <published>2013-05-31T00:00:00-05:00</published>
     <updated>2013-05-31T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;What is the point of redesigning something? What&#39;s trying to be accomplished? Whether it be an app, website, or any type of product, clear goals are behind necessary redesigns.&lt;/p&gt;
 
@@ -695,14 +695,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/part-two-with-adam-stac</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/part-two-with-adam-stac"/>
+    <id>http://ttimsmith.com/links/part-two-with-adam-stac</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/part-two-with-adam-stac"/>
     <title>New Episode of The East Wing with Adam Stacoviak</title>
     <published>2013-05-30T00:00:00-05:00</published>
     <updated>2013-05-30T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, I had the chance to talk with my friend Adam Stacoviak. Adam is a Designer, Developer, and Broadcaster. We talked about building products. They&#39;re not easy to create or maintain, and sometimes you have to make tough decisions.&lt;/p&gt;
 
@@ -711,14 +711,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/make-your-own-club</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/make-your-own-club"/>
+    <id>http://ttimsmith.com/articles/make-your-own-club</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/make-your-own-club"/>
     <title>Make Your Own Club</title>
     <published>2013-05-30T00:00:00-05:00</published>
     <updated>2013-05-30T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ve never felt like I belong to a club. In school, I wasn&#39;t popular, I didn&#39;t play sports, nor was I a good student. I didn&#39;t really fit in.&lt;/p&gt;
 
@@ -735,14 +735,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/tim-cook-at-d11</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/tim-cook-at-d11"/>
+    <id>http://ttimsmith.com/links/tim-cook-at-d11</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/tim-cook-at-d11"/>
     <title>Tim Cook at D11</title>
     <published>2013-05-29T00:00:00-05:00</published>
     <updated>2013-05-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This interview in a lot of ways is ridiculous. Walt and Kara went a bit to the extreme in trying not to show any bias towards Apple, and instead were a bit harsh. Although, I can understand how difficult it must be to conduct an objective and unbiased interview with the CEO of arguably the best technology company at the moment.&lt;/p&gt;
 
@@ -753,14 +753,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/i-dont-know-what-im-doing</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/i-dont-know-what-im-doing"/>
+    <id>http://ttimsmith.com/articles/i-dont-know-what-im-doing</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/i-dont-know-what-im-doing"/>
     <title>I Don’t Know What I’m Doing</title>
     <published>2013-05-29T00:00:00-05:00</published>
     <updated>2013-05-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This is a phrase I’m getting into the habit of saying more. It&#39;s completely true, and the more I say it, the more benefit I seem to get out of it.&lt;/p&gt;
 
@@ -775,14 +775,14 @@ Thankfully, I never made anything with tables. Although, it does give some type 
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/the-future-of-tim-smith</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-future-of-tim-smith"/>
+    <id>http://ttimsmith.com/articles/the-future-of-tim-smith</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/the-future-of-tim-smith"/>
     <title>The Future of Tim Smith</title>
     <published>2013-05-28T00:00:00-05:00</published>
     <updated>2013-05-28T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ve quit my job and stopped looking for full-time work. What&#39;s next for me then?&lt;/p&gt;
 
@@ -855,14 +855,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/instacast-for-mac-is-out-of-beta</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/instacast-for-mac-is-out-of-beta"/>
+    <id>http://ttimsmith.com/links/instacast-for-mac-is-out-of-beta</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/instacast-for-mac-is-out-of-beta"/>
     <title>Instacast for Mac is Out of Beta</title>
     <published>2013-05-28T00:00:00-05:00</published>
     <updated>2013-05-28T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ll be honest, only recently was I recommended Instacast by my friend &lt;a href=&quot;http://mykehurley.net/&quot;&gt;Myke Hurley&lt;/a&gt;. This app has changed the way I consume shows. For me, the ability to have show notes, cloud syncing, and a simple and easy to use Mac App, has made the whole Instacast experience one I can recommend whole-heartedly.&lt;/p&gt;
 
@@ -873,14 +873,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-adam-clark</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-adam-clark"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-adam-clark</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-adam-clark"/>
     <title>New Episode of The East Wing with Adam Clark</title>
     <published>2013-05-21T00:00:00-05:00</published>
     <updated>2013-05-21T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week I talk with Adam Clark. Adam is a developer and superb podcaster. We talk about how he got into the web, taking risks in business, and starting his first podcast.&lt;/p&gt;
 
@@ -889,14 +889,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-ashley-baxter</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-ashley-baxter"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-ashley-baxter</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-ashley-baxter"/>
     <title>New Episode of The East Wing with Ashley Baxter</title>
     <published>2013-05-17T00:00:00-05:00</published>
     <updated>2013-05-17T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, I had the opportunity to talk with Ashley Baxter. Ashley describes herself as a tinkerer of many things, and I agree. At a young age, she took over the family business and has branched out into other products. We talk about how she got started, her first talk, and more.&lt;/p&gt;
 
@@ -905,14 +905,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/become-a-better-designer-with-side-projects</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/become-a-better-designer-with-side-projects"/>
+    <id>http://ttimsmith.com/videos/become-a-better-designer-with-side-projects</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/become-a-better-designer-with-side-projects"/>
     <title>Become a Better Designer with Side Projects</title>
     <published>2013-05-15T00:00:00-05:00</published>
     <updated>2013-05-15T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This is a talk I gave back in April at &lt;a href=&quot;http://minnestar.org/minnebar&quot;&gt;Minnebar&lt;/a&gt;. As many of you know, I have a couple of side projects, and I wanted to help other people see the benefit of these. You can see the slides &lt;a href=&quot;https://speakerdeck.com/ttimsmith/become-a-better-designer-with-side-projects\&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -921,14 +921,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/the-future-of-lustra-magazine</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-future-of-lustra-magazine"/>
+    <id>http://ttimsmith.com/articles/the-future-of-lustra-magazine</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/the-future-of-lustra-magazine"/>
     <title>The Future of Lustra Magazine</title>
     <published>2013-05-13T00:00:00-05:00</published>
     <updated>2013-05-13T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I regret to inform you that I&#39;m killing it… nah, I&#39;m just kidding. Who writes a post about killing something and calls it &lt;a href=&quot;http://blogs.adobe.com/fireworks/2013/05/the-future-of-adobe-fireworks.html&quot;&gt;The Future of…&lt;/a&gt;? Idiots. This post is not about the death of &lt;a href=&quot;http://lustramag.com/&quot;&gt;Lustra&lt;/a&gt;. In fact, it&#39;s about its rebirth.&lt;/p&gt;
 
@@ -964,53 +964,53 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-too-lazy-to-blog</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-too-lazy-to-blog"/>
+    <id>http://ttimsmith.com/links/new-episode-of-too-lazy-to-blog</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-too-lazy-to-blog"/>
     <title>New Episode of Too Lazy to Blog</title>
     <published>2013-05-09T00:00:00-05:00</published>
     <updated>2013-05-09T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, on Too Lazy to Blog, we discuss the weather, future of Adobe Creative Cloud, iOS 7 design hopes, Abercrombie &amp;amp; Fitch, low end cell phones and Jim Dalrymple’s Loop magazine and the Type Engine that powers it.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-matt-steele</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-matt-steele"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-matt-steele</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-matt-steele"/>
     <title>New Episode of The East Wing with Matt Steele</title>
     <published>2013-05-07T00:00:00-05:00</published>
     <updated>2013-05-07T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week I had the chance to talk with my friend, Matt Steele. Matt has an inspiring story with difficulties and successes. Personally, these are some of my favorite interviews to do; when you can relate with the journey of a person.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-dan-benjamin</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-dan-benjamin"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-dan-benjamin</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-dan-benjamin"/>
     <title>New Episode of The East Wing with Dan Benjamin</title>
     <published>2013-05-02T00:00:00-05:00</published>
     <updated>2013-05-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, I had the awesome chance to talk with Dan Benjamin. We did the show live, and it was so much fun. We talk about him freelancing back in the days, radio, and the future of internet broadcasting.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/dealing-with-insecurities</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/dealing-with-insecurities"/>
+    <id>http://ttimsmith.com/articles/dealing-with-insecurities</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/dealing-with-insecurities"/>
     <title>Dealing with Insecurities</title>
     <published>2013-04-29T00:00:00-05:00</published>
     <updated>2013-04-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;m not one to suffer of low self-confidence much, but like everyone else, I have my moments. And this is one of them. I&#39;m insecure; I&#39;m scared; I&#39;m worried.&lt;/p&gt;
 
@@ -1045,14 +1045,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-sam-kapila</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-sam-kapila"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-sam-kapila</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-sam-kapila"/>
     <title>New Episode of The East Wing with Sam Kapila</title>
     <published>2013-04-24T00:00:00-05:00</published>
     <updated>2013-04-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, I had the pleasure of talking with Sam Kapila. Sam is a Designer and Educator, and from what I can tell, one of the first people to teach Responsive Web Design at a University level.&lt;/p&gt;
 
@@ -1061,27 +1061,27 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-josh-long</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-josh-long"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-josh-long</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-josh-long"/>
     <title>New Episode of The East Wing with Josh Long</title>
     <published>2013-04-17T00:00:00-05:00</published>
     <updated>2013-04-17T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week I had the chance to talk with Josh Long. Poor Josh had to talk with me twice since I forgot to record the first time. Since Josh is a total pro, we did a take two and the conversation was even better.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/launching-the-new-rocket-lift</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/launching-the-new-rocket-lift"/>
+    <id>http://ttimsmith.com/links/launching-the-new-rocket-lift</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/launching-the-new-rocket-lift"/>
     <title>Launching the New Rocket Lift</title>
     <published>2013-04-11T00:00:00-05:00</published>
     <updated>2013-04-11T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Today is an exciting day at Rocket Lift. We&#39;ve been working very hard to get this new site up. I&#39;m really proud of the work I did, and the team did. I think it&#39;ll propel Rocket Lift to a new level, and show to potential clients, the company that we actually are.&lt;/p&gt;
 
@@ -1090,14 +1090,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/stop-working-so-hard</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/stop-working-so-hard"/>
+    <id>http://ttimsmith.com/links/stop-working-so-hard</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/stop-working-so-hard"/>
     <title>Stop Working (So Hard)</title>
     <published>2013-04-08T00:00:00-05:00</published>
     <updated>2013-04-08T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;What did The Hustle™ accomplish? I gained weight. I wasn’t spending enough time with my (now) wife. I felt like shit. I began to resent my work, and the work I was producing clearly wasn’t my best. I started cutting corners. I went from a mindset of shipping with quality and integrity to “when is this going to be over?”&lt;/p&gt;
@@ -1116,27 +1116,27 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jory-raphael</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jory-raphael"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jory-raphael</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jory-raphael"/>
     <title>New Episode of The East Wing with Jory Raphael</title>
     <published>2013-04-03T00:00:00-05:00</published>
     <updated>2013-04-03T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week, I had the chance to talk with Jory Raphael. This is a guy that I just loved talking to. He&#39;s so talented and successful, but also a down-to-earth guy. We talk about his inspiration behind the 5by5 artwork, how he got his start, and a brilliant app that he&#39;s a co-founder of. I think you&#39;ll love this episode.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/good-copy-is-more-valuable-than-design</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/good-copy-is-more-valuable-than-design"/>
+    <id>http://ttimsmith.com/links/good-copy-is-more-valuable-than-design</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/good-copy-is-more-valuable-than-design"/>
     <title>Good Copy *Isn't* More Valuable than Design…</title>
     <published>2013-04-02T00:00:00-05:00</published>
     <updated>2013-04-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Think about the design portfolios you see on dribbble and around the web. They’re sleek, intuitive, beautiful…. and they all sorta look the same. They don’t tell you how they helped solve a problem, they just show you the hi-res designs of their solutions.&lt;/p&gt;
@@ -1153,14 +1153,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/looking-back-march-2013</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/looking-back-march-2013"/>
+    <id>http://ttimsmith.com/articles/looking-back-march-2013</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/looking-back-march-2013"/>
     <title>Looking Back: March 2013</title>
     <published>2013-03-31T00:00:00-05:00</published>
     <updated>2013-03-31T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;March has gone by in what seems like a blink of an eye. This is what I&#39;ve been up to.&lt;/p&gt;
 
@@ -1189,27 +1189,27 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-young-guns-show-with-trevan-hetzel</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-young-guns-show-with-trevan-hetzel"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-young-guns-show-with-trevan-hetzel</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-young-guns-show-with-trevan-hetzel"/>
     <title>New Episode of the Young Guns Show with Trevan Hetzel</title>
     <published>2013-03-28T00:00:00-05:00</published>
     <updated>2013-03-28T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;My pal &lt;a href=&quot;http://galengidman.com/&quot;&gt;Galen Gidman&lt;/a&gt; launched the redesign to his podcast, the Young Guns Show. I&#39;m so excited to see him producing shows again. If you&#39;re a young person in this industry, and even if you&#39;re not, I&#39;m sure you&#39;ll like this podcast. It&#39;ll inspire you to get your butt into gear and get stuff done.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/launching-version-6</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/launching-version-6"/>
+    <id>http://ttimsmith.com/articles/launching-version-6</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/launching-version-6"/>
     <title>Launching Version 6</title>
     <published>2013-03-25T00:00:00-05:00</published>
     <updated>2013-03-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Early last week, I launched version six of this site. I honestly don&#39;t know if that version number is correct, because in the early days, I redesigned this site a lot more than I do now; I was sixteen, and procrastinating on my homework.&lt;/p&gt;
 
@@ -1244,27 +1244,27 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jen-simmons</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jen-simmons"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jen-simmons</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jen-simmons"/>
     <title>New Episode of The East Wing with Jen Simmons</title>
     <published>2013-03-21T00:00:00-05:00</published>
     <updated>2013-03-21T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had the chance to talk with Jen Simmons. I&#39;m a huge fan of Jen&#39;s podcast, The Web Ahead. I didn&#39;t tell her this, but she was one of the inspirations behind me starting The East Wing in the first place. We talked about how she got started, the work that goes into her podcast, and a lot more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/empathy-starts-with-vulnerability</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/empathy-starts-with-vulnerability"/>
+    <id>http://ttimsmith.com/links/empathy-starts-with-vulnerability</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/empathy-starts-with-vulnerability"/>
     <title>Empathy Starts with Vulnerability</title>
     <published>2013-03-21T00:00:00-05:00</published>
     <updated>2013-03-21T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;I’ve distanced myself from past projects; I’ve avoided pushing for the sort of work I really want; I’ve glossed over details to avoid admitting how little I actually know. I’ve worked hard, terribly hard, to make my checklist add up to a good job.&lt;/p&gt;
@@ -1275,14 +1275,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/celebrate-your-achievements</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/celebrate-your-achievements"/>
+    <id>http://ttimsmith.com/articles/celebrate-your-achievements</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/celebrate-your-achievements"/>
     <title>Celebrate Your Achievements</title>
     <published>2013-03-19T00:00:00-05:00</published>
     <updated>2013-03-19T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Just the other day, I noticed that I had been nominated for an &lt;a href=&quot;http://www.thenetawards.com/&quot;&gt;award&lt;/a&gt;. I was nominated alongside some amazing side projects, and quite honestly, I think I have no chance of actually winning. I was hesitant at first to even tell anyone I had been nominated.&lt;/p&gt;
 
@@ -1303,40 +1303,40 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-rachel-shillcock</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-rachel-shillcock"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-rachel-shillcock</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-rachel-shillcock"/>
     <title>New Episode of The East Wing with Rachel Shillcock</title>
     <published>2013-03-13T00:00:00-05:00</published>
     <updated>2013-03-13T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Rachel Shillcock. She&#39;s such an awesome gal, and talking with her was so easy since we Skype every once in a while. I&#39;m sure you&#39;ll like the episode; it&#39;s cheerful, happy, and educational.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-geri-coady</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-geri-coady"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-geri-coady</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-geri-coady"/>
     <title>New Episode of The East Wing with Geri Coady</title>
     <published>2013-03-06T00:00:00-06:00</published>
     <updated>2013-03-06T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had the honor of talking with Geri Coady. Geri is a talend Designer, Illustrator, and Photographer. I&#39;m &lt;em&gt;so&lt;/em&gt; jealous of her awesome illustration skills. We talk about how she got started, her venture into freelancing, and her process into choosing colors.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-first-product-launches</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-first-product-launches"/>
+    <id>http://ttimsmith.com/links/my-first-product-launches</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-first-product-launches"/>
     <title>My First Product Launches</title>
     <published>2013-03-06T00:00:00-06:00</published>
     <updated>2013-03-06T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Yesterday was an exciting day for me. I launched my first product. I might add, that I took my own advice and charged for it from the beginning, which is something I&#39;m also very excited about.&lt;/p&gt;
 
@@ -1349,41 +1349,41 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/the-making-of-john-mayers-born-raised-artwork</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/the-making-of-john-mayers-born-raised-artwork"/>
+    <id>http://ttimsmith.com/videos/the-making-of-john-mayers-born-raised-artwork</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/the-making-of-john-mayers-born-raised-artwork"/>
     <title>The Making of John Mayer’s ‘Born &amp; Raised’ Artwork</title>
     <published>2013-03-01T00:00:00-06:00</published>
     <updated>2013-03-01T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I found this video via &lt;a href=&quot;https://twitter.com/jasonvanlue&quot;&gt;Jason VanLue&lt;/a&gt;. The attention to detail is amazing. I envy the talent of people like this.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/interview-on-show-me-your-mic</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/interview-on-show-me-your-mic"/>
+    <id>http://ttimsmith.com/links/interview-on-show-me-your-mic</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/interview-on-show-me-your-mic"/>
     <title>Interview on Show Me Your Mic</title>
     <published>2013-02-28T00:00:00-06:00</published>
     <updated>2013-02-28T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Last week, I was asked to be on Show Me Your Mic. It&#39;s a podcast that talks to other podcasters about their setup and the story behind the shows. For me, it&#39;s a lot of fun because we talk about so much more than gear (which in my case isn&#39;t the coolest setup ever). If you&#39;re interested in podcasting or want to start a podcast of your own, I&#39;m sure you&#39;ll like this show.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/deploy-securely-with-sftp</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/deploy-securely-with-sftp"/>
+    <id>http://ttimsmith.com/videos/deploy-securely-with-sftp</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/deploy-securely-with-sftp"/>
     <title>Deploy Securely with SFTP</title>
     <published>2013-02-27T00:00:00-06:00</published>
     <updated>2013-02-27T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;In the past, I&#39;ve had issues with using SFTP. For some reason, the documentation I had looked at, didn&#39;t really help. So I decided to make a quick screencast on using SFTP to deploy files to your server.&lt;/p&gt;
 
@@ -1398,27 +1398,27 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-elliot-jay-stocks</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-elliot-jay-stocks"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-elliot-jay-stocks</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-elliot-jay-stocks"/>
     <title>New Episode of The East Wing with Elliot Jay Stocks</title>
     <published>2013-02-20T00:00:00-06:00</published>
     <updated>2013-02-20T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I was looking forward to this episode so much. As you may know, I&#39;m trying to publish a magazine. Elliot has successfully published five issues of one. In this episode, we talk about how he got started, his first job, and much more!&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/the-coffee-shop-hypothesis</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-coffee-shop-hypothesis"/>
+    <id>http://ttimsmith.com/articles/the-coffee-shop-hypothesis</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/the-coffee-shop-hypothesis"/>
     <title>The Coffee Shop Hypothesis</title>
     <published>2013-02-19T00:00:00-06:00</published>
     <updated>2013-02-19T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Today, I decided to leave my home office and work at the local coffee shop. This is the second time in the past two weeks that I&#39;ve done this and I&#39;ve come to a realization: although I spend less time working, I&#39;m producing more.&lt;/p&gt;
 
@@ -1429,40 +1429,40 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/interview-on-podcast-champion</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/interview-on-podcast-champion"/>
+    <id>http://ttimsmith.com/links/interview-on-podcast-champion</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/interview-on-podcast-champion"/>
     <title>Interview on Podcast Champion</title>
     <published>2013-02-19T00:00:00-06:00</published>
     <updated>2013-02-19T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This past week, I was so excited to be interviewed on Podcast Champion: a podcast by my pal Justin about podcasting. It was a lot of fun to talk about why I started The East Wing, what&#39;s impact it&#39;s had in my life and a lot of the behind-the-scenes work that goes into producing the show. If you&#39;re like me, curious about that type of stuff, I&#39;m sure you&#39;ll like this podcast.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-sara-wachter-boettcher</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-sara-wachter-boettcher"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-sara-wachter-boettcher</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-sara-wachter-boettcher"/>
     <title>New Episode of The East Wing with Sara Wachter-Boettcher</title>
     <published>2013-02-14T00:00:00-06:00</published>
     <updated>2013-02-14T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Sara Wachter-Boettcher. Sara is a Content Strategist, Author of &lt;a href=&quot;http://rosenfeldmedia.com/books/content-everywhere/&quot;&gt;Content Everywhere&lt;/a&gt;, Editor of &lt;a href=&quot;http://alistapart.com&quot;&gt;A List Apart&lt;/a&gt;, speaker, and a down-to-earth gal. I had the chance to ask her about content strategy and where it fits within the process of making a website, writing a book, the editorial process at A List Apart, and much more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-article-on-the-branch</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-article-on-the-branch"/>
+    <id>http://ttimsmith.com/links/my-article-on-the-branch</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-article-on-the-branch"/>
     <title>My Article on The Branch</title>
     <published>2013-02-12T00:00:00-06:00</published>
     <updated>2013-02-12T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Inspiration is not only the way you think; it&#39;s why you think that way. It&#39;s a feeling. It&#39;s the feeling you get before you work on something for hours. For me, it&#39;s the moment I know I&#39;ll need a fresh cup of coffee.&lt;/p&gt;
@@ -1473,80 +1473,80 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/me-on-the-page-break-podcast</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/me-on-the-page-break-podcast"/>
+    <id>http://ttimsmith.com/links/me-on-the-page-break-podcast</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/me-on-the-page-break-podcast"/>
     <title>Me on the Pagebreak Podcast</title>
     <published>2013-02-12T00:00:00-06:00</published>
     <updated>2013-02-12T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;You might’ve noticed that I published an &lt;a href=&quot;http://timothybsmith.com/links/my-article-on-the-treehouse-blog&quot;&gt;article on the Treehouse Blog&lt;/a&gt; about business. My friends over at Pagebreak invited me to be on their show and talk about it. I’m usually having to worry about everything working properly during a recording but, this time, all I had to do was show up. It was so fun!&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-laura-kalbag</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-laura-kalbag"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-laura-kalbag</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-laura-kalbag"/>
     <title>New Episode of The East Wing with Laura Kalbag</title>
     <published>2013-02-08T00:00:00-06:00</published>
     <updated>2013-02-08T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the delight of talking with Laura Kalbag on The East Wing this week. She&#39;s a Designer and Front-End Developer and absolutely awesome. We talked about how she got started, equality in our industry, mentorship and so much more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/putting-back-the-face-into-typeface</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/putting-back-the-face-into-typeface"/>
+    <id>http://ttimsmith.com/videos/putting-back-the-face-into-typeface</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/putting-back-the-face-into-typeface"/>
     <title>Putting Back the Face into Typeface</title>
     <published>2013-02-06T00:00:00-06:00</published>
     <updated>2013-02-06T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This is such a wonderful interview with Erik Spiekermann. The more I hear him, the more I like him. He seems like such a nice guy with a true passion for design.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-trevan-hetzel</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-trevan-hetzel"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-trevan-hetzel</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-trevan-hetzel"/>
     <title>New Episode of The East Wing with Trevan Hetzel</title>
     <published>2013-01-30T00:00:00-06:00</published>
     <updated>2013-01-30T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I talk to the young and very talented Trevan Hetzel. We talked about how he got started, growing his business in a rural area and his soon-to-be-launched product, Sidecar.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-andy-clarke</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-andy-clarke"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-andy-clarke</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-andy-clarke"/>
     <title>New Episode of The East Wing with Andy Clarke</title>
     <published>2013-01-23T00:00:00-06:00</published>
     <updated>2013-01-23T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week I had the absolute pleasure of talking with Andy Clarke. He&#39;s written two great books and given talks at many conferences. We had the chance to talk about his books, podcasts and dealing with clients properly.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-article-on-the-treehouse-blog</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-article-on-the-treehouse-blog"/>
+    <id>http://ttimsmith.com/links/my-article-on-the-treehouse-blog</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-article-on-the-treehouse-blog"/>
     <title>My Article on the Treehouse Blog</title>
     <published>2013-01-17T00:00:00-06:00</published>
     <updated>2013-01-17T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Freelancing is regarded as the holy grail in our industry. It’s something most people look to as a magical fantasy land where all dreams come true. However, being a freelancer can be very difficult if you don’t know much about the business of design.&lt;/p&gt;
@@ -1559,14 +1559,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/make-awesome-is-now-lustra-magazine</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/make-awesome-is-now-lustra-magazine"/>
+    <id>http://ttimsmith.com/links/make-awesome-is-now-lustra-magazine</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/make-awesome-is-now-lustra-magazine"/>
     <title>Make Awesome is Now Lustra Magazine</title>
     <published>2013-01-17T00:00:00-06:00</published>
     <updated>2013-01-17T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;m so very pleased to let you all know that Make Awesome is now Lustra Magazine. If you recall, back in October I launched a &lt;a href=&quot;http://www.kickstarter.com/projects/timothybsmith/make-awesome-magazine&quot;&gt;Kickstarter project&lt;/a&gt; to fund this magazine. I did a horrible video, priced the magazine too high and the project was unsuccessfully funded.&lt;/p&gt;
 
@@ -1581,40 +1581,40 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-trent-walton</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-trent-walton"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-trent-walton</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-trent-walton"/>
     <title>New Episode of The East Wing with Trent Walton</title>
     <published>2013-01-16T00:00:00-06:00</published>
     <updated>2013-01-16T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had a chance to talk with Trent Walton. Trent is the guy behind the awesome art directed articles on his &lt;a href=&quot;http://trentwalton.com&quot;&gt;personal site&lt;/a&gt; and is one-third of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;. He&#39;s a really great guy and it was nice chatting about how he got into design and the early troubles of Paravel.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-steve-sam</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-steve-sam"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-steve-sam</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-steve-sam"/>
     <title>New Episode of The East Wing with Steve &amp; Sam</title>
     <published>2013-01-09T00:00:00-06:00</published>
     <updated>2013-01-09T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Last week, I had the chance to sit down with Steve Derico and Sam Soffes. These two guys are behind one of my favorite podcasts: &lt;a href=&quot;http://refactor.tv/&quot;&gt;Refactor.Tv&lt;/a&gt;. In the episode we talk about a variety of things. It was really fun to record. It feels more like you get to listen in to one of our conversations more than an actual interview. </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/my-definition-of-success</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/my-definition-of-success"/>
+    <id>http://ttimsmith.com/articles/my-definition-of-success</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/my-definition-of-success"/>
     <title>My Definition of Success</title>
     <published>2013-01-01T00:00:00-06:00</published>
     <updated>2013-01-01T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;It&#39;s 2013. Another year has come and gone in what seems to be a blink of an eye. For me, it&#39;s been a bittersweet year full of mistakes and achievements. As I look back on 2012, I will forever remember it and its many ups and downs.&lt;/p&gt;
 
@@ -1654,14 +1654,14 @@ I&#39;m single and in the prime of my life. I need to get out of my apartment mo
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/sharing-is-caring</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/sharing-is-caring"/>
+    <id>http://ttimsmith.com/articles/sharing-is-caring</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/sharing-is-caring"/>
     <title>Sharing is Caring</title>
     <published>2012-12-27T00:00:00-06:00</published>
     <updated>2012-12-27T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Recently, I’ve been making an effort to have coffee or meet up with fellow designers and developers here in the Twin Cities. We have a very strong community of smart and creative people here so, I&#39;ve been trying to get to know people individually. As you might know, I’m a coffee addict so, these meetings are a great way to feed the vice.&lt;/p&gt;
 
@@ -1693,27 +1693,27 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-brian-hoff</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-brian-hoff"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-brian-hoff</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-brian-hoff"/>
     <title>New Episode of The East Wing with Brian Hoff</title>
     <published>2012-12-26T00:00:00-06:00</published>
     <updated>2012-12-26T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the huge pleasure of sitting down with Brian Hoff last week on The East Wing. We got to talk about how he started, some very sound business advice and a whole lot more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/wunderlist-2-is-gorgeous</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/wunderlist-2-is-gorgeous"/>
+    <id>http://ttimsmith.com/links/wunderlist-2-is-gorgeous</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/wunderlist-2-is-gorgeous"/>
     <title>Wunderlist 2 is Gorgeous</title>
     <published>2012-12-25T00:00:00-06:00</published>
     <updated>2012-12-25T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Wunderlist is here to help you get things done. Whether you&#39;re planning an overseas adventure, sharing a shopping list with a loved one or simply keeping track of your daily to-dos.&lt;/p&gt;
@@ -1726,14 +1726,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/special-2012-end-of-the-year-address</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/special-2012-end-of-the-year-address"/>
+    <id>http://ttimsmith.com/articles/special-2012-end-of-the-year-address</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/special-2012-end-of-the-year-address"/>
     <title>Special 2012 End of the Year Address</title>
     <published>2012-12-20T00:00:00-06:00</published>
     <updated>2012-12-20T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ll be honest, I loved the &lt;a href=&quot;http://5by5.tv/specials/10&quot;&gt;State of the Union Address&lt;/a&gt; that Dan Benjamin did on 5by5. It was so personal and I think that&#39;s why so many people love Dan. I had been thinking of doing something similar to thank everyone listening to The East Wing in our first year.&lt;/p&gt;
 
@@ -1746,53 +1746,53 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/shoptalk-show-with-me</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/shoptalk-show-with-me"/>
+    <id>http://ttimsmith.com/links/shoptalk-show-with-me</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/shoptalk-show-with-me"/>
     <title>ShopTalk Show with Me</title>
     <published>2012-12-19T00:00:00-06:00</published>
     <updated>2012-12-19T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I was so honored to be on &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt; last week! It was such a blast recording with Chris and Dave. We talk about the weeks hot drama, what&#39;s going on with Make Awesome and more!&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-kerem-suer</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-kerem-suer"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-kerem-suer</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-kerem-suer"/>
     <title>New Episode of The East Wing with Kerem Suer</title>
     <published>2012-12-19T00:00:00-06:00</published>
     <updated>2012-12-19T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I got the awesome pleasure of talking with &lt;a href=&quot;http://kerem.co/&quot;&gt;Kerem Suer&lt;/a&gt; this week on The East Wing. He&#39;s such a smart and talented guy and we got to talk about college, his work at Fitbit and more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-drew-wilson</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-drew-wilson"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-drew-wilson</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-drew-wilson"/>
     <title>New Episode of The East Wing with Drew Wilson</title>
     <published>2012-12-06T00:00:00-06:00</published>
     <updated>2012-12-06T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ve long been a fan of &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt;. He&#39;s a real down-to-earth guy that does tons of awesome stuff. Not only do I like a lot of things he does, I like the reason why he does it.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/a-better-toy-for-developing-girls</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/a-better-toy-for-developing-girls"/>
+    <id>http://ttimsmith.com/links/a-better-toy-for-developing-girls</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/a-better-toy-for-developing-girls"/>
     <title>A Better Toy for Developing Girls</title>
     <published>2012-12-05T00:00:00-06:00</published>
     <updated>2012-12-05T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;It’s always bothered me that girls are brought up thinking they’re princesses. I feel like it’s a huge lie. Being a princess isn’t an actual job you can achieve and isn’t real life. The truth is, women don’t dress up in gowns everyday and “Prince Charming” only exists in books. Girls can grow up to be so much more.&lt;/p&gt;
 
@@ -1801,14 +1801,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/latest-news-updates</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/latest-news-updates"/>
+    <id>http://ttimsmith.com/articles/latest-news-updates</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/latest-news-updates"/>
     <title>Latest News &amp; Updates</title>
     <published>2012-12-04T00:00:00-06:00</published>
     <updated>2012-12-04T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;d like to start off by announcing that as of yesterday I started as the Director of Design for &lt;a href=&quot;http://rocketlift.com&quot;&gt;Rocket Lift Inc&lt;/a&gt;. I&#39;ve been working on client projects with these guys for about two months now and I&#39;ve come to really like them. They&#39;re a fun team, we say things that HR reps have nightmares about and we have big plans of what we&#39;d like to do together. Also, &lt;a href=&quot;http://twitter.com/mattepp&quot;&gt;Matt Eppelsheimer&lt;/a&gt; is very well aware of my other projects and is giving me time to work on them and for that, I&#39;m very thankful.&lt;/p&gt;
 
@@ -1837,42 +1837,42 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-chris-wallace</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-chris-wallace"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-chris-wallace</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-chris-wallace"/>
     <title>New Episode of The East Wing with Chris Wallace</title>
     <published>2012-11-28T00:00:00-06:00</published>
     <updated>2012-11-28T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This week on The East Wing, I had the pleasure of recording with Chris Wallace. He&#39;s a real down-to-earth guy that has gone through a lot in life and never gives up. I admire him a bunch and it was fun hearing more about his story and the exciting things he&#39;s working on.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/instantbight-interview</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/instantbight-interview"/>
+    <id>http://ttimsmith.com/links/instantbight-interview</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/instantbight-interview"/>
     <title>InstantBight Interview</title>
     <published>2012-11-27T00:00:00-06:00</published>
     <updated>2012-11-27T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Last week, I received an awesome email from David Silverman, a ninth grader that has interviewed some of the best in our industry on InstantBight. How I made it on that list, I don&#39;t know. However, I&#39;m very happy and honored to be on it.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/connecting-less</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/connecting-less"/>
+    <id>http://ttimsmith.com/articles/connecting-less</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/connecting-less"/>
     <title>Connecting Less</title>
     <published>2012-11-23T00:00:00-06:00</published>
     <updated>2012-11-23T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I started an experiment today. I removed email from my phone. This isn&#39;t a huge deal but, I&#39;m going to try it for a whole week and see where I&#39;m at after that. I decided to do this because I feel to plugged in all the time. I&#39;m constantly worrying if a client has sent me something I should get to or if someone has sent me a message offering me a lot of money (haha yea right).&lt;/p&gt;
 
@@ -1895,14 +1895,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/anythin-goes-business-cards</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/anythin-goes-business-cards"/>
+    <id>http://ttimsmith.com/articles/anythin-goes-business-cards</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/anythin-goes-business-cards"/>
     <title>Anythin’ Goes Business Cards</title>
     <published>2012-11-15T00:00:00-06:00</published>
     <updated>2012-11-15T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/11/biz-cards1.png&quot; alt=&quot;Anythin&#39; Goes Business Cards&quot; /&gt;
 
@@ -1911,70 +1911,70 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jeff-sheldon</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jeff-sheldon"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jeff-sheldon</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jeff-sheldon"/>
     <title>New Episode of The East Wing with Jeff Sheldon</title>
     <published>2012-11-14T00:00:00-06:00</published>
     <updated>2012-11-14T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the pleasure of having Jeff Sheldon on The East Wing this week. For those of you who don&#39;t know, Jeff Sheldon is the Founder of &lt;a href=&quot;http://shop.ugmonk.com/&quot;&gt;Ugmonk&lt;/a&gt;. It was a lot of fun talking to him and seeing how much he&#39;s enjoying running Ugmonk. His story is an interesting one and he imparts some great advice.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/how-do-you-find-freelance-work</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/how-do-you-find-freelance-work"/>
+    <id>http://ttimsmith.com/articles/how-do-you-find-freelance-work</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/how-do-you-find-freelance-work"/>
     <title>How Do You Find Freelance Work?</title>
     <published>2012-11-13T00:00:00-06:00</published>
     <updated>2012-11-13T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Hey freelancers! How do you go about generating leads for freelance projects or finding new projects? So many people say, “Ah.. you&#39;ll get there”, when that’s not really an answer. Thanks for all your help!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/jason-santa-maria-on-saying-no</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/jason-santa-maria-on-saying-no"/>
+    <id>http://ttimsmith.com/videos/jason-santa-maria-on-saying-no</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/jason-santa-maria-on-saying-no"/>
     <title>Jason Santa Maria on Saying No</title>
     <published>2012-11-12T00:00:00-06:00</published>
     <updated>2012-11-12T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This is an amazing talk by &lt;a href=&quot;http://jasonsantamaria.com/&quot;&gt;Jason Santa Maria&lt;/a&gt; on saying no. His reasoning is sound and it&#39;s the type of video that inspires you again about what you&#39;re doing and the decisions you&#39;re making.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-adam-stacoviak</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-adam-stacoviak"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-adam-stacoviak</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-adam-stacoviak"/>
     <title>New Episode of The East Wing with Adam Stacoviak</title>
     <published>2012-11-08T00:00:00-06:00</published>
     <updated>2012-11-08T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I recorded a new episode of The East Wing this week with &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;. For those of you who don&#39;t know him, he&#39;s a really nice guy. He host three podcasts himself and on the show we talk about podcasting and his role as Product Lead at &lt;a href=&quot;https://www.purecharity.com/?aff=36437&quot;&gt;Pure Charity&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/freelancing-what-ive-learned</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/freelancing-what-ive-learned"/>
+    <id>http://ttimsmith.com/articles/freelancing-what-ive-learned</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/freelancing-what-ive-learned"/>
     <title>Freelancing: What I’ve Learned</title>
     <published>2012-11-08T00:00:00-06:00</published>
     <updated>2012-11-08T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;It&#39;s been 36 days since I began freelancing again. This time around, it&#39;s going a lot smoother and I&#39;ve seen the practicality of working at companies and design agencies. I&#39;ve had the privilege of working with some very smart people who thankfully have taken the time to impart some of their wisdom with me.&lt;/p&gt;
 
@@ -2025,14 +2025,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/silicon-valley-can-suck-it</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/silicon-valley-can-suck-it"/>
+    <id>http://ttimsmith.com/articles/silicon-valley-can-suck-it</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/silicon-valley-can-suck-it"/>
     <title>Silicon Valley Can Suck It</title>
     <published>2012-11-02T00:00:00-05:00</published>
     <updated>2012-11-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;You might hear me complain about how much I dislike start ups and the Silicon Valley culture. I seem to tweet about it a lot and I have private conversations with friends about it. I thought I&#39;d write to try and organize my thoughts.&lt;/p&gt;
 
@@ -2065,28 +2065,28 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/adam-braults-talk-from-realtimeconf</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/adam-braults-talk-from-realtimeconf"/>
+    <id>http://ttimsmith.com/videos/adam-braults-talk-from-realtimeconf</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/adam-braults-talk-from-realtimeconf"/>
     <title>Adam Brault’s Talk from RealtimeConf</title>
     <published>2012-11-02T00:00:00-05:00</published>
     <updated>2012-11-02T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Love this talk from RealtimeConf. &lt;a href=&quot;http://adambrault.com/&quot;&gt;Adam Brault&lt;/a&gt; is an awesome guy and I&#39;m so bummed I couldn’t make it this year. Hopefully 2013.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/successful-product-launches</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/successful-product-launches"/>
+    <id>http://ttimsmith.com/links/successful-product-launches</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/successful-product-launches"/>
     <title>Successful Product Launches</title>
     <published>2012-11-01T00:00:00-05:00</published>
     <updated>2012-11-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Just like an Olympian can’t know if they’re going to win a medal without actually performing on game day, you can’t know if your product is going to be a success in the market without actually releasing it to the market.&lt;/p&gt;
@@ -2099,14 +2099,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/my-thoughts-on-insites-the-book</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/my-thoughts-on-insites-the-book"/>
+    <id>http://ttimsmith.com/articles/my-thoughts-on-insites-the-book</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/my-thoughts-on-insites-the-book"/>
     <title>My Thoughts on Insites: The Book</title>
     <published>2012-10-31T00:00:00-05:00</published>
     <updated>2012-10-31T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/10/insites-cover.png&quot; alt=&quot;The Cover of Insites: The Book&quot; /&gt;
 
@@ -2130,14 +2130,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/a-quote-worth-thinking-about</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/a-quote-worth-thinking-about"/>
+    <id>http://ttimsmith.com/articles/a-quote-worth-thinking-about</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/a-quote-worth-thinking-about"/>
     <title>A Quote Worth Thinking About</title>
     <published>2012-10-31T00:00:00-05:00</published>
     <updated>2012-10-31T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Visual design is more than an outlet for the aesthetic you&#39;re into right now.
@@ -2149,14 +2149,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/pre-order-execute-book</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/pre-order-execute-book"/>
+    <id>http://ttimsmith.com/links/pre-order-execute-book</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/pre-order-execute-book"/>
     <title>Pre-Order Execute Book</title>
     <published>2012-10-29T00:00:00-05:00</published>
     <updated>2012-10-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;There is a lot to be said for the difference between planning for six months, developing for a year, learning that your users don’t want to pay for something, pivoting, starting over on development, and having your investors clean you out, as opposed to launching an open-ended, simple, and small version of a great product in which users tell you exactly what they’re willing to pay for while they’re already paying you.
@@ -2170,14 +2170,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-value-of-a-website</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-value-of-a-website"/>
+    <id>http://ttimsmith.com/links/the-value-of-a-website</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-value-of-a-website"/>
     <title>The Value of a Website</title>
     <published>2012-10-26T00:00:00-05:00</published>
     <updated>2012-10-26T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Your website is not a feature that you can half-ass. Spend some money. Protect your future. A good website works hard for your business. Much harder than many employees can offer.&lt;/p&gt;
@@ -2188,14 +2188,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/pocket</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/pocket"/>
+    <id>http://ttimsmith.com/links/pocket</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/pocket"/>
     <title>Pocket</title>
     <published>2012-10-25T00:00:00-05:00</published>
     <updated>2012-10-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Pocket is a “read it later”-style service that allows users to bookmark parts of the webs to be read in the future.&lt;/p&gt;
@@ -2206,14 +2206,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/i-cant-write</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/i-cant-write"/>
+    <id>http://ttimsmith.com/articles/i-cant-write</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/i-cant-write"/>
     <title>I Can’t Write</title>
     <published>2012-10-25T00:00:00-05:00</published>
     <updated>2012-10-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I wish I could. I really do. I wish I could be one of those prolific writers that sit down and pump out a thousand words easily. I can count one piece that I&#39;ve written which has exceeded a thousand words and that might even include homework assignments from high school (did I mention I wasn&#39;t a good student?)&lt;/p&gt;
 
@@ -2232,14 +2232,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/highlighting-young-and-unknown-creatives</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/highlighting-young-and-unknown-creatives"/>
+    <id>http://ttimsmith.com/links/highlighting-young-and-unknown-creatives</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/highlighting-young-and-unknown-creatives"/>
     <title>Highlighting Young and Unknown Creatives</title>
     <published>2012-10-25T00:00:00-05:00</published>
     <updated>2012-10-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ve been thinking a lot about this recently and I&#39;m writing this in an effort to better explain the project and hopefully convince you more effectively than the video on Kickstarter. The truth is, the video doesn&#39;t do this project justice, but that&#39;s a completely different topic.&lt;/p&gt;
 
@@ -2258,28 +2258,28 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jared-spool</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jared-spool"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jared-spool</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jared-spool"/>
     <title>New Episode of The East Wing with Jared Spool</title>
     <published>2012-10-24T00:00:00-05:00</published>
     <updated>2012-10-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the great pleasure of recording an episode with &lt;a href=&quot;https://twitter.com/jmspool&quot;&gt;Jared Spool&lt;/a&gt; about a week ago. He&#39;s such a nice guy. Turns out, he&#39;s an avid listener of the show! We got the chance to talk about how he thought the internet was a fad, all the work that goes into putting on a conference and much more.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/keeping-your-cool</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/keeping-your-cool"/>
+    <id>http://ttimsmith.com/articles/keeping-your-cool</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/keeping-your-cool"/>
     <title>Keeping Your Cool</title>
     <published>2012-10-24T00:00:00-05:00</published>
     <updated>2012-10-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;If you&#39;re reading this, you probably know me. If you don&#39;t, read other articles on this site or listen to my &lt;a href=&quot;http://theeastwing.net&quot;&gt;podcast&lt;/a&gt;. Don&#39;t worry, I&#39;ll wait.&lt;/p&gt;
 
@@ -2300,14 +2300,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/awesome-clients-can-be-found-anywhere</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/awesome-clients-can-be-found-anywhere"/>
+    <id>http://ttimsmith.com/articles/awesome-clients-can-be-found-anywhere</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/awesome-clients-can-be-found-anywhere"/>
     <title>Awesome Clients Can Be Found Anywhere</title>
     <published>2012-10-19T00:00:00-05:00</published>
     <updated>2012-10-19T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I’ve been running my own business for about a month now and, wow, have a learned a ton. However, the invaluable things I&#39;ve learned will come in a later post. I&#39;m here to talk about clients.&lt;/p&gt;
 
@@ -2322,14 +2322,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/dont-be-a-douche-pay-for-quality-stuff</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/dont-be-a-douche-pay-for-quality-stuff"/>
+    <id>http://ttimsmith.com/articles/dont-be-a-douche-pay-for-quality-stuff</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/dont-be-a-douche-pay-for-quality-stuff"/>
     <title>Don’t Be a Douche. Pay for Quality Stuff</title>
     <published>2012-10-18T00:00:00-05:00</published>
     <updated>2012-10-18T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I know that the title is sensational. I&#39;m hoping that people read this just because they&#39;re offended at it. Still, the point I&#39;d like to make is important. A very &lt;a href=&quot;http://tapbots.com/software/tweetbot/mac/&quot;&gt;quality piece of software&lt;/a&gt; came out today and almost immediately, people began to complain about how they weren&#39;t happy with the price.&lt;/p&gt;
 
@@ -2340,27 +2340,27 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-aarron-walter</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-aarron-walter"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-aarron-walter</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-aarron-walter"/>
     <title>New Episode of The East Wing with Aarron Walter</title>
     <published>2012-10-17T00:00:00-05:00</published>
     <updated>2012-10-17T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the huge privilege of recording an episode with &lt;a href=&quot;http://aarronwalter.com/&quot;&gt;Aarron Walter&lt;/a&gt;. In case you don&#39;t know, he&#39;s a great designer, speaker and author. I had such a great time talking to him about how he got started, design problems he encountered at MailChimp and a lot of the work and research that went into writing his book &lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot;&gt;Designing for Emotion&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/an-intro-to-scss</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/an-intro-to-scss"/>
+    <id>http://ttimsmith.com/videos/an-intro-to-scss</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/an-intro-to-scss"/>
     <title>An Intro to SCSS</title>
     <published>2012-10-16T00:00:00-05:00</published>
     <updated>2012-10-16T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">I&#39;ve been promising this video for a long time and I finally had time to doing it. Hope this helps some of you!
 
@@ -2374,14 +2374,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/look-ma-i-own-a-company</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/look-ma-i-own-a-company"/>
+    <id>http://ttimsmith.com/articles/look-ma-i-own-a-company</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/look-ma-i-own-a-company"/>
     <title>Look Ma! I Own a Company!</title>
     <published>2012-10-11T00:00:00-05:00</published>
     <updated>2012-10-11T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Today was the quite the interesting day. I&#39;m officially the owner of Anythin&#39; Goes LLC. I&#39;m a business owner and that freaks me out.&lt;/p&gt;
 
@@ -2394,42 +2394,42 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-dan-eden</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-dan-eden"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-dan-eden</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-dan-eden"/>
     <title>New Episode of The East Wing with Dan Eden</title>
     <published>2012-10-10T00:00:00-05:00</published>
     <updated>2012-10-10T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the privilege of talking with &lt;a href=&quot;http://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt; on The East Wing. He&#39;s a really nice guy. The man has tons of self-started side projects and we go through them one by one. He&#39;s got some very interesting things to say so you should &lt;a href=&quot;http://theeastwing.net/episodes/29-dan&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/creative-mornings-berlin-erik-spiekermann</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/creative-mornings-berlin-erik-spiekermann"/>
+    <id>http://ttimsmith.com/videos/creative-mornings-berlin-erik-spiekermann</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/creative-mornings-berlin-erik-spiekermann"/>
     <title>Creative Mornings Berlin: Erik Spiekermann</title>
     <published>2012-10-09T00:00:00-05:00</published>
     <updated>2012-10-09T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt;, recommended this video to me and I loved it. Erik is hilariously condescending but, you can tell the man knows what he&#39;s talking about. He gives some interesting insight into type for screens that I found very useful. Pardon for some of the foul language. Pretend you didn’t hear it.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/support-make-awesome-on-kickstarter</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/support-make-awesome-on-kickstarter"/>
+    <id>http://ttimsmith.com/links/support-make-awesome-on-kickstarter</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/support-make-awesome-on-kickstarter"/>
     <title>Support Make Awesome on Kickstarter! Pretty Please?</title>
     <published>2012-10-08T00:00:00-05:00</published>
     <updated>2012-10-08T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/10/kick-lead.png&quot; alt=&quot;Post Lead Image&quot; /&gt;
 
@@ -2442,14 +2442,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake"/>
+    <id>http://ttimsmith.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake"/>
     <title>The Thoughts of Someone Who Shouldn’t Be Awake</title>
     <published>2012-10-03T00:00:00-05:00</published>
     <updated>2012-10-03T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;ve been working a lot and very hard on my new freelancing business and the magazine. I have the “letter to the editor” layout finished and the “intro to the interview” layout finished as well. I am so nervous. I wonder if all this work will be in vain. I wonder if this idea will fail. I wonder if I&#39;m the right person to execute this idea. I worry that this could turn into a disaster. I read earlier today a great quote from &lt;a href=&quot;http://jasonsantamaria.com/&quot;&gt;Jason Santa Maria&lt;/a&gt; on &lt;a href=&quot;http://thegreatdiscontent.com/jason-santa-maria&quot;&gt;The Great Discontent&lt;/a&gt;.&lt;/p&gt;
 
@@ -2464,14 +2464,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/progress-on-make-awesome</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/progress-on-make-awesome"/>
+    <id>http://ttimsmith.com/articles/progress-on-make-awesome</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/progress-on-make-awesome"/>
     <title>Progress on Make Awesome</title>
     <published>2012-10-01T00:00:00-05:00</published>
     <updated>2012-10-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/10/ma1-hero.png&quot; alt=&quot;Layout Preview&quot; /&gt;
 
@@ -2484,27 +2484,27 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jared-erondu</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-jared-erondu"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jared-erondu</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-jared-erondu"/>
     <title>New Episode of The East Wing with Jared Erondu</title>
     <published>2012-09-26T00:00:00-05:00</published>
     <updated>2012-09-26T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This episode was such a blast to record. &lt;a href=&quot;http://jarederondu.com&quot;&gt;Mr. Erondu&lt;/a&gt; is a class act and it was great to get to know him better and what drives this young man. Doesn&#39;t matter what stage of your career you currently find yourself in, I&#39;m sure you&#39;ll pick up something of value from this episode.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/looking-for-new-opportunities</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/looking-for-new-opportunities"/>
+    <id>http://ttimsmith.com/articles/looking-for-new-opportunities</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/looking-for-new-opportunities"/>
     <title>Looking For New Opportunities</title>
     <published>2012-09-19T00:00:00-05:00</published>
     <updated>2012-09-19T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;So as I said earlier today, my time at &lt;a href=&quot;http://andyet.net&quot;&gt;&amp;amp;yet&lt;/a&gt; has ended. I really liked the team and enjoyed my time there but they&#39;re looking for someone that is more developer oriented. In fact, if you&#39;re looking for a front-end position, you should check them out. They&#39;re a great team and I appreciate everything they&#39;ve done for me.&lt;/p&gt;
 
@@ -2513,28 +2513,28 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/my-article-on-the-students-guide-to-web-design</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/my-article-on-the-students-guide-to-web-design"/>
+    <id>http://ttimsmith.com/links/my-article-on-the-students-guide-to-web-design</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/my-article-on-the-students-guide-to-web-design"/>
     <title>My Article on The Student's Guide To Web Design</title>
     <published>2012-09-14T00:00:00-05:00</published>
     <updated>2012-09-14T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had been talking with &lt;a href=&quot;http://www.jannahagan.com/&quot;&gt;Janna&lt;/a&gt; about writing for her blog since June. I had been so busy that I just didn&#39;t have the time to sit down and write something (or maybe it was lack of inspiration? I don&#39;t know). Finally, last week I sat down and was able to write close to 800 words on &lt;em&gt;setting yourself up right&lt;/em&gt;. I&#39;m really happy and excited about this article.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/always-changing-things-up</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/always-changing-things-up"/>
+    <id>http://ttimsmith.com/articles/always-changing-things-up</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/always-changing-things-up"/>
     <title>Always Changing Things Up</title>
     <published>2012-09-14T00:00:00-05:00</published>
     <updated>2012-09-14T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;What a shock that this site got another refresh right? Well, I&#39;m happy to push this new design out. I&#39;ve been learning a lot in the past couple of weeks and one of those things is SCSS. I can&#39;t believe I hadn&#39;t used this in my daily workflow before. I was introduced to it at the beginning of this year by my pal &lt;a href=&quot;https://twitter.com/kenearley&quot;&gt;Ken Earley&lt;/a&gt;. It wasn&#39;t until recently that I&#39;ve been working with it more closely and I&#39;m amazed at how much time you can save by using it. I&#39;ll be creating a screencast later this week to show you some of the power of SCSS.&lt;/p&gt;
 
@@ -2545,28 +2545,28 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-east-wing-episode-with-bermon-painter</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-east-wing-episode-with-bermon-painter"/>
+    <id>http://ttimsmith.com/links/new-east-wing-episode-with-bermon-painter</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-east-wing-episode-with-bermon-painter"/>
     <title>New East Wing Episode with Bermon Painter</title>
     <published>2012-09-12T00:00:00-05:00</published>
     <updated>2012-09-12T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the honor of talking with &lt;a href=&quot;http://bermonpainter.com/&quot;&gt;Bermon Painter&lt;/a&gt; who gave an excellent talk about CSS Pre-processors at &lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;The Front-End Conf&lt;/a&gt;. He&#39;s a real cool and smart guy and the episode turned out to be really educational.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/workin-with-svgs</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/workin-with-svgs"/>
+    <id>http://ttimsmith.com/videos/workin-with-svgs</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/workin-with-svgs"/>
     <title>Workin’ with SVG’s</title>
     <published>2012-09-05T00:00:00-05:00</published>
     <updated>2012-09-05T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;h3&gt;Show Notes&lt;/h3&gt;
 
@@ -2579,14 +2579,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/keeping-it-realtime-conference</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/keeping-it-realtime-conference"/>
+    <id>http://ttimsmith.com/links/keeping-it-realtime-conference</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/keeping-it-realtime-conference"/>
     <title>Keeping It Realtime Conference</title>
     <published>2012-09-05T00:00:00-05:00</published>
     <updated>2012-09-05T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/09/krtconf.jpg&quot; alt=&quot;Keeping It Realtime Conference&quot; /&gt;
 
@@ -2594,69 +2594,69 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/interview-on-noupe</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/interview-on-noupe"/>
+    <id>http://ttimsmith.com/links/interview-on-noupe</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/interview-on-noupe"/>
     <title>Interview on Noupe</title>
     <published>2012-09-04T00:00:00-05:00</published>
     <updated>2012-09-04T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I was recently asked by the editor of Noupe, &lt;a href=&quot;http://twitter.com/rob_e_bowen&quot;&gt;Rob Bowen&lt;/a&gt;, for an interview. I was shocked and honored to be asked. I&#39;ve known Rob for a couple of years and he came up with some great questions. If you&#39;re interested, &lt;a href=&quot;http://www.noupe.com/spotlight/interview-with-designer-podcaster-tim-smith-71113.html&quot;&gt;read the interview&lt;/a&gt; and let me know what you think!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-east-wing-episode-with-jason-vanlue</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-east-wing-episode-with-jason-vanlue"/>
+    <id>http://ttimsmith.com/links/new-east-wing-episode-with-jason-vanlue</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-east-wing-episode-with-jason-vanlue"/>
     <title>New East Wing Episode with Jason VanLue</title>
     <published>2012-08-29T00:00:00-05:00</published>
     <updated>2012-08-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I had the awesome pleasure of talking with Jason VanLue for an hour. In case you don&#39;t know, he&#39;s the Design Lead at &lt;a href=&quot;http://envylabs.com/&quot;&gt;Envy Labs&lt;/a&gt;, the makers of &lt;a href=&quot;http://www.codeschool.com/&quot;&gt;Code School&lt;/a&gt;. It was a great conversation and if you&#39;re into learning something new everyday, you should &lt;a href=&quot;http://theeastwing.net/episodes/24-jason&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/the-french-press-experience</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/the-french-press-experience"/>
+    <id>http://ttimsmith.com/videos/the-french-press-experience</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/the-french-press-experience"/>
     <title>The French Press Experience</title>
     <published>2012-08-23T00:00:00-05:00</published>
     <updated>2012-08-23T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;My pal &lt;a href=&quot;https://twitter.com/mettamatt&quot;&gt;Matt Westgate&lt;/a&gt; introduced me to this video. It&#39;s brilliantly hilarious.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-aaron-irizarry-and-adam-connor</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-aaron-irizarry-and-adam-connor"/>
+    <id>http://ttimsmith.com/links/new-episode-of-the-east-wing-with-aaron-irizarry-and-adam-connor</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-episode-of-the-east-wing-with-aaron-irizarry-and-adam-connor"/>
     <title>New Episode of The East Wing with Aaron Irizarry and Adam Connor</title>
     <published>2012-08-22T00:00:00-05:00</published>
     <updated>2012-08-22T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I got the chance to record with &lt;a href=&quot;http://www.thisisaaronslife.com/&quot;&gt;Aaron Irizarry&lt;/a&gt; and &lt;a href=&quot;http://adamconnor.com/&quot;&gt;Adam Connor&lt;/a&gt;. It was a really awesome conversation about design critique and was über educational for me and I hope it is for you too.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/an-email-can-make-your-day</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/an-email-can-make-your-day"/>
+    <id>http://ttimsmith.com/articles/an-email-can-make-your-day</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/an-email-can-make-your-day"/>
     <title>An Email Can Make Your Day</title>
     <published>2012-08-17T00:00:00-05:00</published>
     <updated>2012-08-17T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Hey Tim,&lt;/p&gt;
@@ -2670,42 +2670,42 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-east-wing-episode-with-sam-soffes</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-east-wing-episode-with-sam-soffes"/>
+    <id>http://ttimsmith.com/links/new-east-wing-episode-with-sam-soffes</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-east-wing-episode-with-sam-soffes"/>
     <title>New East Wing Episode with Sam Soffes</title>
     <published>2012-08-15T00:00:00-05:00</published>
     <updated>2012-08-15T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I sat down with &lt;a href=&quot;http://samsoff.es/&quot;&gt;Sam Soffes&lt;/a&gt;, the creator of &lt;a href=&quot;https://cheddarapp.com/&quot;&gt;Cheddar&lt;/a&gt;. It was awesome! Sam is a real down to earth guy. We talk about Cheddar, retiring at 25 and his consulting rate among other things.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/cheddar-for-mac-is-out</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/cheddar-for-mac-is-out"/>
+    <id>http://ttimsmith.com/links/cheddar-for-mac-is-out</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/cheddar-for-mac-is-out"/>
     <title>Cheddar for Mac Is Out!</title>
     <published>2012-08-15T00:00:00-05:00</published>
     <updated>2012-08-15T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I &lt;a href=&quot;http://theeastwing.net/episodes/22-sam&quot;&gt;interviewed Sam&lt;/a&gt; earlier this week and even before that, I was a big fan of &lt;a href=&quot;https://cheddarapp.com/&quot;&gt;Cheddar&lt;/a&gt;. Today, he announced the Mac app for Cheddar and it&#39;s amazingly beautiful! The UI Sam has created for the brand is really nice and the pricing is ridiculously affordable. Check it out and download the app &lt;a href=&quot;https://cheddarapp.com/mac&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/dribbble-invites-up-for-grabs</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/dribbble-invites-up-for-grabs"/>
+    <id>http://ttimsmith.com/articles/dribbble-invites-up-for-grabs</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/dribbble-invites-up-for-grabs"/>
     <title>Dribbble Invites Up For Grabs</title>
     <published>2012-08-14T00:00:00-05:00</published>
     <updated>2012-08-14T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I got the awesome e-mail from Dribbble yesterday that I had 2 invitations! I like giving these out! It&#39;s always fun to see people&#39;s amazing work. So do you want an invitation?&lt;/p&gt;
 
@@ -2721,28 +2721,28 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-east-wing-episode-with-dave-rupert</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-east-wing-episode-with-dave-rupert"/>
+    <id>http://ttimsmith.com/links/new-east-wing-episode-with-dave-rupert</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-east-wing-episode-with-dave-rupert"/>
     <title>New East Wing Episode with Dave Rupert</title>
     <published>2012-08-13T00:00:00-05:00</published>
     <updated>2012-08-13T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Last week, we recorded with &lt;a href=&quot;http://daverupert.com/&quot;&gt;Dave Rupert&lt;/a&gt; of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;, the &lt;a href=&quot;http://atxwebshow.com/&quot;&gt;ATX Web Show&lt;/a&gt; and &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt;. I had the chance to meet him at this years Front-End Design Conference and he&#39;s a really awesome dude.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/on-app-net</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/on-app-net"/>
+    <id>http://ttimsmith.com/articles/on-app-net</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/on-app-net"/>
     <title>Thoughts on App.net</title>
     <published>2012-08-11T00:00:00-05:00</published>
     <updated>2012-08-11T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;So there&#39;s been a lot of talk around this idea of &lt;a href=&quot;https://join.app.net/&quot;&gt;App.net&lt;/a&gt;. Now I&#39;ll be honest and admit that I wasn&#39;t too sold on the idea when I first heard of it. It&#39;s a paid social network after all. However, as I thought more about it, the idea became more convincing to me.&lt;/p&gt;
 
@@ -2759,70 +2759,70 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-art-directed-article-on-style</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-art-directed-article-on-style"/>
+    <id>http://ttimsmith.com/links/new-art-directed-article-on-style</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-art-directed-article-on-style"/>
     <title>New Art Directed Article on Style</title>
     <published>2012-08-10T00:00:00-05:00</published>
     <updated>2012-08-10T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I&#39;m going thru this list of articles that I once published on this very site and now republishing them on &lt;a href=&quot;http://timlikestowrite.com&quot;&gt;timlikestowrite.com&lt;/a&gt;. This particular one, I wrote back in March of 2011. I&#39;m trying not to edit them because I 2011 Tim to shine through and let me tell you, he sounds horrible. Either way, it&#39;s fun to read over things I wrote a long time ago. It&#39;s a great to see how much has changed in the way I think and lessons I&#39;ve learned. Anyway, go check it out!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/update-to-the-feed</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/update-to-the-feed"/>
+    <id>http://ttimsmith.com/articles/update-to-the-feed</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/update-to-the-feed"/>
     <title>Update to the Feed</title>
     <published>2012-08-09T00:00:00-05:00</published>
     <updated>2012-08-09T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Hi Everyone! So I deleted the old feed and created a new one. Why? The old one had ads on it back when I believed in “monetizing” everything (I was so stupid). The problem was, I couldn’t delete the ads anymore. I had done some type of intricate who-knows-what and was now stuck. The only way out was to delete the feed and start fresh so that’s what I did. You can now subscribe to the new feed &lt;a href=&quot;http://feeds.feedburner.com/timothybsmith&quot;&gt;here&lt;/a&gt; or with the RSS link above. As always, thanks for reading!&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/thank-you-chris</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/thank-you-chris"/>
+    <id>http://ttimsmith.com/videos/thank-you-chris</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/thank-you-chris"/>
     <title>Thank You Chris</title>
     <published>2012-08-09T00:00:00-05:00</published>
     <updated>2012-08-09T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I was watching &lt;a href=&quot;http://css-tricks.com/video-screencasts/103-integrating-fitvids-js-into-wordpress/&quot;&gt;this tutorial&lt;/a&gt; on how to integrate FitVids.js onto my site and this is the video he used as a test. It’s absolutely hilarious. You’ve got to watch it. As a side note, notice that the video above is responsive. Oh yeah...&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-industry-radio-show-episode-17</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-industry-radio-show-episode-17"/>
+    <id>http://ttimsmith.com/links/the-industry-radio-show-episode-17</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-industry-radio-show-episode-17"/>
     <title>The Industry Radio Show - Episode 17</title>
     <published>2012-08-07T00:00:00-05:00</published>
     <updated>2012-08-07T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Last Thursday, I was invited to be on &lt;a href=&quot;http://theindustry.cc/2012/08/07/17-the-art-of-wireframing-a-new-messaging-protocol-mountain-lion-and-rocking-the-baby&quot;&gt;The Industry Radio Show&lt;/a&gt;. I couldn&#39;t believe it! It was a lot of fun. We talked about &lt;a href=&quot;http://theeastwing.net&quot;&gt;The East Wing&lt;/a&gt;, working at &lt;a href=&quot;http://lullabot.com&quot;&gt;Lullabot&lt;/a&gt; and a lot more. &lt;a href=&quot;http://theindustry.cc/2012/08/07/17-the-art-of-wireframing-a-new-messaging-protocol-mountain-lion-and-rocking-the-baby&quot;&gt;Take a listen!&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/the-east-wing-gets-a-refresh</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/the-east-wing-gets-a-refresh"/>
+    <id>http://ttimsmith.com/links/the-east-wing-gets-a-refresh</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/the-east-wing-gets-a-refresh"/>
     <title>The East Wing Gets a Refresh</title>
     <published>2012-08-06T00:00:00-05:00</published>
     <updated>2012-08-06T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Today I&#39;ve launched version three of The East Wing theme. I&#39;m excited. I&#39;m excited not only because of the new design (tons of improvements have been made), I&#39;m also excited because of the great attention the show has received and the people that it&#39;s helped. When I first started the show, I wanted to learn from people who are much smarter than me. I wanted to find out whatever information I could get so that I could improve. I&#39;ve learned a lot in the last six months and I&#39;m finally on the way to becoming the designer I want to be.&lt;/p&gt;
 
@@ -2832,14 +2832,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/net-magazine-mike-monteiro-on-handling-clients</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/net-magazine-mike-monteiro-on-handling-clients"/>
+    <id>http://ttimsmith.com/links/net-magazine-mike-monteiro-on-handling-clients</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/net-magazine-mike-monteiro-on-handling-clients"/>
     <title>.net Magazine: Mike Monteiro on Handling Clients</title>
     <published>2012-07-26T00:00:00-05:00</published>
     <updated>2012-07-26T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;When I walk into a pitch I have no idea how to solve a client’s problem, but I’m confident that I have a process for figuring it out. It’s the process that you pitch. Not the solution.&lt;/p&gt;
@@ -2850,14 +2850,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/new-art-directed-article-on-wireframing</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-art-directed-article-on-wireframing"/>
+    <id>http://ttimsmith.com/links/new-art-directed-article-on-wireframing</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/new-art-directed-article-on-wireframing"/>
     <title>New Art Directed Article on Wireframing</title>
     <published>2012-07-23T00:00:00-05:00</published>
     <updated>2012-07-23T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Wireframing without a design brief can be assimilated to taking a calculus test without actually taking the class. Sure, you can do without but, you don’t have the necessary information to know what problems to solve and how to solve them.&lt;/p&gt;
@@ -2868,14 +2868,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/tim-likes-to-write</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/tim-likes-to-write"/>
+    <id>http://ttimsmith.com/links/tim-likes-to-write</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/tim-likes-to-write"/>
     <title>Tim Likes To Write</title>
     <published>2012-07-10T00:00:00-05:00</published>
     <updated>2012-07-10T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
   &lt;p&gt;The site is called Tim Likes To Write and it’s truer now more than ever. The truth is we should all be finding time to write and put our thoughts down on paper (whether it’s done literally or figuratively).&lt;/p&gt;
@@ -2887,14 +2887,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/i-put-comments-on-my-site</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/i-put-comments-on-my-site"/>
+    <id>http://ttimsmith.com/articles/i-put-comments-on-my-site</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/i-put-comments-on-my-site"/>
     <title>I Put Comments on My Site</title>
     <published>2012-07-05T00:00:00-05:00</published>
     <updated>2012-07-05T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Yup. That&#39;s right. I put comments on here. I&#39;m actually kind of excited about it. Jason Van Lue wrote a great small post the other day on &lt;a href=&quot;http://journal.jasonvanlue.com/post/26438772365/write&quot;&gt;writing&lt;/a&gt;. He&#39;s a new guy I&#39;ve been following after his great talk at the Front-End Design Conference. The part I found especially interesting was this:&lt;/p&gt;
 
@@ -2909,14 +2909,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/my-move-to-mn</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/my-move-to-mn"/>
+    <id>http://ttimsmith.com/articles/my-move-to-mn</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/my-move-to-mn"/>
     <title>My Move to Minnesota</title>
     <published>2012-06-25T00:00:00-05:00</published>
     <updated>2012-06-25T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/06/welcome2MN.png&quot; alt=&quot;Welcome to Minnesota&quot; /&gt;
 
@@ -2931,14 +2931,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/designing-in-the-browser</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/designing-in-the-browser"/>
+    <id>http://ttimsmith.com/links/designing-in-the-browser</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/designing-in-the-browser"/>
     <title>Article on Designing “in the Browser”</title>
     <published>2012-06-01T00:00:00-05:00</published>
     <updated>2012-06-01T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;As web designers, we work in a vibrant industry filled with lots of ideas and many who are great at voicing strong opinions. At least for me, it&#39;s easy to get sucked into trying to get everything right and wind up focusing on the wrong things.[...] if you want to be a great web designer, focusing on the specific tools you use within your workflow is really not that helpful. Rather, focusing on how to uncover problems, how to understand users, how the technology of your medium works, how to discover and emulate beauty, and how to enjoy your work are going to be far more beneficial to your long term success!
@@ -2950,14 +2950,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/the-state-of-instagram</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-state-of-instagram"/>
+    <id>http://ttimsmith.com/articles/the-state-of-instagram</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/the-state-of-instagram"/>
     <title>The State of Instagram</title>
     <published>2012-05-30T00:00:00-05:00</published>
     <updated>2012-05-30T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Many people have been talking about Instagram lately, especially with the introduction of &lt;a href=&quot;https://www.facebook.com/mobile/camera&quot; target=&quot;_blank&quot;&gt;Facebook Camera&lt;/a&gt;. My pal, &lt;a href=&quot;http://blog.adellecharles.com/facebook-camera-instagram&quot; target=&quot;_blank&quot;&gt;Adelle Charles&lt;/a&gt; wrote about it on her blog and she brings up some interesting points. I was also reading a new review of the app on iPhone Appstorm with the title being: &lt;em&gt;Instagram is Reborn as Facebook Camera&lt;/em&gt;.&lt;/p&gt;
 
@@ -2972,14 +2972,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/alleged-iphone</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/alleged-iphone"/>
+    <id>http://ttimsmith.com/links/alleged-iphone</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/alleged-iphone"/>
     <title>New Leaked iPhone 5 Pictures!</title>
     <published>2012-05-29T00:00:00-05:00</published>
     <updated>2012-05-29T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/05/9to5macblackandwhite_large_verge_medium_landscape.png&quot; alt=&quot;9to5 Mac Picture of iPhone 5&quot; /&gt;
 
@@ -2991,14 +2991,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/pro-designers-on-facebook</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/pro-designers-on-facebook"/>
+    <id>http://ttimsmith.com/links/pro-designers-on-facebook</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/pro-designers-on-facebook"/>
     <title>Pro Designers have their say on Facebook</title>
     <published>2012-05-24T00:00:00-05:00</published>
     <updated>2012-05-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Personally, I’d love to get my hands on the Facebook UX and UI. There’s so many things I feel could be improved upon, but I’m sure they stay the same because they work towards the intended goals and purposes of Facebook very well.&lt;/p&gt;
@@ -3011,14 +3011,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/live-to-work</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/live-to-work"/>
+    <id>http://ttimsmith.com/links/live-to-work</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/live-to-work"/>
     <title>The Real Reasons You’re Working So Hard...</title>
     <published>2012-05-24T00:00:00-05:00</published>
     <updated>2012-05-24T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;More than 31% of college-educated male workers are regularly logging 50 or more hours a week at work, up from 22% in 1980. Forty percent of American adults get less than seven hours of sleep on weekdays, reports the National Sleep Foundation, up from 31% in 2001.
@@ -3029,41 +3029,41 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/responsive-design-bookmarklet</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/responsive-design-bookmarklet"/>
+    <id>http://ttimsmith.com/links/responsive-design-bookmarklet</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/responsive-design-bookmarklet"/>
     <title>Responsive Design Bookmarklet</title>
     <published>2012-05-23T00:00:00-05:00</published>
     <updated>2012-05-23T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;I stumbled across this bad boy because of &lt;a href=&quot;http://lukesbeard.com/&quot; target=&quot;_blank&quot;&gt;Luke Beard&lt;/a&gt; and I can&#39;t wait to see how this will help my development process. Until now, I had tested a couple of different tools and so far, none of them really worked like I&#39;d like them to. You should check this out and let me know if you like it.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/janna</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/janna"/>
+    <id>http://ttimsmith.com/links/janna</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/janna"/>
     <title>The View for Designers with Janna Hagan</title>
     <published>2012-05-23T00:00:00-05:00</published>
     <updated>2012-05-23T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This particular episode of The East Wing is a special one. Not only was the conversation with Janna great, it was the first episode with Galen as my co-host. I really think y&#39;all will love this new arrangement. He brings something special to the show with his opinions, great questions and &quot;Galen&#39;s Topic of the Week&quot;. If you haven&#39;t already, I invite you to subscribe to the show. It&#39;s a great one.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/new-beginnings</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/new-beginnings"/>
+    <id>http://ttimsmith.com/articles/new-beginnings</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/new-beginnings"/>
     <title>New Beginnings</title>
     <published>2012-05-22T00:00:00-05:00</published>
     <updated>2012-05-22T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;So as you may have noticed the site got a bit of a refresh. I&#39;ve been working diligently on the new Lullabot.com and I was inspired to rethink my own site. I decided to finally treat my site as I would a client site (for the most part). Create a type of creative brief, wireframe key pages, and pay attention to the details of the site (i.e. textures, hover effects and, yes, an adaptive layout).&lt;/p&gt;
 
@@ -3075,14 +3075,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/links/article-on-lullabot</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/article-on-lullabot"/>
+    <id>http://ttimsmith.com/links/article-on-lullabot</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/article-on-lullabot"/>
     <title>Constructive Criticism</title>
     <published>2012-05-14T00:00:00-05:00</published>
     <updated>2012-05-14T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;We&#39;re at a time where technology is moving a lot faster than we can sometimes design for. That means we&#39;ll make mistakes. We&#39;ll have content that we don&#39;t know how to deliver on every device.&lt;/p&gt;
@@ -3092,14 +3092,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/having-fun-and-be-happy</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/having-fun-and-be-happy"/>
+    <id>http://ttimsmith.com/articles/having-fun-and-be-happy</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/having-fun-and-be-happy"/>
     <title>Having Fun and Be Happy</title>
     <published>2012-03-12T00:00:00-05:00</published>
     <updated>2012-03-12T00:00:00-05:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/03/lullabot-lead.jpg&quot; alt=&quot;Lullabot Logo&quot; title=&quot;lullabot-lead&quot; /&gt;
 &lt;blockquote&gt;
@@ -3118,14 +3118,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/videos/on-podcasting</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/on-podcasting"/>
+    <id>http://ttimsmith.com/videos/on-podcasting</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/videos/on-podcasting"/>
     <title>On Podcasting</title>
     <published>2012-02-22T00:00:00-06:00</published>
     <updated>2012-02-22T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Wanted to create a quick screencast that goes over the basics on setting up Podpress, a plugin for Wordpress that is made for podcasting. We go through creating a feed, running it through feedburner and submitting to the iTunes store. Hope you find this useful!&lt;/p&gt;
 
@@ -3140,14 +3140,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/thoughts-on-designing-for-emotion</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/thoughts-on-designing-for-emotion"/>
+    <id>http://ttimsmith.com/articles/thoughts-on-designing-for-emotion</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/thoughts-on-designing-for-emotion"/>
     <title>Thoughts on Designing for Emotion</title>
     <published>2012-02-20T00:00:00-06:00</published>
     <updated>2012-02-20T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;img src=&quot;/uploads/2012/02/emotionpic1.jpg&quot; alt=&quot;Designin for Emotion&quot;&gt;
 &lt;p&gt;I&#39;m a firm believer that the day you stop learning is the day you die. I&#39;d describe myself as a self starter, always looking for new things to learn and existing skills that need refinement. Since I still have lots to live (hopefully), I also have lots to learn.&lt;/p&gt;
@@ -3186,14 +3186,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/apps-i-love-mac-edition</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/apps-i-love-mac-edition"/>
+    <id>http://ttimsmith.com/articles/apps-i-love-mac-edition</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/apps-i-love-mac-edition"/>
     <title>Apps I Love (Mac Edition)</title>
     <published>2012-02-13T00:00:00-06:00</published>
     <updated>2012-02-13T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;Every once in a while, I get asked for app recommendations. I love giving these type of recommendations and if you follow me on twitter, you&#39;ll notice that I often ask for them too. Finding and using new apps is fun for me and I&#39;m always looking for better and simpler ways of doing things. With that said, I thought I&#39;d publish a list of some of my favorite apps in the hope of helping out some new Mac owners or point you to something you didn&#39;t know about before. You&#39;ll notice that the title of the post is &quot;Mac Edition&quot; which hints at a series!&lt;/p&gt;
 
@@ -3233,14 +3233,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/here-the-latest</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/here-the-latest"/>
+    <id>http://ttimsmith.com/articles/here-the-latest</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/here-the-latest"/>
     <title>Here’s the Latest</title>
     <published>2012-01-30T00:00:00-06:00</published>
     <updated>2012-01-30T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;This Saturday, I finally decided it was time to get serious about my sites and actually host them somewhere reliable. I&#39;m happy to say that my three awesome sites (&lt;a href=&quot;http://laughifyouwanttoo.com&quot; target=&quot;_blank&quot;&gt;Laugh If You Want Too&lt;/a&gt;, &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt; and this one) are now hosted with the very trust worthy &lt;a href=&quot;http://mediatemple.net/&quot; target=&quot;_blank&quot;&gt;Media Temple&lt;/a&gt;. I&#39;m not getting paid for advertising them, I&#39;ve just really liked the service so far. The hosting is a major upgrade from what I had before and it&#39;s very affordable. At the time of writing this, their Grid Service is only $20/month. That&#39;s not bad, not bad at all.&lt;/p&gt;
 
@@ -3261,14 +3261,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/fresh-new-look</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/fresh-new-look"/>
+    <id>http://ttimsmith.com/articles/fresh-new-look</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/articles/fresh-new-look"/>
     <title>Fresh New Look!</title>
     <published>2012-01-09T00:00:00-06:00</published>
     <updated>2012-01-09T00:00:00-06:00</updated>
     <author>
-      <name>Your Name</name>
-      <uri>http://ttimsmith.github.com/</uri>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
     </author>
     <content type="html">&lt;p&gt;So, I’ve got a brand new site... again. It almost seems that I’m redesigning this crap too much. But, the truth is, there are always better ways to solve problems and I strive to do that with all of my work, even my personal stuff. With that said, the site I had up before honestly looked a bit amateurish. I don’t know what I was thinking. I mean, it did only take about two hours to design and code it up so, that might explain things a bit. Either way, moving forward, there were a couple of things I wanted to get better at.&lt;/p&gt;
 
