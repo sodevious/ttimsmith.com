@@ -109,6 +109,14 @@ TEXT
   }
 }
 
+.page-title {
+  margin: 0 0 3.5% 10%;
+  font-weight: 800;
+  line-height: 140%;
+  @extend %heading-size-xl;
+
+}
+
 p.pubdate {
   color: lighten($darkColor, 40%);
   font-size: .85em;
