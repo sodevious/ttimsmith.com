@@ -50,14 +50,10 @@
 
           <nav>
             <a href="/about">About</a>
-            <a href="/portfolio">Portfolio</a>
+            <!-- <a href="/portfolio">Portfolio</a> -->
             <a href="/contact">Contact</a>
             <a target="_blank" href="https://twitter.com/ttimsmith">@ttimsmith</a>
           </nav>
-
-          <div class="search-form">
-            <?php get_search_form(); ?>
-          </div><!-- .search-form -->
 
         </header><!-- .site__header -->
 
@@ -65,9 +61,21 @@
           
           <section class="column__content" role="main">
             <div class="single">
-  <div class="type-post format-">
+  <div class="type-post format-link">
     <article class="entry">
       <div class="contain">   
+        
+          <p class="pubdate">February 12, 2013</p>
+          <h2>
+           <a href="http://thebran.ch/articles/exploration" target="_blank">My Article on The Branch</a>
+          </h2>
+          <blockquote>
+  <p>Inspiration is not only the way you think; it's why you think that way. It's a feeling. It's the feeling you get before you work on something for hours. For me, it's the moment I know I'll need a fresh cup of coffee.</p>
+</blockquote>
+
+<p>A couple of weeks ago, I was asked by James, the Editor of The Branch, to write an article about this simple question: What inspires you? I've always had a difficult time responding to that question but, I feel the article does a good job of exploring what my answer is. Hope you find my thoughts useful.</p>
+
+          
           
       </div><!-- .contain -->
     </article>
@@ -78,7 +86,7 @@
           <footer>
             <div class="content">
               <div class="contain">
-                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="http://ttimsmith.com/feed">Subscribe via RSS</a></small>
+                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="/feed.xml">Subscribe via RSS</a></small>
                 <small>Kindly hosted by <a href="http://www.mediatemple.net/#a_aid=4f42c6d7d53a5" target="_blank">Media Temple</a>.</small>
               </div><!-- .contain -->
             </div><!-- .content -->
@@ -88,7 +96,7 @@
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="/assets/js/jquery.fitvids-ck.js"></script>
-        // <script src="/assets/js/stuff-ck.js"></script>
+        <script src="/assets/js/stuff-ck.js"></script>
 
     </body>
 </html>

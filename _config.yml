@@ -3,4 +3,6 @@ markdown: kramdown
 pygments: true
 permalink: /:categories/:title
 destination: ./_publish
-paginate: 15
+paginate: 20
+exclude: ['scss']
+include: ['.htaccess']

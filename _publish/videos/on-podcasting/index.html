@@ -50,14 +50,10 @@
 
           <nav>
             <a href="/about">About</a>
-            <a href="/portfolio">Portfolio</a>
+            <!-- <a href="/portfolio">Portfolio</a> -->
             <a href="/contact">Contact</a>
             <a target="_blank" href="https://twitter.com/ttimsmith">@ttimsmith</a>
           </nav>
-
-          <div class="search-form">
-            <?php get_search_form(); ?>
-          </div><!-- .search-form -->
 
         </header><!-- .site__header -->
 
@@ -65,9 +61,27 @@
           
           <section class="column__content" role="main">
             <div class="single">
-  <div class="type-post format-">
+  <div class="type-post format-video">
     <article class="entry">
       <div class="contain">   
+        
+          <p class="pubdate">February 22, 2012</p>
+
+          <div class="video-pusher"><iframe width="640" height="480" src="http://www.youtube.com/embed/Y0fU377NMsM" frameborder="0" allowfullscreen></iframe> </div>
+          
+          <h2>On Podcasting</h2>
+                  
+          <p>Wanted to create a quick screencast that goes over the basics on setting up Podpress, a plugin for Wordpress that is made for podcasting. We go through creating a feed, running it through feedburner and submitting to the iTunes store. Hope you find this useful!</p>
+
+<h3>Video Links</h3>
+
+<ul class="show-notes">
+<li><a href="http://wordpress.org/extend/plugins/podpress/" target="_blank">podPress plugin</a></li>
+<li><a href="http://www.apple.com/itunes/podcasts/specs.html" target="_blank">iTunes Podcast Specs</a></li>
+<li><a href="http://feedburner.google.com/" target="_blank">Feedburner</a></li>
+</ul>
+
+
           
       </div><!-- .contain -->
     </article>
@@ -78,7 +92,7 @@
           <footer>
             <div class="content">
               <div class="contain">
-                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="http://ttimsmith.com/feed">Subscribe via RSS</a></small>
+                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="/feed.xml">Subscribe via RSS</a></small>
                 <small>Kindly hosted by <a href="http://www.mediatemple.net/#a_aid=4f42c6d7d53a5" target="_blank">Media Temple</a>.</small>
               </div><!-- .contain -->
             </div><!-- .content -->
@@ -88,7 +102,7 @@
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="/assets/js/jquery.fitvids-ck.js"></script>
-        // <script src="/assets/js/stuff-ck.js"></script>
+        <script src="/assets/js/stuff-ck.js"></script>
 
     </body>
 </html>

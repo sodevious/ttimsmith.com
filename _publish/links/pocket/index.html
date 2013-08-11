@@ -50,14 +50,10 @@
 
           <nav>
             <a href="/about">About</a>
-            <a href="/portfolio">Portfolio</a>
+            <!-- <a href="/portfolio">Portfolio</a> -->
             <a href="/contact">Contact</a>
             <a target="_blank" href="https://twitter.com/ttimsmith">@ttimsmith</a>
           </nav>
-
-          <div class="search-form">
-            <?php get_search_form(); ?>
-          </div><!-- .search-form -->
 
         </header><!-- .site__header -->
 
@@ -65,9 +61,21 @@
           
           <section class="column__content" role="main">
             <div class="single">
-  <div class="type-post format-">
+  <div class="type-post format-link">
     <article class="entry">
       <div class="contain">   
+        
+          <p class="pubdate">October 25, 2012</p>
+          <h2>
+           <a href="http://getpocket.com/" target="_blank">Pocket</a>
+          </h2>
+          <blockquote>
+  <p>Pocket is a “read it later”-style service that allows users to bookmark parts of the webs to be read in the future.</p>
+</blockquote>
+
+<p>This seems like a pretty awesome app. I had to find out if it integrated with Tweetbot because that's where I usually save links from. It definitely shows promise. Now a days, I feel like I do most of my reeding from recommendations on Twitter instead of RSS feeds anyway. What do you think? Will you be giving it a shot?</p>
+
+          
           
       </div><!-- .contain -->
     </article>
@@ -78,7 +86,7 @@
           <footer>
             <div class="content">
               <div class="contain">
-                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="http://ttimsmith.com/feed">Subscribe via RSS</a></small>
+                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="/feed.xml">Subscribe via RSS</a></small>
                 <small>Kindly hosted by <a href="http://www.mediatemple.net/#a_aid=4f42c6d7d53a5" target="_blank">Media Temple</a>.</small>
               </div><!-- .contain -->
             </div><!-- .content -->
@@ -88,7 +96,7 @@
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="/assets/js/jquery.fitvids-ck.js"></script>
-        // <script src="/assets/js/stuff-ck.js"></script>
+        <script src="/assets/js/stuff-ck.js"></script>
 
     </body>
 </html>

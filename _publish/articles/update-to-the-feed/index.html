@@ -50,14 +50,10 @@
 
           <nav>
             <a href="/about">About</a>
-            <a href="/portfolio">Portfolio</a>
+            <!-- <a href="/portfolio">Portfolio</a> -->
             <a href="/contact">Contact</a>
             <a target="_blank" href="https://twitter.com/ttimsmith">@ttimsmith</a>
           </nav>
-
-          <div class="search-form">
-            <?php get_search_form(); ?>
-          </div><!-- .search-form -->
 
         </header><!-- .site__header -->
 
@@ -65,9 +61,15 @@
           
           <section class="column__content" role="main">
             <div class="single">
-  <div class="type-post format-">
+  <div class="type-post format-post">
     <article class="entry">
       <div class="contain">   
+        
+          <p class="pubdate">August  9, 2012</p>
+          <h2>Update to the Feed</h2>
+          <p>Hi Everyone! So I deleted the old feed and created a new one. Why? The old one had ads on it back when I believed in “monetizing” everything (I was so stupid). The problem was, I couldn’t delete the ads anymore. I had done some type of intricate who-knows-what and was now stuck. The only way out was to delete the feed and start fresh so that’s what I did. You can now subscribe to the new feed <a href="http://feeds.feedburner.com/timothybsmith">here</a> or with the RSS link above. As always, thanks for reading!</p>
+
+          
           
       </div><!-- .contain -->
     </article>
@@ -78,7 +80,7 @@
           <footer>
             <div class="content">
               <div class="contain">
-                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="http://ttimsmith.com/feed">Subscribe via RSS</a></small>
+                <small>&copy; 2008&ndash;2013 Timothy B. Smith. <a href="/feed.xml">Subscribe via RSS</a></small>
                 <small>Kindly hosted by <a href="http://www.mediatemple.net/#a_aid=4f42c6d7d53a5" target="_blank">Media Temple</a>.</small>
               </div><!-- .contain -->
             </div><!-- .content -->
@@ -88,7 +90,7 @@
         
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="/assets/js/jquery.fitvids-ck.js"></script>
-        // <script src="/assets/js/stuff-ck.js"></script>
+        <script src="/assets/js/stuff-ck.js"></script>
 
     </body>
 </html>

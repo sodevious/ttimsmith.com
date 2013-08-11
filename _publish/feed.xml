@@ -4,7 +4,7 @@
   <title>Timothy B Smith</title>
   <link href="http://ttimsmith.github.com/"/>
   <link type="application/atom+xml" rel="self" href="http://ttimsmith.github.com/feed.xml"/>
-  <updated>2013-08-10T01:00:51-05:00</updated>
+  <updated>2013-08-10T20:08:59-05:00</updated>
   <id>http://ttimsmith.github.com/</id>
   <author>
     <name>Your Name</name>
@@ -1312,10 +1312,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Rachel Shillcock. She&#39;s such an awesome gal, and talking with her was so easy since we Skype every once in a while. I&#39;m sure you&#39;ll like the episode; it&#39;s cheerful, happy, and educational.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/47-rachel&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Rachel Shillcock. She&#39;s such an awesome gal, and talking with her was so easy since we Skype every once in a while. I&#39;m sure you&#39;ll like the episode; it&#39;s cheerful, happy, and educational.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1328,10 +1325,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had the honor of talking with Geri Coady. Geri is a talend Designer, Illustrator, and Photographer. I&#39;m &lt;em&gt;so&lt;/em&gt; jealous of her awesome illustration skills. We talk about how she got started, her venture into freelancing, and her process into choosing colors.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/46-geri&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I had the honor of talking with Geri Coady. Geri is a talend Designer, Illustrator, and Photographer. I&#39;m &lt;em&gt;so&lt;/em&gt; jealous of her awesome illustration skills. We talk about how she got started, her venture into freelancing, and her process into choosing colors.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1357,14 +1351,14 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   <entry>
     <id>http://ttimsmith.github.com/videos/the-making-of-john-mayers-born-raised-artwork</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/the-making-of-john-mayers-born-raised-artwork"/>
-    <title>The Making of John Mayer's 'Born & Raised' Artwork</title>
+    <title>The Making of John Mayer’s ‘Born &amp; Raised’ Artwork</title>
     <published>2013-03-01T00:00:00-06:00</published>
     <updated>2013-03-01T00:00:00-06:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I found this video via &lt;a href=\&quot;https://twitter.com/jasonvanlue\&quot;&gt;Jason VanLue&lt;/a&gt;. The attention to detail is amazing. I envy the talent of people like this.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I found this video via &lt;a href=&quot;https://twitter.com/jasonvanlue&quot;&gt;Jason VanLue&lt;/a&gt;. The attention to detail is amazing. I envy the talent of people like this.&lt;/p&gt;
 </content>
   </entry>
   
@@ -1378,10 +1372,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Last week, I was asked to be on Show Me Your Mic. It&#39;s a podcast that talks to other podcasters about their setup and the story behind the shows. For me, it&#39;s a lot of fun because we talk about so much more than gear (which in my case isn&#39;t the coolest setup ever). If you&#39;re interested in podcasting or want to start a podcast of your own, I&#39;m sure you&#39;ll like this show.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://www.ssktn.com/smym/tim-smith/&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;Last week, I was asked to be on Show Me Your Mic. It&#39;s a podcast that talks to other podcasters about their setup and the story behind the shows. For me, it&#39;s a lot of fun because we talk about so much more than gear (which in my case isn&#39;t the coolest setup ever). If you&#39;re interested in podcasting or want to start a podcast of your own, I&#39;m sure you&#39;ll like this show.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1416,10 +1407,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I was looking forward to this episode so much. As you may know, I&#39;m trying to publish a magazine. Elliot has successfully published five issues of one. In this episode, we talk about how he got started, his first job, and much more!&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/44-elliot&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I was looking forward to this episode so much. As you may know, I&#39;m trying to publish a magazine. Elliot has successfully published five issues of one. In this episode, we talk about how he got started, his first job, and much more!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1450,10 +1438,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This past week, I was so excited to be interviewed on Podcast Champion: a podcast by my pal Justin about podcasting. It was a lot of fun to talk about why I started The East Wing, what&#39;s impact it&#39;s had in my life and a lot of the behind-the-scenes work that goes into producing the show. If you&#39;re like me, curious about that type of stuff, I&#39;m sure you&#39;ll like this podcast.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://podcastchampion.strongcaster.com/2013/02/18/ep03-tim-smith-of-the-east-wing-podcast/&quot;&gt;Take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This past week, I was so excited to be interviewed on Podcast Champion: a podcast by my pal Justin about podcasting. It was a lot of fun to talk about why I started The East Wing, what&#39;s impact it&#39;s had in my life and a lot of the behind-the-scenes work that goes into producing the show. If you&#39;re like me, curious about that type of stuff, I&#39;m sure you&#39;ll like this podcast.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1466,10 +1451,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Sara Wachter-Boettcher. Sara is a Content Strategist, Author of &lt;a href=\&quot;http://rosenfeldmedia.com/books/content-everywhere/\&quot;&gt;Content Everywhere&lt;/a&gt;, Editor of &lt;a href=\&quot;http://alistapart.com\&quot;&gt;A List Apart&lt;/a&gt;, speaker, and a down-to-earth gal. I had the chance to ask her about content strategy and where it fits within the process of making a website, writing a book, the editorial process at A List Apart, and much more.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://theeastwing.net/episodes/43-sara\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I had the absolute pleasure of talking with Sara Wachter-Boettcher. Sara is a Content Strategist, Author of &lt;a href=&quot;http://rosenfeldmedia.com/books/content-everywhere/&quot;&gt;Content Everywhere&lt;/a&gt;, Editor of &lt;a href=&quot;http://alistapart.com&quot;&gt;A List Apart&lt;/a&gt;, speaker, and a down-to-earth gal. I had the chance to ask her about content strategy and where it fits within the process of making a website, writing a book, the editorial process at A List Apart, and much more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1500,10 +1482,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;You might\&#39;ve noticed that I published an &lt;a href=\&quot;http://timothybsmith.com/links/my-article-on-the-treehouse-blog\&quot;&gt;article on the Treehouse Blog&lt;/a&gt; about business. My friends over at Pagebreak invited me to be on their show and talk about it. I\&#39;m usually having to worry about everything working properly during a recording but, this time, all I had to do was show up. It was so fun!&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://www.pagebreakpodcast.com/snippets/better-freelance-business-practices/\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;You might’ve noticed that I published an &lt;a href=&quot;http://timothybsmith.com/links/my-article-on-the-treehouse-blog&quot;&gt;article on the Treehouse Blog&lt;/a&gt; about business. My friends over at Pagebreak invited me to be on their show and talk about it. I’m usually having to worry about everything working properly during a recording but, this time, all I had to do was show up. It was so fun!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1516,10 +1495,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the delight of talking with Laura Kalbag on The East Wing this week. She&#39;s a Designer and Front-End Developer and absolutely awesome. We talked about how she got started, equality in our industry, mentorship and so much more.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/laura-kalbag&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I had the delight of talking with Laura Kalbag on The East Wing this week. She&#39;s a Designer and Front-End Developer and absolutely awesome. We talked about how she got started, equality in our industry, mentorship and so much more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1546,10 +1522,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I talk to the young and very talented Trevan Hetzel. We talked about how he got started, growing his business in a rural area and his soon-to-be-launched product, Sidecar.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://theeastwing.net/episodes/41-trevan\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I talk to the young and very talented Trevan Hetzel. We talked about how he got started, growing his business in a rural area and his soon-to-be-launched product, Sidecar.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1562,10 +1535,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week I had the absolute pleasure of talking with Andy Clarke. He&#39;s written two great books and given talks at many conferences. We had the chance to talk about his books, podcasts and dealing with clients properly.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/40-andy&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week I had the absolute pleasure of talking with Andy Clarke. He&#39;s written two great books and given talks at many conferences. We had the chance to talk about his books, podcasts and dealing with clients properly.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1582,7 +1552,7 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
   &lt;p&gt;Freelancing is regarded as the holy grail in our industry. It’s something most people look to as a magical fantasy land where all dreams come true. However, being a freelancer can be very difficult if you don’t know much about the business of design.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;About a month ago, my buddie &lt;a href=&quot;#&quot;&gt;Josh Long&lt;/a&gt; asked if anyone was interested in contributing to the Treehouse blog. Since I have a constant need to feel &amp;amp; sound smart, I jumped at the chance! Today, my first article went live. I talk about some things I&#39;ve picked up related to the business of design.&lt;/p&gt;
+&lt;p&gt;About a month ago, my buddie Josh Long asked if anyone was interested in contributing to the Treehouse blog. Since I have a constant need to feel &amp;amp; sound smart, I jumped at the chance! Today, my first article went live. I talk about some things I&#39;ve picked up related to the business of design.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Enjoy!&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -1620,24 +1590,20 @@ This is a new show I plan to do. It&#39;s a weekly news update focused on the te
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had a chance to talk with Trent Walton. Trent is the guy behind the awesome art directed articles on his &lt;a href=&quot;http://trentwalton.com&quot;&gt;personal site&lt;/a&gt; and is one-third of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;. He&#39;s a really great guy and it was nice chatting about how he got into design and the early troubles of Paravel.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/39-trent&quot;&gt;take a listen&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This week on The East Wing, I had a chance to talk with Trent Walton. Trent is the guy behind the awesome art directed articles on his &lt;a href=&quot;http://trentwalton.com&quot;&gt;personal site&lt;/a&gt; and is one-third of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;. He&#39;s a really great guy and it was nice chatting about how he got into design and the early troubles of Paravel.&lt;/p&gt;</content>
   </entry>
   
   <entry>
-    <id>http://ttimsmith.github.com/articles/new-episode-of-the-east-wing-with-steve-sam</id>
-    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/new-episode-of-the-east-wing-with-steve-sam"/>
-    <title>New Episode of The East Wing with Steve & Sam</title>
+    <id>http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-steve-sam</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/new-episode-of-the-east-wing-with-steve-sam"/>
+    <title>New Episode of The East Wing with Steve &amp; Sam</title>
     <published>2013-01-09T00:00:00-06:00</published>
     <updated>2013-01-09T00:00:00-06:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Last week, I had the chance to sit down with Steve Derico and Sam Soffes. These two guys are behind one of my favorite podcasts: &lt;a href=\&quot;http://refactor.tv/\&quot;&gt;Refactor.Tv&lt;/a&gt;. In the episode we talk about a variety of things. It was really fun to record. It feels more like you get to listen in to one of our conversations more than an actual interview. You should &lt;a href=\&quot;http://theeastwing.net/episodes/38-steve\&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;Last week, I had the chance to sit down with Steve Derico and Sam Soffes. These two guys are behind one of my favorite podcasts: &lt;a href=&quot;http://refactor.tv/&quot;&gt;Refactor.Tv&lt;/a&gt;. In the episode we talk about a variety of things. It was really fun to record. It feels more like you get to listen in to one of our conversations more than an actual interview. </content>
   </entry>
   
   <entry>
@@ -1697,30 +1663,30 @@ I&#39;m single and in the prime of my life. I need to get out of my apartment mo
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Recently, I&#39;ve been making an effort to have coffee or meet up with fellow designers and developers here in the Twin Cities. We have a very strong community of smart and creative people here so, I&#39;ve been trying to get to know people individually. As you might know, I&#39;m a coffee addict so, these meetings are a great way to feed the vice.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Recently, I’ve been making an effort to have coffee or meet up with fellow designers and developers here in the Twin Cities. We have a very strong community of smart and creative people here so, I&#39;ve been trying to get to know people individually. As you might know, I’m a coffee addict so, these meetings are a great way to feed the vice.&lt;/p&gt;
 
-&lt;p&gt;However, I&#39;ve come across something extraordinary. In each of these coffee meetings, we always end up talking about something fascinating that the other person is working on and my question is always the same: &quot;Why aren&#39;t you writing about this?&quot;.&lt;/p&gt;
+&lt;p&gt;However, I’ve come across something extraordinary. In each of these coffee meetings, we always end up talking about something fascinating that the other person is working on and my question is always the same: “Why aren’t you writing about this?”.&lt;/p&gt;
 
-&lt;p&gt;I&#39;ve realized that way too many people are shy about writing or documenting about their process and work. Interestingly, I talked about this with &lt;a href=&quot;http://theeastwing.net/episodes/37-brian&quot;&gt;Brian Hoff on The East Wing&lt;/a&gt; the other day. We talked about how helpful it was for him to start &lt;a href=&quot;http://thedesigncubicle.com/&quot;&gt;The Design Cubicle&lt;/a&gt;. That blog has not only been a huge source of work for him; it&#39;s served countless times as a valuable resource for me and likely for many of you.&lt;/p&gt;
+&lt;p&gt;I’ve realized that way too many people are shy about writing or documenting about their process and work. Interestingly, I talked about this with &lt;a href=&quot;http://theeastwing.net/episodes/37-brian&quot;&gt;Brian Hoff on The East Wing&lt;/a&gt; the other day. We talked about how helpful it was for him to start &lt;a href=&quot;http://thedesigncubicle.com/&quot;&gt;The Design Cubicle&lt;/a&gt;. That blog has not only been a huge source of work for him; it&#39;s served countless times as a valuable resource for me and likely for many of you.&lt;/p&gt;
 
-&lt;p&gt;What would&#39;ve happened if he hadn&#39;t been keen on sharing? I think it&#39;s safe to say that his career would be completely different.&lt;/p&gt;
+&lt;p&gt;What would’ve happened if he hadn’t been keen on sharing? I think it&#39;s safe to say that his career would be completely different.&lt;/p&gt;
 
 &lt;p&gt;Let me tell you another story. I had the pleasure of going to &lt;a href=&quot;http://frontenddesignconference.com/2012&quot;&gt;The Front-End Design Conference&lt;/a&gt; last June. Both &lt;a href=&quot;http://daverupert.com/&quot;&gt;Dave Rupert&lt;/a&gt; and &lt;a href=&quot;http://darcyclarke.me/&quot;&gt;Darcy Clarke&lt;/a&gt; clearly admonished people to share and blog more about what they were working on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I completely agree with this movement.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;You might be thinking, &quot;Another blog? Would anyone even be interested in what I write?&quot;. &lt;strong&gt;That doesn&#39;t matter.&lt;/strong&gt; Let me give you a couple of reasons why you should be writing.&lt;/p&gt;
+&lt;p&gt;You might be thinking, “Another blog? Would anyone even be interested in what I write?”. &lt;strong&gt;That doesn&#39;t matter.&lt;/strong&gt; Let me give you a couple of reasons why you should be writing.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Learn as you go&lt;/strong&gt;&lt;br /&gt;
-Do you think Chris Coyier knew what he was doing when he first started &lt;a href=&quot;http://css-tricks.com/&quot;&gt;CSS-Tricks&lt;/a&gt;? I bet you he didn&#39;t. He was fascinated with what you could do with CSS and just wanted to share what he was learning along the way. In the process, he went from being a beginner to a very respected person in our industry.&lt;/p&gt;&lt;/li&gt;
+Do you think Chris Coyier knew what he was doing when he first started &lt;a href=&quot;http://css-tricks.com/&quot;&gt;CSS-Tricks&lt;/a&gt;? I bet you he didn’t. He was fascinated with what you could do with CSS and just wanted to share what he was learning along the way. In the process, he went from being a beginner to a very respected person in our industry.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Get work&lt;/strong&gt;&lt;br /&gt;
-Most of the work I&#39;ve done, whether it be freelance or the full-time jobs I&#39;ve been so fortunate to hold, have come about either through this blog or &lt;a href=&quot;http://theeastwing.net/&quot;&gt;The East Wing&lt;/a&gt;. Employers and clients like people who are passionate about what they do and sharing things you&#39;re learning is a great way to show that.&lt;/p&gt;&lt;/li&gt;
+Most of the work I’ve done, whether it be freelance or the full-time jobs I’ve been so fortunate to hold, have come about either through this blog or &lt;a href=&quot;http://theeastwing.net/&quot;&gt;The East Wing&lt;/a&gt;. Employers and clients like people who are passionate about what they do and sharing things you’re learning is a great way to show that.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Strengthen Your Personal Brand&lt;/strong&gt;&lt;br /&gt;
-A lot of people want to write for the big blogs or publications to be recognized but, what they&#39;re forgetting is their own brand. I think a great example of this &lt;a href=&quot;http://daringfireball.net/&quot;&gt;John Gruber&lt;/a&gt;. You know him from his own personal writing place: Daring Fireball, not as the writer from another publication. He&#39;s turned his name and brand into a very respected one.&lt;/p&gt;&lt;/li&gt;
+A lot of people want to write for the big blogs or publications to be recognized but, what they’re forgetting is their own brand. I think a great example of this &lt;a href=&quot;http://daringfireball.net/&quot;&gt;John Gruber&lt;/a&gt;. You know him from his own personal writing place: Daring Fireball, not as the writer from another publication. He’s turned his name and brand into a very respected one.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;So what do you say? Will you throw embarrassment or the thoughts of not having enough experience to the wind and start your own blog? Will you start sharing what you&#39;re working on and help others who may be trying to learn something similar?&lt;/p&gt;
+&lt;p&gt;So what do you say? Will you throw embarrassment or the thoughts of not having enough experience to the wind and start your own blog? Will you start sharing what you’re working on and help others who may be trying to learn something similar?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Do it.&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -1736,10 +1702,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the huge pleasure of sitting down with Brian Hoff last week on The East Wing. We got to talk about how he started, some very sound business advice and a whole lot more.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=\&quot;http://theeastwing.net/episodes/37-brian\&quot;&gt;take a listen&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I had the huge pleasure of sitting down with Brian Hoff last week on The East Wing. We got to talk about how he started, some very sound business advice and a whole lot more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1792,10 +1755,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I was so honored to be on &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt; last week! It was such a blast recording with Chris and Dave. We talk about the weeks hot drama, what&#39;s going on with Make Awesome and more!&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://shoptalkshow.com/episodes/047-with-tim-smith/&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I was so honored to be on &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt; last week! It was such a blast recording with Chris and Dave. We talk about the weeks hot drama, what&#39;s going on with Make Awesome and more!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1808,10 +1768,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I got the awesome pleasure of talking with &lt;a href=&quot;http://kerem.co/&quot;&gt;Kerem Suer&lt;/a&gt; this week on The East Wing. He&#39;s such a smart and talented guy and we got to talk about college, his work at Fitbit and more.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/36-kerem&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I got the awesome pleasure of talking with &lt;a href=&quot;http://kerem.co/&quot;&gt;Kerem Suer&lt;/a&gt; this week on The East Wing. He&#39;s such a smart and talented guy and we got to talk about college, his work at Fitbit and more.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1824,10 +1781,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I&#39;ve long been a fan of &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt;. He&#39;s a real down-to-earth guy that does tons of awesome stuff. Not only do I like a lot of things he does, I like the reason why he does it.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/35-drew&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I&#39;ve long been a fan of &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt;. He&#39;s a real down-to-earth guy that does tons of awesome stuff. Not only do I like a lot of things he does, I like the reason why he does it.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -1840,16 +1794,16 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;It&#39;s always bothered me that girls are brought up thinking they&#39;re princesses. I feel like it&#39;s a huge lie. Being a princess isn&#39;t an actual job you can achieve and isn&#39;t real life. The truth is, women don&#39;t dress up in gowns everyday and &quot;Prince Charming&quot; only exists in books. Girls can grow up to be so much more.&lt;/p&gt;
+    <content type="html">&lt;p&gt;It’s always bothered me that girls are brought up thinking they’re princesses. I feel like it’s a huge lie. Being a princess isn’t an actual job you can achieve and isn’t real life. The truth is, women don’t dress up in gowns everyday and “Prince Charming” only exists in books. Girls can grow up to be so much more.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/goldieblox&quot;&gt;Debbie Lewis&lt;/a&gt; knows this and wanted to create a toy that would stimulate an interest in science and engineering for girls. It&#39;s called GoldieBlox. I admire what she&#39;s doing and I&#39;m glad she&#39;s doing it. Find out more about the toy &lt;a href=&quot;http://www.upworthy.com/move-over-barbie-8212-youre-obsolete&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/goldieblox&quot;&gt;Debbie Lewis&lt;/a&gt; knows this and wanted to create a toy that would stimulate an interest in science and engineering for girls. It&#39;s called GoldieBlox. I admire what she’s doing and I’m glad she’s doing it. Find out more about the toy &lt;a href=&quot;http://www.upworthy.com/move-over-barbie-8212-youre-obsolete&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <id>http://ttimsmith.github.com/articles/latest-news-updates</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/latest-news-updates"/>
-    <title>Latest News & Updates</title>
+    <title>Latest News &amp; Updates</title>
     <published>2012-12-04T00:00:00-06:00</published>
     <updated>2012-12-04T00:00:00-06:00</updated>
     <author>
@@ -1892,7 +1846,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This week on The East Wing, I had the pleasure of recording with Chris Wallace. He&#39;s a real down-to-earth guy that has gone through a lot in life and never gives up. I admire him a bunch and it was fun hearing more about his story and the exciting things he&#39;s working on. You should &lt;a href=&quot;http://theeastwing.net/episodes/34-chris&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;This week on The East Wing, I had the pleasure of recording with Chris Wallace. He&#39;s a real down-to-earth guy that has gone through a lot in life and never gives up. I admire him a bunch and it was fun hearing more about his story and the exciting things he&#39;s working on.&lt;/p&gt;
 </content>
   </entry>
   
@@ -1906,7 +1860,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Last week, I received an awesome email from David Silverman, a ninth grader that has interviewed some of the best in our industry on InstantBight. How I made it on that list, I don&#39;t know. However, I&#39;m very happy and honored to be on it. You should &lt;a href=&quot;http://instantbight.com/instantbight/interview-with-tim-smithtimothybsmith&quot;&gt;read it&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Last week, I received an awesome email from David Silverman, a ninth grader that has interviewed some of the best in our industry on InstantBight. How I made it on that list, I don&#39;t know. However, I&#39;m very happy and honored to be on it.&lt;/p&gt;
 </content>
   </entry>
   
@@ -1934,7 +1888,7 @@ A lot of people want to write for the big blogs or publications to be recognized
   &lt;p&gt;You&#39;ve got to look out for yourself because no one else is going to do it for you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;As sad as that is, it&#39;s true. If people know they can get you to do things for free, they will. If they know you&#39;re reachable at night for &quot;project emergencies&quot;, they will take advantage of that. Of course, I think it&#39;s essential to be respectful when establishing these limits and I&#39;ve seen that when I set them early, things go so much smoother.&lt;/p&gt;
+&lt;p&gt;As sad as that is, it&#39;s true. If people know they can get you to do things for free, they will. If they know you&#39;re reachable at night for “project emergencies”, they will take advantage of that. Of course, I think it&#39;s essential to be respectful when establishing these limits and I&#39;ve seen that when I set them early, things go so much smoother.&lt;/p&gt;
 
 &lt;p&gt;So, in an effort to keep the balance a bit better and enjoy life more, I&#39;m eliminating email from my phone. In the world we live in, with everything being instant and people becoming less patient, I think it&#39;s important to disconnect and enjoy the things away from the desk.&lt;/p&gt;
 </content>
@@ -1950,7 +1904,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/11/biz-cards1.png&quot; alt=&quot;Anythin&#39; Goes Business Cards&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/11/biz-cards1.png&quot; alt=&quot;Anythin&#39; Goes Business Cards&quot; /&gt;
 
 &lt;p&gt;As you may know, the amazing &lt;a href=&quot;http://vicbell.co.uk/&quot;&gt;Vic Bell&lt;/a&gt; did the logo for my new company &lt;a href=&quot;http://anythingo.es&quot;&gt;Anythin’ Goes&lt;/a&gt;. Anythin’ Goes is my small one-man design studio specializing in web and iOS design. I had some business cards made by the awesome people at &lt;a href=&quot;http://www.moo.com/share/jmsrc5&quot;&gt;Moo&lt;/a&gt; to hand out to people in an effort to look as professional as possible. I hope it works.&lt;/p&gt;
 </content>
@@ -1966,7 +1920,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the pleasure of having Jeff Sheldon on The East Wing this week. For those of you who don&#39;t know, Jeff Sheldon is the Founder of &lt;a href=&quot;http://shop.ugmonk.com/&quot;&gt;Ugmonk&lt;/a&gt;. It was a lot of fun talking to him and seeing how much he&#39;s enjoying running Ugmonk. His story is an interesting one and he imparts some great advice. You should &lt;a href=&quot;http://theeastwing.net/episodes/33-jeff&quot;&gt;give it a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I had the pleasure of having Jeff Sheldon on The East Wing this week. For those of you who don&#39;t know, Jeff Sheldon is the Founder of &lt;a href=&quot;http://shop.ugmonk.com/&quot;&gt;Ugmonk&lt;/a&gt;. It was a lot of fun talking to him and seeing how much he&#39;s enjoying running Ugmonk. His story is an interesting one and he imparts some great advice.&lt;/p&gt;
 </content>
   </entry>
   
@@ -1980,7 +1934,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Hey freelancers! How do you go about generating leads for freelance projects or finding new projects? So many people say, &quot;Ah.. you&#39;ll get there&quot;, when that&#39;s not really an answer. Thanks for all your help!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Hey freelancers! How do you go about generating leads for freelance projects or finding new projects? So many people say, “Ah.. you&#39;ll get there”, when that’s not really an answer. Thanks for all your help!&lt;/p&gt;
 </content>
   </entry>
   
@@ -2008,14 +1962,14 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I recorded a new episode of The East Wing this week with &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;. For those of you who don&#39;t know him, he&#39;s a really nice guy. He host three podcasts himself and on the show we talk about podcasting and his role as Product Lead at &lt;a href=&quot;https://www.purecharity.com/?aff=36437&quot;&gt;Pure Charity&lt;/a&gt;. You should &lt;a href=&quot;http://theeastwing.net/episodes/32-adam&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I recorded a new episode of The East Wing this week with &lt;a href=&quot;http://adamstacoviak.com/&quot;&gt;Adam Stacoviak&lt;/a&gt;. For those of you who don&#39;t know him, he&#39;s a really nice guy. He host three podcasts himself and on the show we talk about podcasting and his role as Product Lead at &lt;a href=&quot;https://www.purecharity.com/?aff=36437&quot;&gt;Pure Charity&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <id>http://ttimsmith.github.com/articles/freelancing-what-ive-learned</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/freelancing-what-ive-learned"/>
-    <title>Freelancing: What I've Learned</title>
+    <title>Freelancing: What I’ve Learned</title>
     <published>2012-11-08T00:00:00-06:00</published>
     <updated>2012-11-08T00:00:00-06:00</updated>
     <author>
@@ -2034,7 +1988,7 @@ A lot of people want to write for the big blogs or publications to be recognized
 
 &lt;p&gt;I&#39;ve seen a huge increase in my productivity when I shower in the mornings. Especially since I work from home, it could become to easy to roll out of bed and immediately sit down at my desk. In contrast, a good shower makes me feel fresh, awake and ready to get to work. I&#39;ve only been doing this recently but, I&#39;ve noticed that when I do, I feel really good about the day.&lt;/p&gt;
 
-&lt;h3&gt;Don&#39;t Eat Junk Food&lt;/h3&gt;
+&lt;h3&gt;Don’t Eat Junk Food&lt;/h3&gt;
 
 &lt;p&gt;This is one I haven&#39;t been doing so well. I&#39;ve noticed an increase in my weight since I began freelancing because I&#39;m not as cautious of the food I&#39;m consuming. Junk food is not only bad for your health but, I&#39;ve noticed that it makes me feel crappy about myself. Low self-esteem is no good for a designer or, therefore, anyone.&lt;/p&gt;
 
@@ -2113,14 +2067,14 @@ A lot of people want to write for the big blogs or publications to be recognized
   <entry>
     <id>http://ttimsmith.github.com/videos/adam-braults-talk-from-realtimeconf</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/adam-braults-talk-from-realtimeconf"/>
-    <title>Adam Brault's Talk from RealtimeConf</title>
+    <title>Adam Brault’s Talk from RealtimeConf</title>
     <published>2012-11-02T00:00:00-05:00</published>
     <updated>2012-11-02T00:00:00-05:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Love this talk from RealtimeConf. &lt;a href=&quot;http://adambrault.com/&quot;&gt;Adam Brault&lt;/a&gt; is an awesome guy and I&#39;m so bummed I couldn&#39;t make it this year. Hopefully 2013.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Love this talk from RealtimeConf. &lt;a href=&quot;http://adambrault.com/&quot;&gt;Adam Brault&lt;/a&gt; is an awesome guy and I&#39;m so bummed I couldn’t make it this year. Hopefully 2013.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2154,7 +2108,7 @@ A lot of people want to write for the big blogs or publications to be recognized
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/10/insites-cover.png&quot; alt=&quot;The Cover of Insites: The Book&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/10/insites-cover.png&quot; alt=&quot;The Cover of Insites: The Book&quot; /&gt;
 
 &lt;p&gt;I had the absolute pleasure of receiving my copy of &lt;em&gt;Insites: The Book&lt;/em&gt; in the mail yesterday. I was excited to take it out of its packaging and delve into what turned out to be some fantastic reading (but, I&#39;ll get to that in a moment).&lt;/p&gt;
 
@@ -2190,7 +2144,7 @@ A lot of people want to write for the big blogs or publications to be recognized
   &lt;small&gt;Allison House&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This small tweet by &lt;a href=&quot;http://allisonhou.se/&quot;&gt;Allison&lt;/a&gt; really got me thinking about my own work. It merits thinking about because what this quote really asks is if you&#39;re designing according to the goals of the website and the needs of its users or only according to the trend you&#39;re into at the moment.&lt;/p&gt;
+&lt;p&gt;This small tweet by Allison really got me thinking about my own work. It merits thinking about because what this quote really asks is if you&#39;re designing according to the goals of the website and the needs of its users or only according to the trend you&#39;re into at the moment.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2205,8 +2159,8 @@ A lot of people want to write for the big blogs or publications to be recognized
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-There is a lot to be said for the difference between planning for six months, developing for a year, learning that your users don’t want to pay for something, pivoting, starting over on development, and having your investors clean you out, as opposed to launching an open-ended, simple, and small version of a great product in which users tell you exactly what they’re willing to pay for while they’re already paying you.
-&lt;small&gt;&lt;a href=&quot;http://blog.executebook.com/post/34564768853/there-is-a-lot-to-be-said-for-the-difference&quot;&gt;Execute Book&lt;/a&gt;&lt;/small&gt;
+&lt;p&gt;There is a lot to be said for the difference between planning for six months, developing for a year, learning that your users don’t want to pay for something, pivoting, starting over on development, and having your investors clean you out, as opposed to launching an open-ended, simple, and small version of a great product in which users tell you exactly what they’re willing to pay for while they’re already paying you.
+&lt;small&gt;&lt;a href=&quot;http://blog.executebook.com/post/34564768853/there-is-a-lot-to-be-said-for-the-difference&quot;&gt;Execute Book&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;I came across this excerpt from Execute, a book by &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/joshlong&quot;&gt;Josh Long&lt;/a&gt;. I pre-ordered a while back and I highly recommend you do to. I&#39;ve had the chance to talk with Drew and I really admire the guy. He get&#39;s things done without even breaking a sweat; at least that&#39;s how it looks from the outside.&lt;/p&gt;
@@ -2313,7 +2267,7 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the great pleasure of recording an episode with &lt;a href=&quot;https://twitter.com/jmspool&quot;&gt;Jared Spool&lt;/a&gt; about a week ago. He&#39;s such a nice guy. Turns out, he&#39;s an avid listener of the show! We got the chance to talk about how he thought the internet was a fad, all the work that goes into putting on a conference and much more. You should &lt;a href=&quot;http://theeastwing.net/episodes/31-jared&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I had the great pleasure of recording an episode with &lt;a href=&quot;https://twitter.com/jmspool&quot;&gt;Jared Spool&lt;/a&gt; about a week ago. He&#39;s such a nice guy. Turns out, he&#39;s an avid listener of the show! We got the chance to talk about how he thought the internet was a fad, all the work that goes into putting on a conference and much more.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2331,7 +2285,7 @@ There is a lot to be said for the difference between planning for six months, de
 
 &lt;p&gt;Ok, now that you know who I am and a bit of my personality, you&#39;ll agree when I say that I&#39;m a nice guy. I&#39;m the type of person that opens the door for women, keep my elbows off the table and always put my napkin on my lap. I&#39;m nice, well-mannered and respectful.&lt;/p&gt;
 
-&lt;p&gt;Yet, like everyone else, I get upset. People at times say hurtful things because, hell, they&#39;re on the internet and there is nothing you can do. My pal &lt;a href=&quot;http://twitter.com/mattepp&quot;&gt;Matt&lt;/a&gt; told me yesterday that basically &quot;trolls gonna troll&quot; and it&#39;s very true. Some people find satisfaction in bringing other people down and that&#39;s just something you have to deal with in your life.&lt;/p&gt;
+&lt;p&gt;Yet, like everyone else, I get upset. People at times say hurtful things because, hell, they&#39;re on the internet and there is nothing you can do. My pal &lt;a href=&quot;http://twitter.com/mattepp&quot;&gt;Matt&lt;/a&gt; told me yesterday that basically “trolls gonna troll” and it&#39;s very true. Some people find satisfaction in bringing other people down and that&#39;s just something you have to deal with in your life.&lt;/p&gt;
 
 &lt;h3&gt;Anyway&lt;/h3&gt;
 
@@ -2339,7 +2293,7 @@ There is a lot to be said for the difference between planning for six months, de
 
 &lt;p&gt;What has worked for me, is that I always remember that there is a real person on the other side of the screen. Always. I don&#39;t want to be the cause of anyone&#39;s feelings being hurt. This isn&#39;t common but, I&#39;ve chosen not to care about what other people do.&lt;/p&gt;
 
-&lt;p&gt;I will always be nice. When I offer criticism, it will be constructive and with tact. When someone decides to troll, my response will be one filled with respect. This is how we make the web a better place: when we decide to not say anything that we wouldn&#39;t say to someone in person and as I&#39;m sure everyone&#39;s mother said at one point, &quot;If you have nothing nice to say, don&#39;t say anything at all&quot;. Because, honestly, the time spent hurting people could be better spent doing something great yourself.&lt;/p&gt;
+&lt;p&gt;I will always be nice. When I offer criticism, it will be constructive and with tact. When someone decides to troll, my response will be one filled with respect. This is how we make the web a better place: when we decide to not say anything that we wouldn&#39;t say to someone in person and as I&#39;m sure everyone&#39;s mother said at one point, “If you have nothing nice to say, don&#39;t say anything at all”. Because, honestly, the time spent hurting people could be better spent doing something great yourself.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Be nice.&lt;/strong&gt;&lt;/p&gt;
 </content>
@@ -2355,7 +2309,7 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I&#39;ve been running my own business for about a month now and, wow, have a learned a ton. However, the invaluable things I&#39;ve learned will come in a later post. I&#39;m here to talk about clients.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I’ve been running my own business for about a month now and, wow, have a learned a ton. However, the invaluable things I&#39;ve learned will come in a later post. I&#39;m here to talk about clients.&lt;/p&gt;
 
 &lt;p&gt;Nowadays, it seems that everyone wants the high profile clients. People with big ideas, the next great product. I admit that I&#39;m included in that group. I would love to design for &lt;a href=&quot;http://rdio.com&quot;&gt;Rdio&lt;/a&gt; or a product similar to that. However, I made realization today that great clients and exciting work can come from anywhere.&lt;/p&gt;
 
@@ -2370,7 +2324,7 @@ There is a lot to be said for the difference between planning for six months, de
   <entry>
     <id>http://ttimsmith.github.com/articles/dont-be-a-douche-pay-for-quality-stuff</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/dont-be-a-douche-pay-for-quality-stuff"/>
-    <title>Don't Be a Douche. Pay for Quality Stuff</title>
+    <title>Don’t Be a Douche. Pay for Quality Stuff</title>
     <published>2012-10-18T00:00:00-05:00</published>
     <updated>2012-10-18T00:00:00-05:00</updated>
     <author>
@@ -2395,10 +2349,7 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the huge privilege of recording an episode with &lt;a href=&quot;http://aarronwalter.com/&quot;&gt;Aarron Walter&lt;/a&gt;. In case you don&#39;t know, he&#39;s a great designer, speaker and author. I had such a great time talking to him about how he got started, design problems he encountered at MailChimp and a lot of the work and research that went into writing his book &lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot;&gt;Designing for Emotion&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You should &lt;a href=&quot;http://theeastwing.net/episodes/30-aarron&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I had the huge privilege of recording an episode with &lt;a href=&quot;http://aarronwalter.com/&quot;&gt;Aarron Walter&lt;/a&gt;. In case you don&#39;t know, he&#39;s a great designer, speaker and author. I had such a great time talking to him about how he got started, design problems he encountered at MailChimp and a lot of the work and research that went into writing his book &lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot;&gt;Designing for Emotion&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2416,7 +2367,7 @@ There is a lot to be said for the difference between planning for six months, de
 &lt;h3&gt;Show Notes&lt;/h3&gt;
 &lt;ul class=&quot;show-notes&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.codeschool.com/courses/assembling-sass&quot; target=&quot;_blank&quot;&gt;Code School, Assembling Sass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/u/bermonpainter/p/css-pre-processors-stylus-less-sass&quot; target=&quot;_blank&quot;&gt;CSS Pre-Processors: Stylus, Less &amp; Sass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/u/bermonpainter/p/css-pre-processors-stylus-less-sass&quot; target=&quot;_blank&quot;&gt;CSS Pre-Processors: Stylus, Less &amp;amp; Sass&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://theeastwing.net/episodes/26-bermon&quot; target=&quot;_blank&quot;&gt;SASSin’ It Up with Bermon Painter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
@@ -2436,7 +2387,7 @@ There is a lot to be said for the difference between planning for six months, de
 
 &lt;h3&gt;The Reason Behind the Name&lt;/h3&gt;
 
-&lt;p&gt;I chose Anythin&#39; Goes because I want it to be the parent company over my different projects. I&#39;m not only doing design work, I host a &lt;a href=&quot;http://theeastwing.net&quot;&gt;podcast&lt;/a&gt; and soon (hopefully) I&#39;ll be publishing a &lt;a href=&quot;http://makeaweso.me&quot;&gt;magazine&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I chose Anythin’ Goes because I want it to be the parent company over my different projects. I&#39;m not only doing design work, I host a &lt;a href=&quot;http://theeastwing.net&quot;&gt;podcast&lt;/a&gt; and soon (hopefully) I&#39;ll be publishing a &lt;a href=&quot;http://makeaweso.me&quot;&gt;magazine&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;I don&#39;t know exactly what lies in the future for me or the company but I&#39;m excited to find out and I hope you&#39;ll come along for the ride. I think this is all for the best. I feel like finally things are turning around and I&#39;m headed in a good direction, both in my life and career.&lt;/p&gt;
 </content>
@@ -2466,7 +2417,7 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt;, recommended this video to me and I loved it. Erik is hilariously condescending but, you can tell the man knows what he&#39;s talking about. He gives some interesting insight into type for screens that I found very useful. Pardon for some of the foul language. Pretend you didn&#39;t hear it.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://daneden.me/&quot;&gt;Dan Eden&lt;/a&gt;, recommended this video to me and I loved it. Erik is hilariously condescending but, you can tell the man knows what he&#39;s talking about. He gives some interesting insight into type for screens that I found very useful. Pardon for some of the foul language. Pretend you didn’t hear it.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2480,7 +2431,7 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/10/kick-lead.png&quot; alt=&quot;Post Lead Image&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/10/kick-lead.png&quot; alt=&quot;Post Lead Image&quot; /&gt;
 
 &lt;p&gt;I&#39;m so excited to announce that we launched the Kickstarter campaign for &lt;a href=&quot;http://makeaweso.me&quot;&gt;Make Awesome&lt;/a&gt; today! I&#39;ve shot and reshot the video tons of times and finally I had to just be happy with it. I&#39;ve been doing a lot of behind the scenes work and I&#39;m anxious to see if people believe in the idea as much as I do.&lt;/p&gt;
 
@@ -2493,14 +2444,14 @@ There is a lot to be said for the difference between planning for six months, de
   <entry>
     <id>http://ttimsmith.github.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/the-thoughts-of-someone-who-shouldnt-be-awake"/>
-    <title>The Thoughts of Someone Who Shouldn't Be Awake</title>
+    <title>The Thoughts of Someone Who Shouldn’t Be Awake</title>
     <published>2012-10-03T00:00:00-05:00</published>
     <updated>2012-10-03T00:00:00-05:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I&#39;ve been working a lot and very hard on my new freelancing business and the magazine. I have the &quot;letter to the editor&quot; layout finished and the &quot;intro to the interview&quot; layout finished as well. I am so nervous. I wonder if all this work will be in vain. I wonder if this idea will fail. I wonder if I&#39;m the right person to execute this idea. I worry that this could turn into a disaster. I read earlier today a great quote from &lt;a href=&quot;http://jasonsantamaria.com/&quot;&gt;Jason Santa Maria&lt;/a&gt; on &lt;a href=&quot;http://thegreatdiscontent.com/jason-santa-maria&quot;&gt;The Great Discontent&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I&#39;ve been working a lot and very hard on my new freelancing business and the magazine. I have the “letter to the editor” layout finished and the “intro to the interview” layout finished as well. I am so nervous. I wonder if all this work will be in vain. I wonder if this idea will fail. I wonder if I&#39;m the right person to execute this idea. I worry that this could turn into a disaster. I read earlier today a great quote from &lt;a href=&quot;http://jasonsantamaria.com/&quot;&gt;Jason Santa Maria&lt;/a&gt; on &lt;a href=&quot;http://thegreatdiscontent.com/jason-santa-maria&quot;&gt;The Great Discontent&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;I’m sure that I’m romanticizing it as I’m getting older, but when you’re a kid, everything seems possible. When you think about doing something, the time between thinking about doing it and actually doing it is usually very brief. You say, “Hey, what if I do that?” and then you’re doing it. As an adult, you think, “I want to do this thing,” or, “I want to make something.” Then you start gathering resources and devising a plan, but then you get tired because you’re old and want to lay down. There’s something about that childhood idiocy that I often think back on and love.&lt;/p&gt;
@@ -2522,8 +2473,9 @@ There is a lot to be said for the difference between planning for six months, de
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/10/ma1-hero.png&quot; alt=&quot;Layout Preview&quot; /&gt;
-So this a quick update on Make Awesome. I&#39;ve started to set deadlines for myself so that I actually start getting things done. My Kickstarter video will be up this week come hell or high water. I&#39;d love to see how much interest there is around the idea. For me, it&#39;d be a dream come true to get this published and in the hands of people.&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/10/ma1-hero.png&quot; alt=&quot;Layout Preview&quot; /&gt;
+
+&lt;p&gt;So this a quick update on Make Awesome. I&#39;ve started to set deadlines for myself so that I actually start getting things done. My Kickstarter video will be up this week come hell or high water. I&#39;d love to see how much interest there is around the idea. For me, it&#39;d be a dream come true to get this published and in the hands of people.&lt;/p&gt;
 
 &lt;p&gt;I&#39;ve chosen the typefaces for the project, which will be &lt;a href=&quot;http://www.bariol.com/&quot;&gt;Bariol&lt;/a&gt;, &lt;a href=&quot;http://www.myfonts.com/fonts/type-together/skolar/&quot;&gt;Skolar&lt;/a&gt; and &lt;a href=&quot;http://pictos.cc/font/&quot;&gt;Pictos&lt;/a&gt; for the icons. I&#39;ve worked with Skolar before on the web and it&#39;s a beautiful typeface that works very well with extended copy. Bariol is also a beautiful typeface and gives the publication and formal yet casual feel at the same time. Pictos is also a great icon font designed by &lt;a href=&quot;http://drewwilson.com/&quot;&gt;Drew Wilson&lt;/a&gt; that has the style I was going for.&lt;/p&gt;
 
@@ -2541,8 +2493,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;This episode was such a blast to record. &lt;a href=&quot;http://jarederondu.com&quot;&gt;Mr. Erondu&lt;/a&gt; is a class act and it was great to get to know him better and what drives this young man. Doesn&#39;t matter what stage of your career you currently find yourself in, I&#39;m sure you&#39;ll pick up something of value from this episode. You should &lt;a href=&quot;http://theeastwing.net/episodes/27-jared&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;This episode was such a blast to record. &lt;a href=&quot;http://jarederondu.com&quot;&gt;Mr. Erondu&lt;/a&gt; is a class act and it was great to get to know him better and what drives this young man. Doesn&#39;t matter what stage of your career you currently find yourself in, I&#39;m sure you&#39;ll pick up something of value from this episode.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2571,7 +2522,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had been talking with &lt;a href=&quot;http://www.jannahagan.com/&quot;&gt;Janna&lt;/a&gt; about writing for her blog since June. I had been so busy that I just didn&#39;t have the time to sit down and write something (or maybe it was lack of inspiration? I don&#39;t know). Finally, last week I sat down and was able to write close to 800 words on &lt;em&gt;setting yourself up right&lt;/em&gt;. I&#39;m really happy and excited about this article. You should &lt;a href=&quot;http://www.studentguidewebdesign.com/set-yourself-up-right/&quot;&gt;read it&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I had been talking with &lt;a href=&quot;http://www.jannahagan.com/&quot;&gt;Janna&lt;/a&gt; about writing for her blog since June. I had been so busy that I just didn&#39;t have the time to sit down and write something (or maybe it was lack of inspiration? I don&#39;t know). Finally, last week I sat down and was able to write close to 800 words on &lt;em&gt;setting yourself up right&lt;/em&gt;. I&#39;m really happy and excited about this article.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2603,14 +2554,14 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I had the honor of talking with &lt;a href=&quot;http://bermonpainter.com/&quot;&gt;Bermon Painter&lt;/a&gt; who gave an excellent talk about CSS Pre-processors at &lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;The Front-End Conf&lt;/a&gt;. He&#39;s a real cool and smart guy and the episode turned out to be really educational. You should &lt;a href=&quot;http://theeastwing.net/episodes/26-bermon&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;I had the honor of talking with &lt;a href=&quot;http://bermonpainter.com/&quot;&gt;Bermon Painter&lt;/a&gt; who gave an excellent talk about CSS Pre-processors at &lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;The Front-End Conf&lt;/a&gt;. He&#39;s a real cool and smart guy and the episode turned out to be really educational.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <id>http://ttimsmith.github.com/videos/workin-with-svgs</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/videos/workin-with-svgs"/>
-    <title>Workin' with SVG's</title>
+    <title>Workin’ with SVG’s</title>
     <published>2012-09-05T00:00:00-05:00</published>
     <updated>2012-09-05T00:00:00-05:00</updated>
     <author>
@@ -2619,10 +2570,10 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
     </author>
     <content type="html">&lt;h3&gt;Show Notes&lt;/h3&gt;
 
-&lt;ul class=\&quot;show-notes\&quot;&gt;
-&lt;li&gt;&lt;a href=\&quot;http://css-tricks.com/video-screencasts/113-creating-and-using-a-custom-icon-font/\&quot; target=\&quot;_blank\&quot;&gt;#113: Creating and Using a Custom Icon Font&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=\&quot;http://www.somerandomdude.com/2012/08/12/svg-css-injection/\&quot; target=\&quot;_blank\&quot;&gt;SVG CSS Injection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=\&quot;http://simurai.com/post/20251013889/svg-stacks\&quot; target=\&quot;_blank\&quot;&gt;SVG Stacks&lt;/a&gt;&lt;/li&gt;
+&lt;ul class=&quot;show-notes&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;http://css-tricks.com/video-screencasts/113-creating-and-using-a-custom-icon-font/&quot; target=&quot;_blank&quot;&gt;#113: Creating and Using a Custom Icon Font&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.somerandomdude.com/2012/08/12/svg-css-injection/&quot; target=&quot;_blank&quot;&gt;SVG CSS Injection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://simurai.com/post/20251013889/svg-stacks&quot; target=&quot;_blank&quot;&gt;SVG Stacks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
@@ -2637,10 +2588,9 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/09/krtconf.jpg&quot; alt=&quot;Keeping It Realtime Conference&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/09/krtconf.jpg&quot; alt=&quot;Keeping It Realtime Conference&quot; /&gt;
 
-&lt;p&gt;As you may already know, I recently changed jobs and am now working with the wonderful people at &lt;a href=&quot;http://andyet.net/&quot;&gt;&amp;amp;yet&lt;/a&gt;. Well, they throw this totally awesome conference called &lt;a href=&quot;http://2012.krtconf.com/&quot;&gt;The Keeping It Realtime Conference&lt;/a&gt; which is place to learn all about realtime technologies. I&#39;m so excited to be going out to Portland. You should come! Tickets are selling fast so, get one while you can!&lt;/p&gt;
-</content>
+&lt;p&gt;As you may already know, I recently changed jobs and am now working with the wonderful people at &lt;a href=&quot;http://andyet.net/&quot;&gt;&amp;amp;yet&lt;/a&gt;. Well, they throw this totally awesome conference called &lt;a href=&quot;http://2012.krtconf.com/&quot;&gt;The Keeping It Realtime Conference&lt;/a&gt; which is place to learn all about realtime technologies. I&#39;m so excited to be going out to Portland. You should come! Tickets are selling fast so, get one while you can!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2695,8 +2645,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I got the chance to record with &lt;a href=\&quot;http://www.thisisaaronslife.com/\&quot;&gt;Aaron Irizarry&lt;/a&gt; and &lt;a href=\&quot;http://adamconnor.com/\&quot;&gt;Adam Connor&lt;/a&gt;. It was a really awesome conversation about design critique and was über educational for me and I hope it is for you too. &lt;a href=\&quot;http://theeastwing.net/episodes/23-aa\&quot;&gt;Take a listen&lt;/a&gt;&lt;/p&gt;
-</content>
+    <content type="html">&lt;p&gt;I got the chance to record with &lt;a href=&quot;http://www.thisisaaronslife.com/&quot;&gt;Aaron Irizarry&lt;/a&gt; and &lt;a href=&quot;http://adamconnor.com/&quot;&gt;Adam Connor&lt;/a&gt;. It was a really awesome conversation about design critique and was über educational for me and I hope it is for you too.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2710,9 +2659,8 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Hey Tim,
-  Just wanted to say I love your show. I&#39;m a newer web designer (1.5 years) and former tv news videojournalist so I got to work with a lot of reporters and conduct a lot of interviews as well. From both angles you do a great job of getting guests to open up and share their knowledge and experience.
-  Cheers and Thanks, David&lt;/p&gt;
+  &lt;p&gt;Hey Tim,&lt;/p&gt;
+  &lt;p&gt;Just wanted to say I love your show. I&#39;m a newer web designer (1.5 years) and former tv news videojournalist so I got to work with a lot of reporters and conduct a lot of interviews as well. From both angles you do a great job of getting guests to open up and share their knowledge and experience.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This morning, I woke up to that email. It made my day. This is not an effort to inflate my ego. What made my day was that he is finding my rinky-dink show useful. He&#39;s enjoying the guests and it&#39;s my hope that the show is helping him learn a thing or two in his new industry.&lt;/p&gt;
@@ -2731,7 +2679,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I sat down with &lt;a href=&quot;http://samsoff.es/&quot;&gt;Sam Soffes&lt;/a&gt;, the creator of &lt;a href=&quot;https://cheddarapp.com/&quot;&gt;Cheddar&lt;/a&gt;. It was awesome! Sam is a real down to earth guy. We talk about Cheddar, retiring at 25 and his consulting rate among other things. &lt;a href=&quot;http://theeastwing.net/episodes/22-sam&quot;&gt;Take a listen&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;I sat down with &lt;a href=&quot;http://samsoff.es/&quot;&gt;Sam Soffes&lt;/a&gt;, the creator of &lt;a href=&quot;https://cheddarapp.com/&quot;&gt;Cheddar&lt;/a&gt;. It was awesome! Sam is a real down to earth guy. We talk about Cheddar, retiring at 25 and his consulting rate among other things.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2761,7 +2709,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
     </author>
     <content type="html">&lt;p&gt;I got the awesome e-mail from Dribbble yesterday that I had 2 invitations! I like giving these out! It&#39;s always fun to see people&#39;s amazing work. So do you want an invitation?&lt;/p&gt;
 
-&lt;h3&gt;Here&#39;s How To Win&lt;/h3&gt;
+&lt;h3&gt;Here’s How To Win&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Comment on this post with your portfolio URL&lt;/li&gt;
@@ -2782,7 +2730,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Last week, we recorded with &lt;a href=&quot;http://daverupert.com/&quot;&gt;Dave Rupert&lt;/a&gt; of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;, the &lt;a href=&quot;http://atxwebshow.com/&quot;&gt;ATX Web Show&lt;/a&gt; and &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt;. I had the chance to meet him at this years Front-End Design Conference and he&#39;s a really awesome dude. You should &lt;a href=&quot;http://theeastwing.net/episodes/21-dave&quot;&gt;take a listen&lt;/a&gt;.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Last week, we recorded with &lt;a href=&quot;http://daverupert.com/&quot;&gt;Dave Rupert&lt;/a&gt; of &lt;a href=&quot;http://paravelinc.com/&quot;&gt;Paravel&lt;/a&gt;, the &lt;a href=&quot;http://atxwebshow.com/&quot;&gt;ATX Web Show&lt;/a&gt; and &lt;a href=&quot;http://shoptalkshow.com/&quot;&gt;ShopTalk Show&lt;/a&gt;. I had the chance to meet him at this years Front-End Design Conference and he&#39;s a really awesome dude.&lt;/p&gt;
 </content>
   </entry>
   
@@ -2802,7 +2750,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
 
 &lt;p&gt;&lt;a href=&quot;https://join.app.net&quot;&gt;App.net&lt;/a&gt; promises to not go down this route because it&#39;s a paid service. Who&#39;d use a paid social network? Honestly, I don&#39;t know. I think there are parts of this business model which aren&#39;t being thought about. I mostly agree with &lt;a href=&quot;http://samsoff.es/posts/app-net-is-dreaming-small&quot;&gt;Sam&#39;s thoughts&lt;/a&gt;, they&#39;re not dreaming big enough&amp;hellip; yet. But, I do feel that they have a good idea and are headed in the right direction. They&#39;re being upfront and gutsy and as a paying customer, I&#39;ll be cared for and won&#39;t have ads shoved in my face.&lt;/p&gt;
 
-&lt;p&gt;I hope more people jump on this bandwagon and it&#39;s also my hope that third-party developers that have been treated badly by Twitter can begin to develop on the App.net platform (I&#39;m looking at you Tweetbot!). If you decide to join, I&#39;m &lt;a href=&quot;https://alpha.app.net/timothybsmith&quot;&gt;@timothybsmith&lt;/a&gt; as always.&lt;/p&gt;
+&lt;p&gt;I hope more people jump on this bandwagon and it&#39;s also my hope that third-party developers that have been treated badly by Twitter can begin to develop on the App.net platform (I&#39;m looking at you Tweetbot!). If you decide to join, I&#39;m &lt;a href=&quot;https://alpha.app.net/ttimsmith&quot;&gt;@ttimsmith&lt;/a&gt; as always.&lt;/p&gt;
 
 &lt;p&gt;Personally, I&#39;m looking forward to seeing how this plays out. I don&#39;t know if it&#39;ll be successful. I don&#39;t know if I&#39;ll later regret writing this. But, I respect a business that&#39;s willing to charge for a product that our society seems to value at nothing. Quality has a price and unfortunately it&#39;s undervalued. You always get what you pay for.&lt;/p&gt;
 
@@ -2834,7 +2782,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;Hi Everyone! So I deleted the old feed and created a new one. Why? The old one had ads on it back when I believed in &quot;monetizing&quot; everything (I was so stupid). The problem was, I couldn&#39;t delete the ads anymore. I had done some type of intricate who-knows-what and was now stuck. The only way out was to delete the feed and start fresh so that&#39;s what I did. You can now subscribe to the new feed &lt;a href=&quot;http://feeds.feedburner.com/timothybsmith&quot;&gt;here&lt;/a&gt; or with the RSS link above. As always, thanks for reading!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Hi Everyone! So I deleted the old feed and created a new one. Why? The old one had ads on it back when I believed in “monetizing” everything (I was so stupid). The problem was, I couldn’t delete the ads anymore. I had done some type of intricate who-knows-what and was now stuck. The only way out was to delete the feed and start fresh so that’s what I did. You can now subscribe to the new feed &lt;a href=&quot;http://feeds.feedburner.com/timothybsmith&quot;&gt;here&lt;/a&gt; or with the RSS link above. As always, thanks for reading!&lt;/p&gt;
 </content>
   </entry>
   
@@ -2848,7 +2796,7 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;I was watching &lt;a href=&quot;http://css-tricks.com/video-screencasts/103-integrating-fitvids-js-into-wordpress/&quot;&gt;this tutorial&lt;/a&gt; on how to integrate FitVids.js onto my site and this is the video he used as a test. It&#39;s absolutely hilarious. You&#39;ve got to watch it. As a side note, notice that the video above is responsive. Oh yeah...&lt;/p&gt;
+    <content type="html">&lt;p&gt;I was watching &lt;a href=&quot;http://css-tricks.com/video-screencasts/103-integrating-fitvids-js-into-wordpress/&quot;&gt;this tutorial&lt;/a&gt; on how to integrate FitVids.js onto my site and this is the video he used as a test. It’s absolutely hilarious. You’ve got to watch it. As a side note, notice that the video above is responsive. Oh yeah...&lt;/p&gt;
 </content>
   </entry>
   
@@ -2876,12 +2824,11 @@ So this a quick update on Make Awesome. I&#39;ve started to set deadlines for my
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">Today I&#39;ve launched version three of The East Wing theme. I&#39;m excited. I&#39;m excited not only because of the new design (tons of improvements have been made), I&#39;m also excited because of the great attention the show has received and the people that it&#39;s helped. When I first started the show, I wanted to learn from people who are much smarter than me. I wanted to find out whatever information I could get so that I could improve. I&#39;ve learned a lot in the last six months and I&#39;m finally on the way to becoming the designer I want to be.
+    <content type="html">&lt;p&gt;Today I&#39;ve launched version three of The East Wing theme. I&#39;m excited. I&#39;m excited not only because of the new design (tons of improvements have been made), I&#39;m also excited because of the great attention the show has received and the people that it&#39;s helped. When I first started the show, I wanted to learn from people who are much smarter than me. I wanted to find out whatever information I could get so that I could improve. I&#39;ve learned a lot in the last six months and I&#39;m finally on the way to becoming the designer I want to be.&lt;/p&gt;
 
-It makes me happy to see how people have really enjoyed the show. Personally, I&#39;ve always had a love for broadcasting so this show was a perfect merge of two great passions of mine: broadcasting and design. Even if no one would&#39;ve ever listened, I would&#39;ve continued on but, I can&#39;t explain how amazing it is to see that the show helps people with their work and inspires them. 
+&lt;p&gt;It makes me happy to see how people have really enjoyed the show. Personally, I&#39;ve always had a love for broadcasting so this show was a perfect merge of two great passions of mine: broadcasting and design. Even if no one would&#39;ve ever listened, I would&#39;ve continued on but, I can&#39;t explain how amazing it is to see that the show helps people with their work and inspires them.&lt;/p&gt;
 
-The East Wing has some very exciting times on the horizon. I&#39;ve gotten into a good grove and people enjoy the guests we talk to. If you haven&#39;t already, I invite you to listen to the show and take a peek at the new design. I hope it makes the experience better for you when listening and looking for episodes. Thank you from the bottom of my heart for your support
-</content>
+&lt;p&gt;The East Wing has some very exciting times on the horizon. I&#39;ve gotten into a good grove and people enjoy the guests we talk to. If you haven&#39;t already, I invite you to listen to the show and take a peek at the new design. I hope it makes the experience better for you when listening and looking for episodes. Thank you from the bottom of my heart for your support.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2935,7 +2882,8 @@ The East Wing has some very exciting times on the horizon. I&#39;ve gotten into 
 &lt;/blockquote&gt;
 
 &lt;p&gt;I launched a new site! I&#39;m not one to launch new sites often so this is really exciting for me. It&#39;ll be the place where I put longer thoughts and more thought out articles. Also, you might see guest writers from time to time. I hope you like the new site and I look forward to hearing your feedback!&lt;/p&gt;
-</content>
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; This site no longer exists.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -2970,7 +2918,7 @@ The East Wing has some very exciting times on the horizon. I&#39;ve gotten into 
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/06/welcome2MN.png&quot; alt=&quot;Welcome to Minnesota&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/06/welcome2MN.png&quot; alt=&quot;Welcome to Minnesota&quot; /&gt;
 
 &lt;p&gt;This past week, I started a new era in my life. I finally made my move to the beautiful Land of 10,000 Lakes: Minnesota. Some of you who know me will remember that I&#39;ve been here before. You&#39;re right! About two years ago (has it been that long?) I spent six months here and fell in love with the city and people. I had the chance to make some great friends and meet very creative people who are working on awesome things.&lt;/p&gt;
 
@@ -2985,7 +2933,7 @@ The East Wing has some very exciting times on the horizon. I&#39;ve gotten into 
   <entry>
     <id>http://ttimsmith.github.com/links/designing-in-the-browser</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/designing-in-the-browser"/>
-    <title>Article on Designing "in the Browser"</title>
+    <title>Article on Designing “in the Browser”</title>
     <published>2012-06-01T00:00:00-05:00</published>
     <updated>2012-06-01T00:00:00-05:00</updated>
     <author>
@@ -2993,11 +2941,11 @@ The East Wing has some very exciting times on the horizon. I&#39;ve gotten into 
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-As web designers, we work in a vibrant industry filled with lots of ideas and many who are great at voicing strong opinions. At least for me, it&#39;s easy to get sucked into trying to get everything right and wind up focusing on the wrong things.[...] if you want to be a great web designer, focusing on the specific tools you use within your workflow is really not that helpful. Rather, focusing on how to uncover problems, how to understand users, how the technology of your medium works, how to discover and emulate beauty, and how to enjoy your work are going to be far more beneficial to your long term success!
-&lt;small&gt;Jared Ponchot&lt;/small&gt;
+&lt;p&gt;As web designers, we work in a vibrant industry filled with lots of ideas and many who are great at voicing strong opinions. At least for me, it&#39;s easy to get sucked into trying to get everything right and wind up focusing on the wrong things.[...] if you want to be a great web designer, focusing on the specific tools you use within your workflow is really not that helpful. Rather, focusing on how to uncover problems, how to understand users, how the technology of your medium works, how to discover and emulate beauty, and how to enjoy your work are going to be far more beneficial to your long term success!
+&lt;small&gt;Jared Ponchot&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-I love this section from &lt;a href=&quot;http://www.lullabot.com/about/team/jared-ponchot&quot; target=&quot;_blank&quot;&gt;Jared&#39;s&lt;/a&gt; newest article. Really, his whole article on designing in the browser is spectacular and brings up some thought-provoking points. This is quite the hot topic in the industry at the moment and if you listen to The East Wing, you know I&#39;ve voiced my opinion on this quite a few times. However, Jared does a great job in re-focusing all of us. He&#39;s right. The tools we use aren&#39;t what matters. At the end of the day, our effectiveness in discovering and solving problems within our work is what matters. It&#39;s a great read, I really recommend you check it out.
+&lt;p&gt;I love this section from &lt;a href=&quot;http://www.lullabot.com/about/team/jared-ponchot&quot; target=&quot;_blank&quot;&gt;Jared&#39;s&lt;/a&gt; newest article. Really, his whole article on designing in the browser is spectacular and brings up some thought-provoking points. This is quite the hot topic in the industry at the moment and if you listen to The East Wing, you know I&#39;ve voiced my opinion on this quite a few times. However, Jared does a great job in re-focusing all of us. He&#39;s right. The tools we use aren&#39;t what matters. At the end of the day, our effectiveness in discovering and solving problems within our work is what matters. It&#39;s a great read, I really recommend you check it out.&lt;/p&gt;
 </content>
   </entry>
   
@@ -3011,15 +2959,15 @@ I love this section from &lt;a href=&quot;http://www.lullabot.com/about/team/jar
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">Many people have been talking about Instagram lately, especially with the introduction of &lt;a href=&quot;https://www.facebook.com/mobile/camera&quot; target=&quot;_blank&quot;&gt;Facebook Camera&lt;/a&gt;. My pal, &lt;a href=&quot;http://blog.adellecharles.com/facebook-camera-instagram&quot; target=&quot;_blank&quot;&gt;Adelle Charles&lt;/a&gt; wrote about it on her blog and she brings up some interesting points. I was also reading a new review of the app on iPhone Appstorm with the title being: &lt;em&gt;Instagram is Reborn as Facebook Camera&lt;/em&gt;. 
+    <content type="html">&lt;p&gt;Many people have been talking about Instagram lately, especially with the introduction of &lt;a href=&quot;https://www.facebook.com/mobile/camera&quot; target=&quot;_blank&quot;&gt;Facebook Camera&lt;/a&gt;. My pal, &lt;a href=&quot;http://blog.adellecharles.com/facebook-camera-instagram&quot; target=&quot;_blank&quot;&gt;Adelle Charles&lt;/a&gt; wrote about it on her blog and she brings up some interesting points. I was also reading a new review of the app on iPhone Appstorm with the title being: &lt;em&gt;Instagram is Reborn as Facebook Camera&lt;/em&gt;.&lt;/p&gt;
 
-I am on my knees, begging that this isn&#39;t accurate. It&#39;s funny how worked up we can get over a simple app but, that&#39;s just it. It&#39;s not just an app. These companies become part of how we do things everyday and we live in a society where these more successful startups (Facebook, Twitter and Google) seem to be buying everything. 
+&lt;p&gt;I am on my knees, begging that this isn&#39;t accurate. It&#39;s funny how worked up we can get over a simple app but, that&#39;s just it. It&#39;s not just an app. These companies become part of how we do things everyday and we live in a society where these more successful startups (Facebook, Twitter and Google) seem to be buying everything.&lt;/p&gt; 
 
-Y&#39;all remember Tweetie? Remember how absolutely beautiful it was? Remember how it was the best Twitter client and pioneered UI patterns that are still in use today? Then Twitter came in, bought it and eventually it became the crap it is today. 
+&lt;p&gt;Y&#39;all remember Tweetie? Remember how absolutely beautiful it was? Remember how it was the best Twitter client and pioneered UI patterns that are still in use today? Then Twitter came in, bought it and eventually it became the crap it is today.&lt;/p&gt; 
 
-I fear the same is happening to Instagram. I will gladly give you of my hard earned money if you make something awesome. In this case, I would&#39;ve gladly payed for Instagram (This is the guy that downloaded the completely leaked Drake album and proceeded to pay for it when it came out a week later). I genuinely care for people that make things I like and if I could&#39;ve had a part in Instagram not becoming part of Facebook&#39;s massive monopoly, that would&#39;ve made me happy.
+&lt;p&gt;I fear the same is happening to Instagram. I will gladly give you of my hard earned money if you make something awesome. In this case, I would&#39;ve gladly payed for Instagram (This is the guy that downloaded the completely leaked Drake album and proceeded to pay for it when it came out a week later). I genuinely care for people that make things I like and if I could&#39;ve had a part in Instagram not becoming part of Facebook&#39;s massive monopoly, that would&#39;ve made me happy.&lt;/p&gt;
 
-To those of you who are entrepreneurs and making new apps, charge from the beginning. If you make something of value, people will pay for it.
+&lt;p&gt;To those of you who are entrepreneurs and making new apps, charge from the beginning. If you make something of value, people will pay for it.&lt;/p&gt;
 </content>
   </entry>
   
@@ -3033,14 +2981,13 @@ To those of you who are entrepreneurs and making new apps, charge from the begin
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/05/9to5macblackandwhite_large_verge_medium_landscape.png&quot; alt=&quot;9to5 Mac Picture of iPhone 5&quot; /&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/05/9to5macblackandwhite_large_verge_medium_landscape.png&quot; alt=&quot;9to5 Mac Picture of iPhone 5&quot; /&gt;
 
 &lt;blockquote&gt;
-Two separate iPhone part suppliers have leaked nearly identical-looking versions of what appears to be a backplate for Apple&#39;s next iPhone, both of which support rumors of the device&#39;s lengthened body and redesigned dock connector.
+&lt;p&gt;Two separate iPhone part suppliers have leaked nearly identical-looking versions of what appears to be a backplate for Apple’s next iPhone, both of which support rumors of the device’s lengthened body and redesigned dock connector.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-This is so exciting! I&#39;m really looking forward to the release of the iPhone 5. I&#39;m really happy about the larger screen size. However, I do have to say I&#39;m a bit disappointed that the dock connector has been redesigned. If that turns out to be true, I think it&#39;ll be a headache. A lot of us have multiple Apple products and up until now, they awesomely share the same charger. What do you think? Are you excited about the new iPhone?
-</content>
+&lt;p&gt;This is so exciting! I’m really looking forward to the release of the iPhone 5. I’m really happy about the larger screen size. However, I do have to say I’m a bit disappointed that the dock connector has been redesigned. If that turns out to be true, I think it’ll be a headache. A lot of us have multiple Apple products and up until now, they awesomely share the same charger. What do you think? Are you excited about the new iPhone?&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -3054,20 +3001,19 @@ This is so exciting! I&#39;m really looking forward to the release of the iPhone
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-Personally, I’d love to get my hands on the Facebook UX and UI. There’s so many things I feel could be improved upon, but I’m sure they stay the same because they work towards the intended goals and purposes of Facebook very well.
+&lt;p&gt;Personally, I’d love to get my hands on the Facebook UX and UI. There’s so many things I feel could be improved upon, but I’m sure they stay the same because they work towards the intended goals and purposes of Facebook very well.&lt;/p&gt;
 
-Some of the top designers reside at Facebook at the moment so there must be solid reasoning behind why elements work the way they do...
-&lt;small&gt;Sarah Parmenter&lt;/small&gt;
+&lt;p&gt;Some of the top designers reside at Facebook at the moment so there must be solid reasoning behind why elements work the way they do...
+&lt;small&gt;Sarah Parmenter&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-I really liked this post on the Creative Bloq and I love &lt;a href=&quot;http://www.sazzy.co.uk/&quot;&gt;Sarah&#39;s&lt;/a&gt; answer. The truth is, it&#39;s so easy to go around saying that an interface could be more polished. Personally, I&#39;d love to see the amazing that Sarah would do with Facebook (would it be pink?). I, like most people, am not really happy with what&#39;s been happening with the Facebook UI. However, as Sarah points out, no one knows better than the designers that actually work there what the goals and purposes are behind the design decisions. In my humble opinion, that might be something we don&#39;t always agree with but must respect.
-</content>
+&lt;p&gt;I really liked this post on the Creative Bloq and I love &lt;a href=&quot;http://www.sazzy.co.uk/&quot;&gt;Sarah&#39;s&lt;/a&gt; answer. The truth is, it&#39;s so easy to go around saying that an interface could be more polished. Personally, I&#39;d love to see the amazing that Sarah would do with Facebook (would it be pink?). I, like most people, am not really happy with what&#39;s been happening with the Facebook UI. However, as Sarah points out, no one knows better than the designers that actually work there what the goals and purposes are behind the design decisions. In my humble opinion, that might be something we don&#39;t always agree with but must respect.&lt;/p&gt;</content>
   </entry>
   
   <entry>
     <id>http://ttimsmith.github.com/links/live-to-work</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/links/live-to-work"/>
-    <title>The Real Reasons You're Working So Hard...</title>
+    <title>The Real Reasons You’re Working So Hard...</title>
     <published>2012-05-24T00:00:00-05:00</published>
     <updated>2012-05-24T00:00:00-05:00</updated>
     <author>
@@ -3075,12 +3021,11 @@ I really liked this post on the Creative Bloq and I love &lt;a href=&quot;http:/
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-More than 31% of college-educated male workers are regularly logging 50 or more hours a week at work, up from 22% in 1980. Forty percent of American adults get less than seven hours of sleep on weekdays, reports the National Sleep Foundation, up from 31% in 2001.
-&lt;small&gt;Bloomberg Business Week&lt;/small&gt;
+&lt;p&gt;More than 31% of college-educated male workers are regularly logging 50 or more hours a week at work, up from 22% in 1980. Forty percent of American adults get less than seven hours of sleep on weekdays, reports the National Sleep Foundation, up from 31% in 2001.
+&lt;small&gt;Bloomberg Business Week&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-I was doing research for a talk I&#39;ll be giving in June titled, &lt;a href=&quot;http://www.meetup.com/UX-Speakeasy-San-Diego/events/59904042/&quot; target=&quot;_blank&quot;&gt;Work to Live, Don&#39;t Live to Work&lt;/a&gt;, and I found these statistics very interesting. To tell you the truth, it doesn&#39;t surprise me in the least. The fact of the matter is this: There are only 24 hours in a day and if you&#39;re using more hours for work, what more important things are you missing out on? The full article has a wealth of information and if you&#39;re in the San Diego area, you should come see my presentation!
-</content>
+&lt;p&gt;I was doing research for a talk I&#39;ll be giving in June titled, &lt;a href=&quot;http://www.meetup.com/UX-Speakeasy-San-Diego/events/59904042/&quot; target=&quot;_blank&quot;&gt;Work to Live, Don&#39;t Live to Work&lt;/a&gt;, and I found these statistics very interesting. To tell you the truth, it doesn&#39;t surprise me in the least. The fact of the matter is this: There are only 24 hours in a day and if you&#39;re using more hours for work, what more important things are you missing out on? The full article has a wealth of information and if you&#39;re in the San Diego area, you should come see my presentation!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -3093,7 +3038,7 @@ I was doing research for a talk I&#39;ll be giving in June titled, &lt;a href=&q
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">I stumbled across this bad boy because of &lt;a href=&quot;http://lukesbeard.com/&quot; target=&quot;_blank&quot;&gt;Luke Beard&lt;/a&gt; and I can&#39;t wait to see how this will help my development process. Until now, I had tested a couple of different tools and so far, none of them really worked like I&#39;d like them to. You should check this out and let me know if you like it.
+    <content type="html">&lt;p&gt;I stumbled across this bad boy because of &lt;a href=&quot;http://lukesbeard.com/&quot; target=&quot;_blank&quot;&gt;Luke Beard&lt;/a&gt; and I can&#39;t wait to see how this will help my development process. Until now, I had tested a couple of different tools and so far, none of them really worked like I&#39;d like them to. You should check this out and let me know if you like it.&lt;/p&gt;
 </content>
   </entry>
   
@@ -3107,8 +3052,7 @@ I was doing research for a talk I&#39;ll be giving in June titled, &lt;a href=&q
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">This particular episode of The East Wing is a special one. Not only was the conversation with Janna great, it was the first episode with Galen as my co-host. I really think y&#39;all will love this new arrangement. He brings something special to the show with his opinions, great questions and &quot;Galen&#39;s Topic of the Week&quot;. If you haven&#39;t already, I invite you to subscribe to the show. It&#39;s a great one. 
-</content>
+    <content type="html">&lt;p&gt;This particular episode of The East Wing is a special one. Not only was the conversation with Janna great, it was the first episode with Galen as my co-host. I really think y&#39;all will love this new arrangement. He brings something special to the show with his opinions, great questions and &quot;Galen&#39;s Topic of the Week&quot;. If you haven&#39;t already, I invite you to subscribe to the show. It&#39;s a great one.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -3121,14 +3065,13 @@ I was doing research for a talk I&#39;ll be giving in June titled, &lt;a href=&q
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">So as you may have noticed the site got a bit of a refresh. I&#39;ve been working diligently on the new Lullabot.com and I was inspired to rethink my own site. I decided to finally treat my site as I would a client site (for the most part). Create a type of creative brief, wireframe key pages, and pay attention to the details of the site (i.e. textures, hover effects and, yes, an adaptive layout). 
+    <content type="html">&lt;p&gt;So as you may have noticed the site got a bit of a refresh. I&#39;ve been working diligently on the new Lullabot.com and I was inspired to rethink my own site. I decided to finally treat my site as I would a client site (for the most part). Create a type of creative brief, wireframe key pages, and pay attention to the details of the site (i.e. textures, hover effects and, yes, an adaptive layout).&lt;/p&gt;
 
-There were many things that bothered me about the old site and I&#39;ve done my best to address them. Mostly, I had a problem with not only the display of content but, the creation of it as well. I&#39;m the type to find interesting links all the time and often have small pieces I&#39;d like to share. This design will make that easy. My pal &lt;a href=&quot;http://galengidman.com/&quot; target=&quot;_blank&quot;&gt;Galen&lt;/a&gt;, helped me create a post format for links. I&#39;m so thankful for his help. 
+&lt;p&gt;There were many things that bothered me about the old site and I&#39;ve done my best to address them. Mostly, I had a problem with not only the display of content but, the creation of it as well. I&#39;m the type to find interesting links all the time and often have small pieces I&#39;d like to share. This design will make that easy. My pal &lt;a href=&quot;http://galengidman.com/&quot; target=&quot;_blank&quot;&gt;Galen&lt;/a&gt;, helped me create a post format for links. I&#39;m so thankful for his help.&lt;/p&gt;
 
-My larger pieces, however, will mostly live on the Lullabot blog. I&#39;m so happy to be working there and I&#39;m excited to be playing a role in the design team and in creating design related content together with my awesome teammate &lt;a href=&quot;https://twitter.com/#!/jponch&quot; target=&quot;_blank&quot;&gt;Jared Ponchot&lt;/a&gt;. With that said, if I think of something that doesn&#39;t fit there, it will always have a home here.
+&lt;p&gt;My larger pieces, however, will mostly live on the Lullabot blog. I&#39;m so happy to be working there and I&#39;m excited to be playing a role in the design team and in creating design related content together with my awesome teammate &lt;a href=&quot;https://twitter.com/#!/jponch&quot; target=&quot;_blank&quot;&gt;Jared Ponchot&lt;/a&gt;. With that said, if I think of something that doesn&#39;t fit there, it will always have a home here.&lt;/p&gt;
 
-As always, I&#39;d appreciate any feedback and constructive criticism that you might have about the site. Thanks for reading and your continued support. 
-</content>
+&lt;p&gt;As always, I&#39;d appreciate any feedback and constructive criticism that you might have about the site. Thanks for reading and your continued support.&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -3142,11 +3085,10 @@ As always, I&#39;d appreciate any feedback and constructive criticism that you m
       <uri>http://ttimsmith.github.com/</uri>
     </author>
     <content type="html">&lt;blockquote&gt;
-We&#39;re at a time where technology is moving a lot faster than we can sometimes design for. That means we&#39;ll make mistakes. We&#39;ll have content that we don&#39;t know how to deliver on every device.
+&lt;p&gt;We&#39;re at a time where technology is moving a lot faster than we can sometimes design for. That means we&#39;ll make mistakes. We&#39;ll have content that we don&#39;t know how to deliver on every device.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-I wrote my first article on the Lullabot Blog! It&#39;s on Constructive Criticism. I find that this trend to publicly shame people about the work they&#39;re doing is wrong and isn&#39;t the way to make the web a better place. It&#39;s a quick read; something small you can digest during a break in your work day. Hope you enjoy!
-</content>
+&lt;p&gt;I wrote my first article on the Lullabot Blog! It&#39;s on Constructive Criticism. I find that this trend to publicly shame people about the work they&#39;re doing is wrong and isn&#39;t the way to make the web a better place. It&#39;s a quick read; something small you can digest during a break in your work day. Hope you enjoy!&lt;/p&gt;</content>
   </entry>
   
   <entry>
@@ -3159,19 +3101,19 @@ I wrote my first article on the Lullabot Blog! It&#39;s on Constructive Criticis
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/03/lullabot-lead.jpg&quot; alt=&quot;Lullabot Logo&quot; title=&quot;lullabot-lead&quot; /&gt;
+    <content type="html">&lt;img src=&quot;/uploads/2012/03/lullabot-lead.jpg&quot; alt=&quot;Lullabot Logo&quot; title=&quot;lullabot-lead&quot; /&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;There&#39;s no need to sacrifice happiness for success. We believe that happiness, fun, and general silliness bring with them an energy which fuels creativity and innovation, creates a more open and communicative workplace, and makes for a more productive, more dedicated team. It&#39;s also just more fun. We try to focus on the positive and downplay competition and negativism. We are grateful for our successes and celebrate them.&lt;/p&gt;
-  &lt;small&gt;&lt;a href=&quot;http://www.lullabot.com/values&quot; target=&quot;_blank&quot;&gt;Lullabot Core Values&lt;/a&gt;&lt;/small&gt;
+  &lt;p&gt;There&#39;s no need to sacrifice happiness for success. We believe that happiness, fun, and general silliness bring with them an energy which fuels creativity and innovation, creates a more open and communicative workplace, and makes for a more productive, more dedicated team. It&#39;s also just more fun. We try to focus on the positive and downplay competition and negativism. We are grateful for our successes and celebrate them.
+  &lt;small&gt;&lt;a href=&quot;http://www.lullabot.com/values&quot; target=&quot;_blank&quot;&gt;Lullabot Core Values&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-Isn&#39;t that awesome? I love the sound of that and I&#39;m so happy and excited to now be working with &lt;a href=&quot;http://www.lullabot.com/&quot; target=&quot;_blank&quot;&gt;Lullabot&lt;/a&gt;. Lullabot is the world&#39;s top Drupal consulting and education company. They&#39;re responsible for creating websites for the &lt;a href=&quot;http://www.grammy.com/&quot; target=&quot;_blank&quot;&gt;Grammy&#39;s&lt;/a&gt;, &lt;a href=&quot;http://www.marthastewart.com/&quot; target=&quot;_blank&quot;&gt;Martha Stewart&lt;/a&gt;, &lt;a href=&quot;http://www.wwe.com/&quot; target=&quot;_blank&quot;&gt;WWE&lt;/a&gt; and &lt;a href=&quot;http://www.lullabot.com/services/clients&quot; target=&quot;_blank&quot;&gt;more&lt;/a&gt;.
+&lt;p&gt;Isn&#39;t that awesome? I love the sound of that and I&#39;m so happy and excited to now be working with &lt;a href=&quot;http://www.lullabot.com/&quot; target=&quot;_blank&quot;&gt;Lullabot&lt;/a&gt;. Lullabot is the world&#39;s top Drupal consulting and education company. They&#39;re responsible for creating websites for the &lt;a href=&quot;http://www.grammy.com/&quot; target=&quot;_blank&quot;&gt;Grammy&#39;s&lt;/a&gt;, &lt;a href=&quot;http://www.marthastewart.com/&quot; target=&quot;_blank&quot;&gt;Martha Stewart&lt;/a&gt;, &lt;a href=&quot;http://www.wwe.com/&quot; target=&quot;_blank&quot;&gt;WWE&lt;/a&gt; and &lt;a href=&quot;http://www.lullabot.com/services/clients&quot; target=&quot;_blank&quot;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
-This means I&#39;m no longer working at &lt;a href=&quot;http://getworksimple.com&quot; target=&quot;_blank&quot;&gt;WorkSimple&lt;/a&gt; and I&#39;d like to take this time to thank the wonderful people there, for the opportunity to work with them. I learned so much from the team and I can&#39;t wait to see the great things they&#39;re in the process of releasing.
+&lt;p&gt;This means I&#39;m no longer working at &lt;a href=&quot;http://getworksimple.com&quot; target=&quot;_blank&quot;&gt;WorkSimple&lt;/a&gt; and I&#39;d like to take this time to thank the wonderful people there, for the opportunity to work with them. I learned so much from the team and I can&#39;t wait to see the great things they&#39;re in the process of releasing.&lt;/p&gt;
 
-I&#39;ll also be attending my first conference: &lt;a href=&quot;http://denver2012.drupal.org/&quot; target=&quot;_blank&quot;&gt;DrupalCon Denver&lt;/a&gt;! I&#39;ll be tweeting and checking in like crazy and if you&#39;ll be there, &lt;a href=&quot;/contact&quot;&gt;let me know&lt;/a&gt;! I&#39;d love to meet ya!
+&lt;p&gt;I&#39;ll also be attending my first conference: &lt;a href=&quot;http://denver2012.drupal.org/&quot; target=&quot;_blank&quot;&gt;DrupalCon Denver&lt;/a&gt;! I&#39;ll be tweeting and checking in like crazy and if you&#39;ll be there, &lt;a href=&quot;/contact&quot;&gt;let me know&lt;/a&gt;! I&#39;d love to meet ya!&lt;/p&gt;
 
-As always, thank you for reading and your support! I&#39;m excited about this new opportunity at Lullabot and look forward to the projects I&#39;ll be working on.
+&lt;p&gt;As always, thank you for reading and your support! I&#39;m excited about this new opportunity at Lullabot and look forward to the projects I&#39;ll be working on.&lt;/p&gt;
 </content>
   </entry>
   
@@ -3189,10 +3131,10 @@ As always, thank you for reading and your support! I&#39;m excited about this ne
 
 &lt;h3&gt;Video Links&lt;/h3&gt;
 
-&lt;ul class=\&quot;show-notes\&quot;&gt;
-&lt;li&gt;&lt;a href=\&quot;http://wordpress.org/extend/plugins/podpress/\&quot; target=\&quot;_blank\&quot;&gt;podPress plugin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=\&quot;http://www.apple.com/itunes/podcasts/specs.html\&quot; target=\&quot;_blank\&quot;&gt;iTunes Podcast Specs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=\&quot;http://feedburner.google.com/\&quot; target=\&quot;_blank\&quot;&gt;Feedburner&lt;/a&gt;&lt;/li&gt;
+&lt;ul class=&quot;show-notes&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;http://wordpress.org/extend/plugins/podpress/&quot; target=&quot;_blank&quot;&gt;podPress plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/itunes/podcasts/specs.html&quot; target=&quot;_blank&quot;&gt;iTunes Podcast Specs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://feedburner.google.com/&quot; target=&quot;_blank&quot;&gt;Feedburner&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
@@ -3207,39 +3149,39 @@ As always, thank you for reading and your support! I&#39;m excited about this ne
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;img src=&quot;http://timothybsmith.com/wp-content/uploads/2012/02/emotionpic1.jpg&quot; alt=&quot;&quot; title=&quot;emotionpic&quot; width=&quot;750&quot; height=&quot;431&quot; class=&quot;alignnone size-full wp-image-105&quot; /&gt;
-I&#39;m a firm believer that the day you stop learning is the day you die. I&#39;d describe myself as a self starter, always looking for new things to learn and existing skills that need refinement. Since I still have lots to live (hopefully), I also have lots to learn.
+    <content type="html">&lt;img src=&quot;/uploads/2012/02/emotionpic1.jpg&quot; alt=&quot;Designin for Emotion&quot;&gt;
+&lt;p&gt;I&#39;m a firm believer that the day you stop learning is the day you die. I&#39;d describe myself as a self starter, always looking for new things to learn and existing skills that need refinement. Since I still have lots to live (hopefully), I also have lots to learn.&lt;/p&gt;
 
-I went to college for about two years yet, I didn&#39;t learn as much as I would&#39;ve liked or even what I needed to learn. Therefore, I&#39;m mostly self taught. I&#39;ve spent countless, non-billable hours, experimenting with HTML, CSS and other design and dev personal projects, in an effort to better myself and improve my craft.
+&lt;p&gt;I went to college for about two years yet, I didn&#39;t learn as much as I would&#39;ve liked or even what I needed to learn. Therefore, I&#39;m mostly self taught. I&#39;ve spent countless, non-billable hours, experimenting with HTML, CSS and other design and dev personal projects, in an effort to better myself and improve my craft.&lt;/p&gt;
 
-Anyway, that&#39;s quite a big intro into the real topic of this post. I&#39;d like to give my thoughts on &lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot; target=&quot;_blank&quot;&gt;Designing for Emotion&lt;/a&gt; by &lt;a href=&quot;http://aarronwalter.com/&quot; target=&quot;_blank&quot;&gt;Aarron Walter&lt;/a&gt;. 
+&lt;p&gt;Anyway, that&#39;s quite a big intro into the real topic of this post. I&#39;d like to give my thoughts on &lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot; target=&quot;_blank&quot;&gt;Designing for Emotion&lt;/a&gt; by &lt;a href=&quot;http://aarronwalter.com/&quot; target=&quot;_blank&quot;&gt;Aarron Walter&lt;/a&gt;.&lt;/p&gt;
 
-Let&#39;s start off by saying that it&#39;s absolutely awesome. If you&#39;ve read the other books that &lt;a href=&quot;http://www.abookapart.com/&quot; target=&quot;_blank&quot;&gt;A Book Apart&lt;/a&gt; has published, you&#39;d expect nothing less so, let me convince you why. 
+&lt;p&gt;Let&#39;s start off by saying that it&#39;s absolutely awesome. If you&#39;ve read the other books that &lt;a href=&quot;http://www.abookapart.com/&quot; target=&quot;_blank&quot;&gt;A Book Apart&lt;/a&gt; has published, you&#39;d expect nothing less so, let me convince you why.&lt;/p&gt;
 
 &lt;h3&gt;Content&lt;/h3&gt;
-The content of this book is great. Aarron know&#39;s what he&#39;s talking about and that comes across every sentence you read. The extensive research is evident and each statement, study and example convince you more that this is the right way of designing for the web. 
+&lt;p&gt;The content of this book is great. Aarron know&#39;s what he&#39;s talking about and that comes across every sentence you read. The extensive research is evident and each statement, study and example convince you more that this is the right way of designing for the web.&lt;/p&gt;
 
-After reading this book, as with a lot of the different articles I read, I realize how much I still have to learn and put into practice. For me, it&#39;s exciting to see how I can improve and quickly implement these techniques into my work.
+&lt;p&gt;After reading this book, as with a lot of the different articles I read, I realize how much I still have to learn and put into practice. For me, it&#39;s exciting to see how I can improve and quickly implement these techniques into my work.&lt;/p&gt;
 
-The prevalent theme is to inject personality into a website. Aarron emphasizes that a website is human too and offers logical ways to make this happen. Designing personas is an amazing idea and just one of many practical tips he offers. Anyone working on a product needs to read this. It&#39;s guaranteed to bring the level of work you produce to the next level.
+&lt;p&gt;The prevalent theme is to inject personality into a website. Aarron emphasizes that a website is human too and offers logical ways to make this happen. Designing personas is an amazing idea and just one of many practical tips he offers. Anyone working on a product needs to read this. It&#39;s guaranteed to bring the level of work you produce to the next level.&lt;/p&gt;
 
-Something interesting to note about this book is the constant studies of psychology and the human brain. This was especially helpful as many of the studies are something I would&#39;ve never imagined to research and have really helped me understand how we, as humans, respond and react to design. Aarron explains that we make decisions on emotion not logic; interestingly, making designing for emotion such a logical choice. 
+&lt;p&gt;Something interesting to note about this book is the constant studies of psychology and the human brain. This was especially helpful as many of the studies are something I would&#39;ve never imagined to research and have really helped me understand how we, as humans, respond and react to design. Aarron explains that we make decisions on emotion not logic; interestingly, making designing for emotion such a logical choice.&lt;/p&gt;
 
 &lt;blockquote&gt;
-Surprise is always followed by a proportional emotional response[...] There&#39;s not enough time for deep, intellectual contemplation, so the brain relies on emotion to provide a &quot;gut reaction.&quot;
-&lt;small&gt;Aarron Walter, Designing For Emotion&lt;/small&gt;
+&lt;p&gt;Surprise is always followed by a proportional emotional response[...] There&#39;s not enough time for deep, intellectual contemplation, so the brain relies on emotion to provide a &quot;gut reaction.&quot;
+&lt;small&gt;Aarron Walter, Designing For Emotion&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3&gt;Tone&lt;/h3&gt;
-What I love about &lt;a href=&quot;http://www.abookapart.com/&quot; target=&quot;_blank&quot;&gt;A Book Apart&lt;/a&gt; is the tone of the books published. I&#39;ve read the other books in the collection and it&#39;s easy to recognize the way that they want the reader to feel when reading these books.
+&lt;p&gt;What I love about &lt;a href=&quot;http://www.abookapart.com/&quot; target=&quot;_blank&quot;&gt;A Book Apart&lt;/a&gt; is the tone of the books published. I&#39;ve read the other books in the collection and it&#39;s easy to recognize the way that they want the reader to feel when reading these books.&lt;/p&gt;
 
-Aarron&#39;s writing style is witty and humorous in all the right places and he is able to explain complex design theory in terms that are understandable and easily applicable. I found myself laughing quite a few times and having lots of &quot;Aha!&quot; moments. He talks about reverse mullets and how that relates to design: party in the front, business in the back. C&#39;mon now, that&#39;s hilarious.
+&lt;p&gt;Aarron&#39;s writing style is witty and humorous in all the right places and he is able to explain complex design theory in terms that are understandable and easily applicable. I found myself laughing quite a few times and having lots of &quot;Aha!&quot; moments. He talks about reverse mullets and how that relates to design: party in the front, business in the back. C&#39;mon now, that&#39;s hilarious.&lt;/p&gt;
 
-It&#39;s truly amazing how Aarron not only is able to communicate excellently on these principles but, also putting them into practice in the book itself. The book is designed for emotional response, engaging you every step of the way and urging you to read more.
+&lt;p&gt;It&#39;s truly amazing how Aarron not only is able to communicate excellently on these principles but, also putting them into practice in the book itself. The book is designed for emotional response, engaging you every step of the way and urging you to read more.&lt;/p&gt;
 
-I want to extend a personal thank you to Aarron. Thank you for writing this book and thank you for helping me do my job better. I owe him much more than what I paid for this book. If you haven&#39;t already, do yourself a favor and pick up a copy.
+&lt;p&gt;I want to extend a personal thank you to Aarron. Thank you for writing this book and thank you for helping me do my job better. I owe him much more than what I paid for this book. If you haven&#39;t already, do yourself a favor and pick up a copy.&lt;/p&gt;
 
-&lt;a class=&quot;button&quot; href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot; target=&quot;_blank&quot;&gt;Buy the Book&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.abookapart.com/products/designing-for-emotion&quot; target=&quot;_blank&quot;&gt;Buy the Book&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -3253,67 +3195,68 @@ I want to extend a personal thank you to Aarron. Thank you for writing this book
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">Every once in a while, I get asked for app recommendations. I love giving these type of recommendations and if you follow me on twitter, you&#39;ll notice that I often ask for them too. Finding and using new apps is fun for me and I&#39;m always looking for better and simpler ways of doing things. With that said, I thought I&#39;d publish a list of some of my favorite apps in the hope of helping out some new Mac owners or point you to something you didn&#39;t know about before. You&#39;ll notice that the title of the post is &quot;Mac Edition&quot; which hints at a series!
+    <content type="html">&lt;p&gt;Every once in a while, I get asked for app recommendations. I love giving these type of recommendations and if you follow me on twitter, you&#39;ll notice that I often ask for them too. Finding and using new apps is fun for me and I&#39;m always looking for better and simpler ways of doing things. With that said, I thought I&#39;d publish a list of some of my favorite apps in the hope of helping out some new Mac owners or point you to something you didn&#39;t know about before. You&#39;ll notice that the title of the post is &quot;Mac Edition&quot; which hints at a series!&lt;/p&gt;
 
-Just as a side note, these apps are in no particular order. I use most of these everyday and would be at a total loss without them (which is sad). Also, I&#39;m not using any affliate links and I wasn&#39;t paid to talk about any of these apps.
+&lt;p&gt;Just as a side note, these apps are in no particular order. I use most of these everyday and would be at a total loss without them (which is sad). Also, I&#39;m not using any affliate links and I wasn&#39;t paid to talk about any of these apps.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://smilesoftware.com/TextExpander/&quot; target=&quot;_blank&quot;&gt;Text Expander&lt;/a&gt;&lt;/h3&gt;
-If you don&#39;t have Text Expander, you really need to get on this bandwagon. It&#39;s an amazing app that saves me so much time everyday. I&#39;ve programmed snippets that I use on a daily basis like my different email signatures, code snippets, my phone number, resume, etc. I save about an hour and a half of typing everyday; to me that&#39;s enough to make it&#39;s price of $34.95 worth it.
+&lt;p&gt;If you don&#39;t have Text Expander, you really need to get on this bandwagon. It&#39;s an amazing app that saves me so much time everyday. I&#39;ve programmed snippets that I use on a daily basis like my different email signatures, code snippets, my phone number, resume, etc. I save about an hour and a half of typing everyday; to me that&#39;s enough to make it&#39;s price of $34.95 worth it.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://www.rdio.com/&quot; target=&quot;_blank&quot;&gt;Rdio&lt;/a&gt;&lt;/h3&gt;
-I was a little late to this party but, Wow! I&#39;m loving it. I just bought my subscription the other day and have found it extremely useful. I am at my desk most of the day and like any normal person, I love music. I&#39;ve found most or all of my favorite music and the stream is excellent. I love it because, there&#39;s always new music, playlists or friends stations that I can listen to. Also, iTunes is so bloated these days and it always runs super slow on my machine. Great alternative and beautiful UI.
+&lt;p&gt;I was a little late to this party but, Wow! I&#39;m loving it. I just bought my subscription the other day and have found it extremely useful. I am at my desk most of the day and like any normal person, I love music. I&#39;ve found most or all of my favorite music and the stream is excellent. I love it because, there&#39;s always new music, playlists or friends stations that I can listen to. Also, iTunes is so bloated these days and it always runs super slow on my machine. Great alternative and beautiful UI.&lt;/p&gt;
 
-&lt;h3&gt;&lt;a href=&quot;http://macromates.com/ target=&quot;_blank&quot;&gt;TextMate&lt;/a&gt;&lt;/h3&gt;
-I was using Smultron in my amateur days and as I look back, I don&#39;t know how I ever made do with it. I love TextMate. The themes that are included are great and it&#39;s features are very useful. I&#39;m no expert and I&#39;m learning new features of the app all the time but, the one I have discovered like, bundles, line collapse and others have made this app just amazing to use. The great thing is, you can add more functionality too! If you&#39;re writing SCSS, you can find extentions to properly color the code. 
+&lt;h3&gt;&lt;a href=&quot;http://macromates.com/&quot; target=&quot;_blank&quot;&gt;TextMate&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I was using Smultron in my amateur days and as I look back, I don&#39;t know how I ever made do with it. I love TextMate. The themes that are included are great and it&#39;s features are very useful. I&#39;m no expert and I&#39;m learning new features of the app all the time but, the one I have discovered like, bundles, line collapse and others have made this app just amazing to use. The great thing is, you can add more functionality too! If you&#39;re writing SCSS, you can find extentions to properly color the code.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://www.iawriter.com/&quot; target=&quot;_blank&quot;&gt;iA Writer&lt;/a&gt;&lt;/h3&gt;
-Absolutely love this app. I wrote this post in iA Writer. It&#39;s such a beautiful app with such a simple interface; it&#39;s hard not to like it. I do have to credit &lt;a href=&quot;http://adellecharles.com/&quot; target=&quot;_blank&quot;&gt;Adelle&lt;/a&gt; for pointing me to this app and I&#39;m glad she did. What I love about it is the seamless integration with iCloud. I can be working on a document on my Mac and then move to the couch and work on it from my iPad. Also, no formatting! The truth is, formatting takes up time and space and you don&#39;t need it to write. Writer does this excellently.
+&lt;p&gt;Absolutely love this app. I wrote this post in iA Writer. It&#39;s such a beautiful app with such a simple interface; it&#39;s hard not to like it. I do have to credit &lt;a href=&quot;http://adellecharles.com/&quot; target=&quot;_blank&quot;&gt;Adelle&lt;/a&gt; for pointing me to this app and I&#39;m glad she did. What I love about it is the seamless integration with iCloud. I can be working on a document on my Mac and then move to the couch and work on it from my iPad. Also, no formatting! The truth is, formatting takes up time and space and you don&#39;t need it to write. Writer does this excellently.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://sparrowmailapp.com/&quot; target=&quot;_blank&quot;&gt;Sparrow&lt;/a&gt;&lt;/h3&gt;
-This is actually a new app I just got into. I had heard such great things about it for a while. However, I didn&#39;t have my email set up with Google so, I hadn&#39;t moved over. What a mistake! I was using Postbox and although I was a loyal user for about two years, their app is a bit bloated and slows down my machine quite a bit. I run four different email accounts and not being able to switch between these effortlessly through out the day is a big downer. I&#39;m now proud to say I&#39;m using Sparrow and I love it. Beautiful UI, you can feel the attention to detail and very lightweight.
+&lt;p&gt;This is actually a new app I just got into. I had heard such great things about it for a while. However, I didn&#39;t have my email set up with Google so, I hadn&#39;t moved over. What a mistake! I was using Postbox and although I was a loyal user for about two years, their app is a bit bloated and slows down my machine quite a bit. I run four different email accounts and not being able to switch between these effortlessly through out the day is a big downer. I&#39;m now proud to say I&#39;m using Sparrow and I love it. Beautiful UI, you can feel the attention to detail and very lightweight.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://reederapp.com/mac/&quot; target=&quot;_blank&quot;&gt;Reeder&lt;/a&gt;&lt;/h3&gt;
-For the longest time, I was using my email to receive RSS feeds. Big mistake. Not only did it clutter my inbox but, I would tend to delete articles in an effort of bringing my inbox to zero. It was an absolute mess and I wasn&#39;t reading like I would want to. Reeder is an excellent solution for me. I&#39;ve added all or most of my feeds over to Reeder and now enjoy some reading before starting the work day. It&#39;s integration with Readability make the app that more useful. I can go through the day and bookmark an article in Readability knowing that it&#39;ll be there, waiting for me in Reeder. 
+&lt;p&gt;For the longest time, I was using my email to receive RSS feeds. Big mistake. Not only did it clutter my inbox but, I would tend to delete articles in an effort of bringing my inbox to zero. It was an absolute mess and I wasn&#39;t reading like I would want to. Reeder is an excellent solution for me. I&#39;ve added all or most of my feeds over to Reeder and now enjoy some reading before starting the work day. It&#39;s integration with Readability make the app that more useful. I can go through the day and bookmark an article in Readability knowing that it&#39;ll be there, waiting for me in Reeder.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://www.getharvest.com/mac&quot; target=&quot;_blank&quot;&gt;Harvest&lt;/a&gt;&lt;/h3&gt;
-Every contractor needs this. Actually, even if you&#39;re not a contractor, you need this. Harvest is actually a web app but, since I use the Mac App, I&#39;ll include it into this list. Harvest has simplified my life in so many ways. I can keep track of my time, easily sumbit invoices and provide estimates and it keeps track of my monthly and yearly earnings, making tax time that much easier. 
+&lt;p&gt;Every contractor needs this. Actually, even if you&#39;re not a contractor, you need this. Harvest is actually a web app but, since I use the Mac App, I&#39;ll include it into this list. Harvest has simplified my life in so many ways. I can keep track of my time, easily sumbit invoices and provide estimates and it keeps track of my monthly and yearly earnings, making tax time that much easier.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://getcloudapp.com/&quot; target=&quot;_blank&quot;&gt;Cloud App&lt;/a&gt;&lt;/h3&gt;
-This app is amazing! I use this everyday. Yet, I believe I only use half of it&#39;s great features. I use it&#39;s Photoshop and Chrome raindrops the most. Through out the day, I&#39;ll be working on a comp and can easily upload my work and send it for feedback. Not to mention, it&#39;s a great way for me to see the progress I make on a certain interface. Also, when I go to share useful links on Twitter, I use CloudApp to shorten them. It also has Sparrow integration, allowing me to send lightweight emails with attachments in the cloud. 
+&lt;p&gt;This app is amazing! I use this everyday. Yet, I believe I only use half of it&#39;s great features. I use it&#39;s Photoshop and Chrome raindrops the most. Through out the day, I&#39;ll be working on a comp and can easily upload my work and send it for feedback. Not to mention, it&#39;s a great way for me to see the progress I make on a certain interface. Also, when I go to share useful links on Twitter, I use CloudApp to shorten them. It also has Sparrow integration, allowing me to send lightweight emails with attachments in the cloud.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://rogueamoeba.com/audiohijackpro/&quot; target=&quot;_blank&quot;&gt;Audio Hijack Pro&lt;/a&gt;&lt;/h3&gt;
-Let&#39;s make it clear from the beginning, I love this app because of the functionality not because of the design. If you have a better alternative, please let me know. It&#39;s a great app though. I use it to record the audio from Skype which is really useful when recording episodes for the podcasts I host. You can record any audio really. However, my critique about this app is it&#39;s usability. It was a bit difficult to figure out how to use the first time but, thanks to &lt;a href=&quot;http://nikibrown.com/&quot; target=&quot;_blank&quot;&gt;Niki&lt;/a&gt;, I was able to set up a bit quicker.
+&lt;p&gt;Let&#39;s make it clear from the beginning, I love this app because of the functionality not because of the design. If you have a better alternative, please let me know. It&#39;s a great app though. I use it to record the audio from Skype which is really useful when recording episodes for the podcasts I host. You can record any audio really. However, my critique about this app is it&#39;s usability. It was a bit difficult to figure out how to use the first time but, thanks to &lt;a href=&quot;http://nikibrown.com/&quot; target=&quot;_blank&quot;&gt;Niki&lt;/a&gt;, I was able to set up a bit quicker.&lt;/p&gt;
 
 &lt;h3&gt;&lt;a href=&quot;http://www.mamp.info/en/index.html&quot; target=&quot;_blank&quot;&gt;MAMP&lt;/a&gt;&lt;/h3&gt;
-Last but definitely not least, MAMP. If you&#39;re writing PHP or developing Wordpress themes, you need this. Setting up is quite easy but, if you need some help, &lt;a href=&quot;http://css-tricks.com/video-screencasts/86-mamp/&quot; target=&quot;_blank&quot;&gt;watch this great video&lt;/a&gt; by Chris Coyier. I always love the way he teaches, it&#39;s so personal. Love that. I owe him for a lot of the things I know now. Anyway, this isn&#39;t about Chris, it&#39;s about MAMP. It&#39;s a great app that will allow you to work locally which is good practice. I know most of us will work directly on the server and refresh but, you&#39;ll notice quickly this isn&#39;t the right way of doing things when you break everything because of an incorrectly placed &quot;=&quot; sign. Work locally with MAMP and then push up to your server. A lot easier and faster.
+&lt;p&gt;Last but definitely not least, MAMP. If you&#39;re writing PHP or developing Wordpress themes, you need this. Setting up is quite easy but, if you need some help, &lt;a href=&quot;http://css-tricks.com/video-screencasts/86-mamp/&quot; target=&quot;_blank&quot;&gt;watch this great video&lt;/a&gt; by Chris Coyier. I always love the way he teaches, it&#39;s so personal. Love that. I owe him for a lot of the things I know now. Anyway, this isn&#39;t about Chris, it&#39;s about MAMP. It&#39;s a great app that will allow you to work locally which is good practice. I know most of us will work directly on the server and refresh but, you&#39;ll notice quickly this isn&#39;t the right way of doing things when you break everything because of an incorrectly placed &quot;=&quot; sign. Work locally with MAMP and then push up to your server. A lot easier and faster.&lt;/p&gt;
 
-And that&#39;s my list of apps I love! If you have any recommendations or suggestions of better apps, let me know! I&#39;d love to hear about them!
-</content>
+&lt;p&gt;And that&#39;s my list of apps I love! If you have any recommendations or suggestions of better apps, let me know! I&#39;d love to hear about them!&lt;/p&gt;</content>
   </entry>
   
   <entry>
     <id>http://ttimsmith.github.com/articles/here-the-latest</id>
     <link type="text/html" rel="alternate" href="http://ttimsmith.github.com/articles/here-the-latest"/>
-    <title>Here's the Latest</title>
+    <title>Here’s the Latest</title>
     <published>2012-01-30T00:00:00-06:00</published>
     <updated>2012-01-30T00:00:00-06:00</updated>
     <author>
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">This Saturday, I finally decided it was time to get serious about my sites and actually host them somewhere reliable. I&#39;m happy to say that my three awesome sites (&lt;a href=&quot;http://laughifyouwanttoo.com&quot; target=&quot;_blank&quot;&gt;Laugh If You Want Too&lt;/a&gt;, &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt; and this one) are now hosted with the very trust worthy &lt;a href=&quot;http://mediatemple.net/&quot; target=&quot;_blank&quot;&gt;Media Temple&lt;/a&gt;. I&#39;m not getting paid for advertising them, I&#39;ve just really liked the service so far. The hosting is a major upgrade from what I had before and it&#39;s very affordable. At the time of writing this, their Grid Service is only $20/month. That&#39;s not bad, not bad at all.
+    <content type="html">&lt;p&gt;This Saturday, I finally decided it was time to get serious about my sites and actually host them somewhere reliable. I&#39;m happy to say that my three awesome sites (&lt;a href=&quot;http://laughifyouwanttoo.com&quot; target=&quot;_blank&quot;&gt;Laugh If You Want Too&lt;/a&gt;, &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt; and this one) are now hosted with the very trust worthy &lt;a href=&quot;http://mediatemple.net/&quot; target=&quot;_blank&quot;&gt;Media Temple&lt;/a&gt;. I&#39;m not getting paid for advertising them, I&#39;ve just really liked the service so far. The hosting is a major upgrade from what I had before and it&#39;s very affordable. At the time of writing this, their Grid Service is only $20/month. That&#39;s not bad, not bad at all.&lt;/p&gt;
 
-I&#39;d also like to give my sincerest thank you to Chris Coyier from CSS-Tricks for &lt;a href=&quot;http://css-tricks.com/video-screencasts/46-domains-dns-hosting-and-google-apps/&quot; target=&quot;_blank&quot;&gt;this screencast&lt;/a&gt;. He goes into detail on how to move a domain&#39;s DNS to point to Media Temple and how to setup email with Google Apps. It only took me a couple of hours to move everything and get the sites up and running. Real time saver!
+&lt;p&gt;I&#39;d also like to give my sincerest thank you to Chris Coyier from CSS-Tricks for &lt;a href=&quot;http://css-tricks.com/video-screencasts/46-domains-dns-hosting-and-google-apps/&quot; target=&quot;_blank&quot;&gt;this screencast&lt;/a&gt;. He goes into detail on how to move a domain&#39;s DNS to point to Media Temple and how to setup email with Google Apps. It only took me a couple of hours to move everything and get the sites up and running. Real time saver!&lt;/p&gt;
+
 &lt;h3&gt;I Have a Job&lt;/h3&gt;
-I&#39;m really excited to announce that I&#39;m now happily pushing pixels at &lt;a href=&quot;http://getworksimple.com&quot; target=&quot;_blank&quot;&gt;WorkSimple, Inc.&lt;/a&gt; I found them in late December via &lt;a href=&quot;http://www.authenticjobs.com/&quot; target=&quot;_blank&quot;&gt;Authentic Jobs&lt;/a&gt; and really fell in love with the company and the product. I&#39;ve been working with them a couple days shy of a month now and it&#39;s been an awesome ride. The work I&#39;ve been involved with has been really challenging and exciting and I also have the privilege of working with a great team that I&#39;m learning a lot from.
+&lt;p&gt;I&#39;m really excited to announce that I&#39;m now happily pushing pixels at &lt;a href=&quot;http://getworksimple.com&quot; target=&quot;_blank&quot;&gt;WorkSimple, Inc.&lt;/a&gt; I found them in late December via &lt;a href=&quot;http://www.authenticjobs.com/&quot; target=&quot;_blank&quot;&gt;Authentic Jobs&lt;/a&gt; and really fell in love with the company and the product. I&#39;ve been working with them a couple days shy of a month now and it&#39;s been an awesome ride. The work I&#39;ve been involved with has been really challenging and exciting and I also have the privilege of working with a great team that I&#39;m learning a lot from.&lt;/p&gt;
 
-For example, this week I&#39;m learning HAML and SCSS. If you haven&#39;t looked into it, it&#39;s revolutionary. It&#39;ll change the way you code forever. Now, I might be late to the party on this one but, I was completely geeking out the other day when &lt;a href=&quot;https://twitter.com/#!/kenearley&quot; target=&quot;_blank&quot;&gt;Ken&lt;/a&gt;, one of our front-end devs, was giving me a crash course. I owe him tons of money now for allowing me to pick his brain. I highly recommend reading &lt;a href=&quot;http://www.alistapart.com/articles/getting-started-with-sass/&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; if you&#39;re interested in Sass. I&#39;m telling you, it&#39;s absolutely revolutionary.
+&lt;p&gt;For example, this week I&#39;m learning HAML and SCSS. If you haven&#39;t looked into it, it&#39;s revolutionary. It&#39;ll change the way you code forever. Now, I might be late to the party on this one but, I was completely geeking out the other day when &lt;a href=&quot;https://twitter.com/#!/kenearley&quot; target=&quot;_blank&quot;&gt;Ken&lt;/a&gt;, one of our front-end devs, was giving me a crash course. I owe him tons of money now for allowing me to pick his brain. I highly recommend reading &lt;a href=&quot;http://www.alistapart.com/articles/getting-started-with-sass/&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt; if you&#39;re interested in Sass. I&#39;m telling you, it&#39;s absolutely revolutionary.&lt;/p&gt;
+
 &lt;h3&gt;The East Wing&lt;/h3&gt;
-People, keep an eye out for &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt;. Things are really revving up for this. I&#39;m really excited and hope you are too. At the moment we have guests lined up for Episodes 1-5 and trust me, we&#39;ll be talking to some awesome people, like &lt;a href=&quot;http://www.linkedin.com/in/benmoore&quot; target=&quot;_blank&quot;&gt;Ben Moore&lt;/a&gt;, &lt;a href=&quot;http://kennedysgarage.com/&quot; target=&quot;_blank&quot;&gt;Chris Kennedy&lt;/a&gt;, &lt;a href=&quot;http://nikibrown.com/&quot; target=&quot;_blank&quot;&gt;Niki Brown&lt;/a&gt; and &lt;a href=&quot;http://zerply.com/justinstyle/&quot; target=&quot;_blank&quot;&gt;Justin Style&lt;/a&gt;, just to name a few. It&#39;d be a real shame for you to miss out on this so, head on over to the website and sign up for our newsletter. We&#39;ll be launching February 15th so, put it in your calendars!
+&lt;p&gt;People, keep an eye out for &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt;. Things are really revving up for this. I&#39;m really excited and hope you are too. At the moment we have guests lined up for Episodes 1-5 and trust me, we&#39;ll be talking to some awesome people, like &lt;a href=&quot;http://www.linkedin.com/in/benmoore&quot; target=&quot;_blank&quot;&gt;Ben Moore&lt;/a&gt;, &lt;a href=&quot;http://kennedysgarage.com/&quot; target=&quot;_blank&quot;&gt;Chris Kennedy&lt;/a&gt;, &lt;a href=&quot;http://nikibrown.com/&quot; target=&quot;_blank&quot;&gt;Niki Brown&lt;/a&gt; and &lt;a href=&quot;http://zerply.com/justinstyle/&quot; target=&quot;_blank&quot;&gt;Justin Style&lt;/a&gt;, just to name a few. It&#39;d be a real shame for you to miss out on this so, head on over to the website and sign up for our newsletter. We&#39;ll be launching February 15th so, put it in your calendars!&lt;/p&gt;
 
-If you&#39;re interested on being on the show and you&#39;re working on an interesting product or project, email us at &lt;a href=&quot;mailto:hello@theeastwing.net&quot;&gt;hello@theeastwing.net&lt;/a&gt; and I promise to respond as soon as possible.
+&lt;p&gt;If you&#39;re interested on being on the show and you&#39;re working on an interesting product or project, email us at &lt;a href=&quot;mailto:hello@theeastwing.net&quot;&gt;hello@theeastwing.net&lt;/a&gt; and I promise to respond as soon as possible.&lt;/p&gt;
 
-As always, thank you for reading and if you have thoughts you&#39;d like to share, give me a shout on &lt;a href=&quot;http://twitter.com/timothybsmith&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;.
+&lt;p&gt;As always, thank you for reading and if you have thoughts you&#39;d like to share, give me a shout on &lt;a href=&quot;http://twitter.com/timothybsmith&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   
@@ -3327,35 +3270,25 @@ As always, thank you for reading and if you have thoughts you&#39;d like to shar
       <name>Your Name</name>
       <uri>http://ttimsmith.github.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;So, I\&#39;ve got a brand new site... again. It almost seems that I\&#39;m redesigning this crap too much. But, the truth is, there are always better ways to solve problems and I strive to do that with all of my work, even my personal stuff. With that said, the site I had up before honestly looked a bit amateurish. I don\&#39;t know what I was thinking. I mean, it did only take about two hours to design and code it up so, that might explain things a bit. Either way, moving forward, there were a couple of things I wanted to get better at.&lt;/p&gt;
+    <content type="html">&lt;p&gt;So, I’ve got a brand new site... again. It almost seems that I’m redesigning this crap too much. But, the truth is, there are always better ways to solve problems and I strive to do that with all of my work, even my personal stuff. With that said, the site I had up before honestly looked a bit amateurish. I don’t know what I was thinking. I mean, it did only take about two hours to design and code it up so, that might explain things a bit. Either way, moving forward, there were a couple of things I wanted to get better at.&lt;/p&gt;
 
 &lt;h3&gt;My Work&lt;/h3&gt;
 
-&lt;p&gt;Unfortunately, a lot of work that I\&#39;ve done is restricted by NDA\&#39;s and that\&#39;s all great when you\&#39;re working on these exciting projects but, when it comes time to display them, it\&#39;s horrible. Therefore, at the moment I can only show snippets of my work for which &lt;a href=\&quot;http://dribbble.com/timothybsmith\&quot; target=\&quot;_blank\&quot;&gt;Dribbble&lt;/a&gt; has been super useful. For now, that won\&#39;t change. But the truth is though, my design isn\&#39;t the only thing I\&#39;m working on at the moment. I have a pretty cool podcast called &lt;a href=\&quot;http://laughifyouwanttoo.com\&quot; target=\&quot;_blank\&quot;&gt;Laugh If You Want Too&lt;/a&gt; and a soon to be podcast called &lt;a href=\&quot;http://theeastwing.net\&quot; target=\&quot;_blank\&quot;&gt;The East Wing&lt;/a&gt; which is going to be awesome.&lt;/p&gt;
+&lt;p&gt;Unfortunately, a lot of work that I’ve done is restricted by NDA’s and that’s all great when you’re working on these exciting projects but, when it comes time to display them, it’s horrible. Therefore, at the moment I can only show snippets of my work for which &lt;a href=&quot;http://dribbble.com/timothybsmith&quot; target=&quot;_blank&quot;&gt;Dribbble&lt;/a&gt; has been super useful. For now, that won’t change. But the truth is though, my design isn’t the only thing I’m working on at the moment. I have a pretty cool podcast called &lt;a href=&quot;http://laughifyouwanttoo.com&quot; target=&quot;_blank&quot;&gt;Laugh If You Want Too&lt;/a&gt; and a soon to be podcast called &lt;a href=&quot;http://theeastwing.net&quot; target=&quot;_blank&quot;&gt;The East Wing&lt;/a&gt; which is going to be awesome.&lt;/p&gt;
 
-&lt;p&gt;Having said that, I wanted this new design to give people the opportunity to see all of my stuff. I know I\&#39;m no internet celebrity but, if you\&#39;re interested, now you can find it. Which reminds me &amp;lt;rant&amp;gt;I\&#39;m no internet celebrity and I probably will never be but, why can\&#39;t people reply to tweets of us unknown peeps? I don\&#39;t get it. Maybe you\&#39;re too busy or you don\&#39;t care for the people that admire your work. Who knows. One thing is true though, if you want to talk and interact with me, I\&#39;ll always reply. To know who you are, you gotta know where you came from. &amp;lt;/rant&amp;gt;&lt;/p&gt;
+&lt;p&gt;Having said that, I wanted this new design to give people the opportunity to see all of my stuff. I know I’m no internet celebrity but, if you’re interested, now you can find it. Which reminds me &amp;lt;rant&amp;gt; I’m no internet celebrity and I probably will never be but, why can’t people reply to tweets of us unknown peeps? I don’t get it. Maybe you’re too busy or you don’t care for the people that admire your work. Who knows. One thing is true though, if you want to talk and interact with me, I’ll always reply. To know who you are, you gotta know where you came from. &amp;lt;/rant&amp;gt;&lt;/p&gt;
 
 &lt;h3&gt;Writing Again&lt;/h3&gt;
 
-&lt;p&gt;I\&#39;m happy to report that my writing juices seem to be flowing again which is why I dedicated more time to the design of this site. I want to have somewhere to pour some of my thoughts. As I grow as a designer and a person, I find it essential to share the small bits of wisdom you find along the way. Again, it may not be a lot; I still have much to learn in design and in life but, I\&#39;ll always be thankful to those that helped me when I was starting out. It\&#39;s about time I pay that forward.&lt;/p&gt;
+&lt;p&gt;I’m happy to report that my writing juices seem to be flowing again which is why I dedicated more time to the design of this site. I want to have somewhere to pour some of my thoughts. As I grow as a designer and a person, I find it essential to share the small bits of wisdom you find along the way. Again, it may not be a lot; I still have much to learn in design and in life but, I’ll always be thankful to those that helped me when I was starting out. It’s about time I pay that forward.&lt;/p&gt;
 
 &lt;h3&gt;Thank You&lt;/h3&gt;
 
-&lt;p&gt;I just want to extend a huge thank you to those whom have supported me and have been interested in the different things I do. I also want to extend a thank you to &lt;a href=\&quot;http://www.andytlr.com/\&quot; target=\&quot;_blank\&quot;&gt;Andy Taylor&lt;/a&gt;, the creator of the &lt;a href=\&quot;http://cssgrid.net/\&quot; target=\&quot;_blank\&quot;&gt;1140px CSS Grid&lt;/a&gt;; it\&#39;s the reason why making this site responsive was a cinch! Check it out if you haven\&#39;t already! Also, I big thank you to &lt;a href=\&quot;http://kennedysgarage.com/\&quot; target=\&quot;_blank\&quot;&gt;Kennedy&lt;/a&gt;, who took me out of a bind and helped me figure out how to change the color of a placeholder in a form. For those of you who don\&#39;t know:&lt;/p&gt;
+&lt;p&gt;I just want to extend a huge thank you to those whom have supported me and have been interested in the different things I do. I also want to extend a thank you to &lt;a href=&quot;http://www.andytlr.com/&quot; target=&quot;_blank&quot;&gt;Andy Taylor&lt;/a&gt;, the creator of the &lt;a href=&quot;http://cssgrid.net/&quot; target=&quot;_blank&quot;&gt;1140px CSS Grid&lt;/a&gt;; it’s the reason why making this site responsive was a cinch! Check it out if you haven’t already! Also, I big thank you to &lt;a href=&quot;http://kennedysgarage.com/&quot; target=&quot;_blank&quot;&gt;Kennedy&lt;/a&gt;, who took me out of a bind and helped me figure out how to change the color of a placeholder in a form.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=\&quot;prettyprint lang-css linenums\&quot;&gt;:-moz-placeholder { 
-  color: #bfbfbf;
-}
+&lt;p&gt;Also, you’ll notice that this blog is proudly brought to you by &lt;a href=&quot;carbonads.net&quot; target=&quot;_blank&quot;&gt;Carbon Ads&lt;/a&gt;. Adelle and her team are awesome and always on the look out for great companies for their network. Do yourself a favor and click on some of these ads. Yes, you’d be helping me make some money, but you’d be getting in some awesome products as well.&lt;/p&gt;
 
-::-webkit-input-placeholder { 
-  color: #bfbfbf;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Also, you\&#39;ll notice that this blog is proudly brought to you by &lt;a href=\&quot;carbonads.net\&quot; target=\&quot;_blank\&quot;&gt;Carbon Ads&lt;/a&gt;. Adelle and her team are awesome and always on the look out for great companies for their network. Do yourself a favor and click on some of these ads. Yes, you\&#39;d be helping me make some money, but you\&#39;d be getting in some awesome products as well.&lt;/p&gt;
-
-&lt;p&gt;As always, thank you for reading and if you have thoughts you\&#39;d like to share, give me a shout on &lt;a href=\&quot;http://twitter.com/timothybsmith\&quot; target=\&quot;_blank\&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-</content>
+&lt;p&gt;As always, thank you for reading and if you have thoughts you’d like to share, give me a shout on &lt;a href=&quot;http://twitter.com/timothybsmith&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
  
