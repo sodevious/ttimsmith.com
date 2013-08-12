@@ -64,6 +64,27 @@
             <!-- This loops through the paginated posts -->
 <div class="content__posts">
 
+  <div class="type-post format-link">
+    <article class="entry">
+      <div class="contain">   
+        
+          <p class="pubdate">August 12, 2013</p>
+          <h2>
+           <a href="https://github.com/ttimsmith/Jekyll-Post-Automaters">Jekyll Post Automaters</a><a href="/links/jekyll-post-automaters" class="link__icon" title="Link to Jekyll Post Automaters"><span class="screen-reader-hide">Link to Post</span><span data-icon="a"></span></a>
+          </h2>
+          <p>Turns out, ‘automaters’ isn’t a word. Anyway, this weekend, I <a href="/articles/moving-over-to-jekyll/">moved this blog to Jekyll</a>. I’m a sucker for making things easier, so I created some scripts and templates to automate the process of creating a new post. The original script was created by <a href="http://blog.codykrieger.com/">Cody Krieger</a>, but I made some simple modifications to make it all work with Alfred. </p>
+
+<p>As an important note, the script <strong>does not</strong> add a date to the name of the file like Jekyll wants you to. The reason for that is, I work with a <code>_drafts</code> folder, and those files aren’t supposed to have a date. I use a <a href="http://jeffreysambells.com/2013/02/01/jekyll-draft-publishing-plugin">great plugin by Jeffrey Sambells</a> which puts a date on my files when they’re ready to publish.  If you don’t want it to work that way, you just replace the <code>filename</code> variable with <code>"#{Time.now.strftime('%Y-%m-%d')}-#{title.parameterize}.md"</code> and that will create a publish-ready file.</p>
+
+<p>I’ll be creating a screencast in the next couple days that will go step-by-step on setting all this up, but in the meantime, feel free to <a href="https://twitter.com/ttimsmith">@reply</a> me on Twitter with any questions.  </p>
+
+          
+          
+      </div><!-- .contain -->
+    </article>
+   </div>
+
+
   <div class="type-post format-post">
     <article class="entry">
       <div class="contain">   
@@ -507,25 +528,6 @@ In the past, the forms on the <a href="#">Contact</a> and <a href="#">Sponsorshi
 <p>If you also need a Mac app, I’m most likely going to go with <a href="http://readkitapp.com/">ReadKit</a>. Again, integrations look great, and the customization of the reading experience is pretty awesome.</p>
 
 <p>Anyway, I hope that helps. Let me know if you’ve found alternate solutions. I’d love to hear about them. Happy reading!</p>
-
-          
-          
-      </div><!-- .contain -->
-    </article>
-   </div>
-
-
-  <div class="type-post format-link">
-    <article class="entry">
-      <div class="contain">   
-        
-          <p class="pubdate">June 28, 2013</p>
-          <h2>
-           <a href="http://www.ssktn.com/tltb/do-we-really-want-to-go-back-to-aol/">Too Lazy to Blog: Do We Really Want to go Back to AOL?</a><a href="/links/too-lazy-to-blog-25" class="link__icon" title="Link to Too Lazy to Blog: Do We Really Want to go Back to AOL?"><span class="screen-reader-hide">Link to Post</span><span data-icon="a"></span></a>
-          </h2>
-          <p>This week: Adam is away with a sick household so Tim and Chris hold down the fort and talk through 30/30, a time management app, Google Reader’s imminent death, sidebars and blog design, Discovery asking for more money and is Orphan Black the best show on TV?</p>
-
-<p>We’re taking a two week break, and we’ll be re-launching the show with an all new name, artwork, and more! Stay tuned!</p>
 
           
           

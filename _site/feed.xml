@@ -4,13 +4,31 @@
   <title>Timothy B Smith</title>
   <link href="http://ttimsmith.com/"/>
   <link type="application/atom+xml" rel="self" href="http://ttimsmith.com/feed.xml"/>
-  <updated>2013-08-11T20:37:16-05:00</updated>
+  <updated>2013-08-12T10:34:50-05:00</updated>
   <id>http://ttimsmith.com/</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://ttimsmith.com/links/jekyll-post-automaters</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/jekyll-post-automaters"/>
+    <title>Jekyll Post Automaters</title>
+    <published>2013-08-12T00:00:00-05:00</published>
+    <updated>2013-08-12T00:00:00-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Turns out, ‘automaters’ isn’t a word. Anyway, this weekend, I &lt;a href=&quot;/articles/moving-over-to-jekyll/&quot;&gt;moved this blog to Jekyll&lt;/a&gt;. I’m a sucker for making things easier, so I created some scripts and templates to automate the process of creating a new post. The original script was created by &lt;a href=&quot;http://blog.codykrieger.com/&quot;&gt;Cody Krieger&lt;/a&gt;, but I made some simple modifications to make it all work with Alfred. &lt;/p&gt;
+
+&lt;p&gt;As an important note, the script &lt;strong&gt;does not&lt;/strong&gt; add a date to the name of the file like Jekyll wants you to. The reason for that is, I work with a &lt;code&gt;_drafts&lt;/code&gt; folder, and those files aren’t supposed to have a date. I use a &lt;a href=&quot;http://jeffreysambells.com/2013/02/01/jekyll-draft-publishing-plugin&quot;&gt;great plugin by Jeffrey Sambells&lt;/a&gt; which puts a date on my files when they’re ready to publish.  If you don’t want it to work that way, you just replace the &lt;code&gt;filename&lt;/code&gt; variable with &lt;code&gt;&quot;#{Time.now.strftime(&#39;%Y-%m-%d&#39;)}-#{title.parameterize}.md&quot;&lt;/code&gt; and that will create a publish-ready file.&lt;/p&gt;
+
+&lt;p&gt;I’ll be creating a screencast in the next couple days that will go step-by-step on setting all this up, but in the meantime, feel free to &lt;a href=&quot;https://twitter.com/ttimsmith&quot;&gt;@reply&lt;/a&gt; me on Twitter with any questions.  &lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://ttimsmith.com/articles/moving-over-to-jekyll</id>
