@@ -106,7 +106,7 @@ TEXT
     font-weight: bold;
   }
   @media screen and (max-width: 700px ) {
-    p, h2, h3, p.pubdate, blockquote {
+    p, h2, h3, p.pubdate, blockquote, .page-title {
       margin-left: 0 !important;
     }
   }
