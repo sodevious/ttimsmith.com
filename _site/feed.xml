@@ -4,13 +4,33 @@
   <title>Timothy B Smith</title>
   <link href="http://ttimsmith.com/"/>
   <link type="application/atom+xml" rel="self" href="http://ttimsmith.com/feed.xml"/>
-  <updated>2013-08-12T12:20:38-05:00</updated>
+  <updated>2013-08-12T14:32:17-05:00</updated>
   <id>http://ttimsmith.com/</id>
   <author>
     <name>Tim Smith</name>
     <email>smith@ttimsmith.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://ttimsmith.com/links/no-one-likes-a-soggy-sandwich</id>
+    <link type="text/html" rel="alternate" href="http://ttimsmith.com/links/no-one-likes-a-soggy-sandwich"/>
+    <title>No One Likes a Soggy Sandwich</title>
+    <published>2013-08-12T14:30:17-05:00</published>
+    <updated>2013-08-12T14:30:17-05:00</updated>
+    <author>
+      <name>Tim Smith</name>
+      <uri>http://ttimsmith.com/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;There’s an ocean of fine-looking UIs on Dribbble that fall apart faster than a soggy sandwich when you really get down to the UX.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Justin is just on a roll. His latests blog posts hit the nail right on the head, and this one is no different.&lt;/p&gt;
+
+&lt;p&gt;This all comes down to one question: as designers, will we let our profession become mere decoration? As Justin points out, unsolicited redesigns, and pretty user interfaces, are a dime a dozen. You and I can aspire to something better.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://ttimsmith.com/links/on-hearing-from-new-people</id>
