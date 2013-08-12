@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Hearing From New People
+title: On Hearing from New People
 categories: links
 custom_type: link
 custom_url: http://everydaydesigner.net/hot-topics/the-power-to-change-is-in-your-hands
