@@ -3,5 +3,5 @@ markdown: kramdown
 pygments: true
 permalink: /:categories/:title
 paginate: 20
-exclude: ['scss']
+exclude: ['scss', 'README.md']
 include: ['.htaccess']
